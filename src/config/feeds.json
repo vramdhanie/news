@@ -1,0 +1,100 @@
+{
+  "categories": {
+    "world": {
+      "label": "World",
+      "color": "#5B93A6"
+    },
+    "science": {
+      "label": "Science",
+      "color": "#7C9F35"
+    },
+    "technology": {
+      "label": "Technology",
+      "color": "#8B5CF6"
+    },
+    "ai": {
+      "label": "AI",
+      "color": "#D97706"
+    },
+    "bayarea": {
+      "label": "SF Bay Area",
+      "color": "#DC6B4A"
+    },
+    "tt": {
+      "label": "Trinidad & Tobago",
+      "color": "#C0344B"
+    }
+  },
+  "feeds": [
+    {
+      "category": "world",
+      "name": "BBC World",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml"
+    },
+    {
+      "category": "world",
+      "name": "NPR World",
+      "url": "https://feeds.npr.org/1004/rss.xml"
+    },
+    {
+      "category": "science",
+      "name": "ScienceDaily",
+      "url": "https://www.sciencedaily.com/rss/top/science.xml"
+    },
+    {
+      "category": "science",
+      "name": "NASA",
+      "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss"
+    },
+    {
+      "category": "science",
+      "name": "Quanta Magazine",
+      "url": "https://www.quantamagazine.org/feed/"
+    },
+    {
+      "category": "technology",
+      "name": "Ars Technica",
+      "url": "https://feeds.arstechnica.com/arstechnica/index"
+    },
+    {
+      "category": "technology",
+      "name": "Hacker News",
+      "url": "https://news.ycombinator.com/rss"
+    },
+    {
+      "category": "technology",
+      "name": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/feed/"
+    },
+    {
+      "category": "ai",
+      "name": "Google News: AI",
+      "url": "https://news.google.com/rss/search?q=artificial+intelligence&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "category": "bayarea",
+      "name": "KQED News",
+      "url": "https://ww2.kqed.org/news/feed/"
+    },
+    {
+      "category": "bayarea",
+      "name": "Google News: Bay Area",
+      "url": "https://news.google.com/rss/headlines/section/geo/San%20Francisco%20Bay%20Area?hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "category": "tt",
+      "name": "Google News: Trinidad & Tobago",
+      "url": "https://news.google.com/rss/search?q=%22Trinidad+and+Tobago%22&hl=en-TT&gl=TT&ceid=TT:en"
+    },
+    {
+      "category": "tt",
+      "name": "CNC3",
+      "url": "https://www.cnc3.co.tt/feed/"
+    },
+    {
+      "category": "tt",
+      "name": "Trinidad Express",
+      "url": "https://trinidadexpress.com/search/?f=rss&t=article&l=15"
+    }
+  ]
+}
