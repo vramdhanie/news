@@ -2,10 +2,11 @@ name: Deploy
 
 on:
   push:
-    # main = code changes; data = the Claude routine's refreshed news
-    # (its push is authenticated as an app, not GITHUB_TOKEN, so it does
-    # fire this trigger).
-    branches: [main, data]
+    branches: [main]
+  # Data refreshes arrive as a workflow_dispatch on main, bridged from
+  # data-branch pushes by redeploy-on-data.yml — deploying directly off
+  # the data branch is blocked by the github-pages environment's
+  # deployment-branch policy (main only).
   workflow_dispatch:
 
 permissions:
