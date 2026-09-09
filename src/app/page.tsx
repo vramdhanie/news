@@ -4,14 +4,27 @@ import { useEffect, useState } from "react";
 
 import config from "@/config/feeds.json";
 
+interface NewsSource {
+  name: string;
+  url: string;
+}
+
 interface NewsItem {
   id: number;
   title: string;
-  url: string;
-  source: string;
   category: string;
   publishedAt: string;
   summary: string;
+  /** Consolidated stories carry sources[]; raw feed items carry url+source. */
+  sources?: NewsSource[];
+  url?: string;
+  source?: string;
+}
+
+function itemSources(item: NewsItem): NewsSource[] {
+  if (item.sources && item.sources.length > 0) return item.sources;
+  if (item.url) return [{ name: item.source ?? "source", url: item.url }];
+  return [];
 }
 
 interface NewsFile {
@@ -99,6 +112,7 @@ export default function Home() {
             const heading = dayHeading(item.publishedAt);
             const showHeading =
               i === 0 || dayHeading(data.items[i - 1].publishedAt) !== heading;
+            const sources = itemSources(item);
             return (
               <li key={item.id}>
                 {showHeading && (
@@ -109,12 +123,10 @@ export default function Home() {
                 <article className="group py-3">
                   <div className="mb-1 flex flex-wrap items-center gap-2 text-xs text-neutral-500">
                     <Tag category={item.category} />
-                    <span>{item.source}</span>
-                    <span aria-hidden>·</span>
                     <time dateTime={item.publishedAt}>{relativeTime(item.publishedAt)}</time>
                   </div>
                   <a
-                    href={item.url}
+                    href={sources[0]?.url}
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-[17px] font-medium leading-snug text-neutral-100 underline-offset-2 hover:underline"
@@ -124,6 +136,23 @@ export default function Home() {
                   {item.summary && (
                     <p className="mt-1 max-w-prose text-sm leading-relaxed text-neutral-400">
                       {item.summary}
+                    </p>
+                  )}
+                  {sources.length > 0 && (
+                    <p className="mt-1 text-xs text-neutral-500">
+                      {sources.map((s, j) => (
+                        <span key={s.url}>
+                          {j > 0 && <span aria-hidden> · </span>}
+                          <a
+                            href={s.url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="underline-offset-2 hover:text-neutral-300 hover:underline"
+                          >
+                            {s.name}
+                          </a>
+                        </span>
+                      ))}
                     </p>
                   )}
                 </article>

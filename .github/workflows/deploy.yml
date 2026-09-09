@@ -2,14 +2,11 @@ name: Deploy
 
 on:
   push:
-    branches: [main]
+    # main = code changes; data = the Claude routine's refreshed news
+    # (its push is authenticated as an app, not GITHUB_TOKEN, so it does
+    # fire this trigger).
+    branches: [main, data]
   workflow_dispatch:
-  # Redeploy after each successful news refresh (the fetch bot's
-  # GITHUB_TOKEN push can't fire the push trigger).
-  workflow_run:
-    workflows: ["Fetch news"]
-    types: [completed]
-    branches: [main]
 
 permissions:
   contents: read
@@ -22,14 +19,15 @@ concurrency:
 
 jobs:
   build-and-deploy:
-    # For workflow_run triggers, only deploy after a successful fetch.
-    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+      # Always build the code from main, whichever branch triggered us.
       - uses: actions/checkout@v4
+        with:
+          ref: main
 
       - name: Overlay latest news data from the data branch
         run: |

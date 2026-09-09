@@ -1,7 +1,6 @@
 # News
 
 [![Deploy](https://img.shields.io/github/actions/workflow/status/vramdhanie/news/deploy.yml?branch=main&label=deploy&logo=github)](https://github.com/vramdhanie/news/actions/workflows/deploy.yml)
-[![Fetch news](https://img.shields.io/github/actions/workflow/status/vramdhanie/news/fetch-news.yml?branch=main&label=news&logo=github)](https://github.com/vramdhanie/news/actions/workflows/fetch-news.yml)
 [![License: MIT](https://img.shields.io/github/license/vramdhanie/news?color=green)](LICENSE)
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?logo=nextdotjs)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org)
@@ -15,16 +14,16 @@ Live at [news.vincentramdhanie.com](https://news.vincentramdhanie.com).
 
 ## How it works
 
-- **Fetch news** (`fetch-news.yml`) runs every 3 hours: it pulls the RSS/Atom
-  feeds listed in [`src/config/feeds.json`](src/config/feeds.json) with a
-  dependency-free parser, normalizes and deduplicates the items, drops
-  opinion/editorial/analysis pieces by URL and title patterns, and writes a
-  single `public/data/news.json`. The result is force-pushed to a `data`
-  branch (always one commit ahead of `main`) so eight refreshes a day never
-  pollute main's history.
-- **Deploy** (`deploy.yml`) checks out `main`, overlays `public/data` from the
-  `data` branch, builds the static export, and publishes to GitHub Pages.
-  Runs on push, on demand, and after each successful fetch.
+- A **Claude routine** (scheduled cloud agent, 9 am / 2 pm / 6 pm PT) runs
+  `scripts/fetch-news.mjs` to pull the RSS/Atom feeds listed in
+  [`src/config/feeds.json`](src/config/feeds.json), then edits the result:
+  it consolidates items covering the same story (multiple sources per item),
+  writes a concise factual summary of each story's main points, and drops
+  items with no news value. The finished `public/data/news.json` is
+  force-pushed to a `data` branch (always one commit ahead of `main`).
+- **Deploy** (`deploy.yml`) fires on pushes to `main` or `data`: it checks
+  out `main`, overlays `public/data` from the `data` branch, builds the
+  static export, and publishes to GitHub Pages.
 
 The browser only reads the static JSON. Headlines link out to their original
 sources — nothing is republished.
@@ -60,6 +59,6 @@ npm run dev
 3. DNS: CNAME record `news` → `vramdhanie.github.io`.
 4. No secrets required — the feeds are all keyless.
 
-> Scheduled workflows on public repos are disabled by GitHub after 60 days
-> without repository activity; the fetch runs commit only to the `data`
-> branch, which counts as activity.
+Consolidated items carry a `sources` array (`{name, url}` per outlet); the
+UI also renders the raw single-source shape the fetch script emits, so a
+plain `npm run fetch-news` output still displays.
