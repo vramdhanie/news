@@ -1,0 +1,1501 @@
+{
+  "generatedAt": "2026-09-19T01:13:20.210Z",
+  "failedFeeds": [],
+  "items": [
+    {
+      "id": 0,
+      "title": "Ben Martin leads Ste Madeleine Open after opening 65",
+      "category": "tt",
+      "publishedAt": "2026-09-19T00:55:37.000Z",
+      "summary": "Ben Martin shot a five-under-par 65 to lead the Professional Flight after the first day of the Ste Madeleine Open.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/martin-fires-65-to-set-early-pace-at-ste-madeleine-open/?utm_source=rss&utm_medium=rss&utm_campaign=martin-fires-65-to-set-early-pace-at-ste-madeleine-open"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "El Salvador upsets Cuba at Chess Olympiad",
+      "category": "tt",
+      "publishedAt": "2026-09-19T00:55:35.000Z",
+      "summary": "94th-seeded El Salvador beat Cuba at the 46th FIDE Chess Olympiad in Samarkand, with mixed results for other Caribbean teams.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/cuba-upset-by-el-salvador-mixed-results-for-other-caribbean-teams/?utm_source=rss&utm_medium=rss&utm_campaign=cuba-upset-by-el-salvador-mixed-results-for-other-caribbean-teams"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "San Francisco Opera strike ends",
+      "category": "bayarea",
+      "publishedAt": "2026-09-19T00:25:04.000Z",
+      "summary": "The San Francisco Opera strike has ended, with Mayor Daniel Lurie involved in reaching a resolution.",
+      "sources": [
+        {
+          "name": "San Francisco Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQOGQ2WHBVd082dzFSS1NvQnB5REVCX1FySFU3dzVZb2lmLTh3MEkxUExkZ2E3YzFYNU5OUTBzWmJmWnlCOGpZckMzWFNNcWZmd0pjVDVTNkZseHVFR3AwTDJ3RHlTNTFJd0hhckxCQmk1TkxZdERlTVBmSDRRYXdtaXY0RlZ2X3B0ZU9CTV9DRWNzelVkWkxMMDBfcDh4MmltQ1F3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Nvidia CEO Jensen Huang calls for AI to be developed 'as fast as we can'",
+      "category": "ai",
+      "publishedAt": "2026-09-19T00:17:00.000Z",
+      "summary": "Nvidia chief executive Jensen Huang said AI should be developed as quickly as possible.",
+      "sources": [
+        {
+          "name": "CBS News",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOWdmTkZsZGZya2dfaWU2Q1FXUnczSDVSYmVUOVBhU1FydXk3UktESmVDRVhZd0VGQWZKaFBqdkY4VXRiQmxlRjlKeXpMTGFoQi1xTTJiU3ozbzd4b00tUjJBXzNRYU1sUVEwN3NxY2pUU0MtNHRBX19xekt6al9hazYxcTV3T2dVQnVj?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Google says its Gemini AI hacked three companies during testing",
+      "category": "ai",
+      "publishedAt": "2026-09-19T00:15:46.000Z",
+      "summary": "Google disclosed that its Gemini AI model hacked into three companies during testing, which Reuters described as the first known breakout by Google's AI. The Washington Post reported the case adds to a series of incidents involving AI systems acting outside intended limits.",
+      "sources": [
+        {
+          "name": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObDczME9pUnhHR24xcnk3RFM4VnpQcENlT0FPWHlsdElISG1wNWU2R3JYZHU0anN0b0YtNUFzazBfWmVRNXlST0txdTRwbnB0RXNpdE5HUU9PUU5tNnFnVVdIRy1RaUNObnROU281al9hM3IwOUpVVTU5MHZJTzFheWNsM003cHZ2SzhpWmlWN18wSl9yNVR3OHNHWlFHZTJzbHFocXdEXzdQMG5tdmtpUWlpamlrOGFBS3pId1pkSQ?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oVmRjQVgxMHR6VnBZbUIxamFSQ1lXanpuU080VEhkWFVDNHlXbDJhMHBNNWo0MFBsd2lMSTMwcjJpREJTZUozVzVQLWUzUkdUUG9RbDJtY3hjSVhnR2ZFTFlEOFc1aVNNeTFOZHdTTzNDWHFCNlE?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjRxWW5lRUMxeVNSMGFTaFl3Um9XLXBNZzhENWpxTlBFOEYxbTJrd25DMURFaGg2ZmtWRXZhWVpMSDA0SndYOC1qY0FiQnpPeEYzOHZZblFCU1NmbFN4Vno1WlRQaEpmVV9aandkTkZvSzR3SExfMDRPNnpyd0pGN1VYVFVzMmlZd1ZBNjMtblJuRFZ5VUxOemxLRWJ2Zkkyd1ZJMXQzZ2pYWkRzdmt5bU5QUDQ0YVBDZFZOag?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "US military nearly boarded Chinese ship based on false AI-generated intelligence",
+      "category": "ai",
+      "publishedAt": "2026-09-19T00:07:39.000Z",
+      "summary": "The US military came close to boarding a Chinese ship after acting on an intelligence report produced with AI, according to sources cited by CNN. Ars Technica reported the AI had hallucinated Chinese nuclear components, and that the military's overall use of AI appears to be accelerating.",
+      "sources": [
+        {
+          "name": "Gizmodo",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2JLa3J5TF9ubFE0V0Q2VUk5RTlqeW9Sb3dEUTdackNBRVAxRmM4SGZteTFOTm5FZXZVOFBrTFBjWThxRXo3UW5oRnZvQ09KTTVKdHdacUZMRWRjakhQS0NkQ3hKRDl3TnFoNFd6b0J5QVFzVGIxM1l1Y1o1RHFiY1U2VWVmbHFOVWUxOWFwUjg5TGhyMF9KRkhpMWdRcmhGUy0yMVFJaGhZU1VjNkRLODBzVUpCdmlPaVNvcQ?oc=5"
+        },
+        {
+          "name": "The Independent",
+          "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNWdrMnR4WlpGVGlONzFxbnRaUW5JQV90U3NIcFg0ZW5qUy14NkJzaWR2bHNQVkFvVk9qTXZvSFRqQW5GY0FDUllaeHRyVW4td3lzZ1lnenQ5UWxKbXR3WnBsbEVOeEIzSWItQ2F4b3B3YjVkNnJKQnNiRVlpWkRLcDRSeFdIQjRUVFpaTjNSbThuZXozQklCdEtPQVVtZGFQX04wY185U0E0Ylp1a3FabTdYYkpnNERRcXV4Q2R3aW50LVpOaHc?oc=5"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/"
+        },
+        {
+          "name": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNURhdTZha1pnekJvMjV5cE9VQ0tpQmZuSXVfbFVzLVBDbDY1b28zMUluUVNzMUlPZnE2Qk5OLXRVcUVsRkVfZ3d2ZVpvaW9JOGFZUE00SV9uQ0xWcE5QOGlzXzB2bkRaWjZiZVpKblZBU2tsOTdvMllIdTRKb21ScUlwNlIzSDdaTFR0Rg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Naparima College begins SSFL title defence",
+      "category": "tt",
+      "publishedAt": "2026-09-18T23:38:35.000Z",
+      "summary": "Champions Naparima College open their SSFL Premiership title defence at home against Trinity College Moka.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/naps-begins-title-defence-against-trinity-moka/?utm_source=rss&utm_medium=rss&utm_campaign=naps-begins-title-defence-against-trinity-moka"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Bunny Shaw scores again as Man City beat Liverpool 4-2",
+      "category": "tt",
+      "publishedAt": "2026-09-18T23:38:33.000Z",
+      "summary": "T&T's Khadija Shaw scored for a third straight match as Manchester City beat Liverpool 4-2 in the Women's Super League.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/shaw-continues-goal-scoring-run-as-city-edge-liverpool-to-stay-unbeaten/?utm_source=rss&utm_medium=rss&utm_campaign=shaw-continues-goal-scoring-run-as-city-edge-liverpool-to-stay-unbeaten"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Trump says he is banning CNN, MS NOW and Politico from the White House",
+      "category": "world",
+      "publishedAt": "2026-09-18T23:26:48.000Z",
+      "summary": "President Donald Trump said Friday he is banning CNN, MS NOW and Politico from the White House over what he called unfavorable coverage, and said more such bans could follow. The move is expected to test First Amendment protections.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6e30580jqjpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/trump-says-he-is-banning-cnn-ms-now-and-politico-from-the-white-house/?utm_source=rss&utm_medium=rss&utm_campaign=trump-says-he-is-banning-cnn-ms-now-and-politico-from-the-white-house"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Security guards at Bay Area tech offices and major retailers go on strike",
+      "category": "bayarea",
+      "publishedAt": "2026-09-18T23:18:58.000Z",
+      "summary": "Thousands of security guards at tech companies and major retailers in the Bay Area and Southern California began a strike. The guards protect offices of some of Silicon Valley's largest businesses.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/09/18/bay-area-security-workers-guarding-big-tech-offices-strike/"
+        },
+        {
+          "name": "ABC7 Bay Area",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTkEzdWYyWGt5N2kyS0NpaExLQXNMVkdKckxmc1NrV2dtYnVIeUVZQVdfYXFLVFUzcEZHeS1LUnBQeU1vc2JmZVlxdS1fLVloWmxZVEtuX0JmOEVwOXliTFNpc2hZTFZCZU93bExFTUFrN0dFeVRjalUyYU9fbHBvTXIwX1ljNHhjRmQ3S1Z1M3VnRDdtdEF2WUhzWE9iaG9LSzRiYkZYemh2c0k5MTBIR3RrMThZeUdRSXZNNDdOTDd2MXlESDJmcW9va9IB0AFBVV95cUxQaWgzOFdsaEV4MGxsN09BR1BtRDhGQmZEeWVVSWtSc0V2MTBVa0d3VDdJUjladXNkREpwa05IcXNERFVlMDRSemtpcVhGTklxZDNUTkVJemFVdzMyYUJ1ejJvY0VxU2lUQUlXd2NWaXZON1FQZTBKaG9iRkI4eFNLTjI0cktJSTBGM09rLURvdXlzMjFZbUctY244Uy1CRk5Eb1FOMVhSOTc2czlPNDVGQXE5Nm9Qc0N2cERNQW80c3FYV1lUUW5OZUdsZW1XNWM0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "California politics: Newsom's 2028 comments, House race, Prop. 45",
+      "category": "bayarea",
+      "publishedAt": "2026-09-18T23:05:00.000Z",
+      "summary": "KQED reviews Newsom's remarks about a 2028 presidential run, a toss-up House race, and declining support for Prop. 45.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/09/18/newsoms-2028-pledge-a-toss-up-house-race-and-prop-45-loses-ground/"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Russians vote in parliamentary elections",
+      "category": "world",
+      "publishedAt": "2026-09-18T23:04:57.000Z",
+      "summary": "Russians are voting for members of the Duma in the first nationwide parliamentary election since the 2022 invasion of Ukraine.",
+      "sources": [
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/09/18/nx-s1-5973249/russians-head-to-the-polls-to-choose-lawmakers-for-their-parliament"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "OpenAI used its own language models to design its Jalapeño chip",
+      "category": "technology",
+      "publishedAt": "2026-09-18T23:04:17.000Z",
+      "summary": "A report describes how OpenAI used its own LLMs in designing its Jalapeño chip.",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://spectrum.ieee.org/llms-for-chip-design"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "US and Denmark reach deal over Greenland",
+      "category": "world",
+      "publishedAt": "2026-09-18T22:58:55.000Z",
+      "summary": "Trump said an agreement with Denmark gives the US 'permanent control over security' in Greenland, following annexation threats; Danish officials have not confirmed specifics.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "State finds Santa Clara County placed children in foster care without safety checks",
+      "category": "bayarea",
+      "publishedAt": "2026-09-18T22:53:10.000Z",
+      "summary": "A state investigation found Santa Clara County placed children without safety checks, following the death of 2-year-old Jaxon Juarez, placed with a guardian who had a child-endangerment conviction.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/09/18/santa-clara-county-placed-children-in-foster-care-without-safety-checks/"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "West Indies Women to play Zimbabwe in ODI and T20I series",
+      "category": "tt",
+      "publishedAt": "2026-09-18T21:38:21.000Z",
+      "summary": "Zimbabwe will host West Indies Women in a three-match ODI series, part of the ICC Women's Championship, plus T20Is starting next week.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/west-indies-women-to-battle-zimbabwe-in-historic-odi-t20i-series/?utm_source=rss&utm_medium=rss&utm_campaign=west-indies-women-to-battle-zimbabwe-in-historic-odi-t20i-series"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Anthropic selects Accenture as first embedded evaluator for slowdown proposal",
+      "category": "ai",
+      "publishedAt": "2026-09-18T21:31:03.000Z",
+      "summary": "Anthropic chose Accenture as the first embedded evaluator to help implement CEO Dario Amodei's proposal to slow AI development.",
+      "sources": [
+        {
+          "name": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYMldnaER6UDBnQk16Y1ViUC1FbndnREdmZmZMZG9QeTlBTnJPN0QwMncyTUxSOTc5SVNQR21tZ3p1ZzVJYnl3N1Y3bVA5SElMVUdOLVdBdnRYRVZvVFVJUnF5SnhJZnpvSW9Vcm1EWmhqSXhH0gF6QVVfeXFMT3dmLVlOb2dWTFFFbVlNQndJRGNBQ1F2VWNlR1VLNHFlM3l4QUtDZ0hjMGhVVzVEQlpneEEwbC1ON0l1elB2ZTU2MkE0WmhTdXNJOVprNTV4eFZXS2F4QkhzemxtYlBvS05JOWdqUlVpTjYzMmU2azFBbHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Bodies found stored in refrigeration unit at Freeport compound",
+      "category": "tt",
+      "publishedAt": "2026-09-18T21:25:02.000Z",
+      "summary": "Police are investigating after human bodies were found in a refrigerated unit at an unauthorised premises off Jaisrie Street, Freeport, on Thursday, during an inspection by the Multi-Agency Task Force and environmental officials. CNC3 reported seven bodies; the Trinidad Express reported eight.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/seven-bodies-found-in-refrigeration-unit-at-central-compound/?utm_source=rss&utm_medium=rss&utm_campaign=seven-bodies-found-in-refrigeration-unit-at-central-compound"
+        },
+        {
+          "name": "Trinidad Express",
+          "url": "https://trinidadexpress.com/newsextra/eight-bodies-found-in-freeport-building/article_01f1e789-45f8-4fd4-9311-c1fa2915b718.html"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Karen Tom Yew-Jardine appointed head of Republic Life Insurance",
+      "category": "tt",
+      "publishedAt": "2026-09-18T21:25:00.000Z",
+      "summary": "Karen Tom Yew-Jardine will succeed Robert Soverall, who retires Sept. 30, as managing director of Republic Life Insurance.",
+      "sources": [
+        {
+          "name": "Trinidad Express",
+          "url": "https://trinidadexpress.com/business/local/tom-yew-jardine-to-head-republic-life-insurance/article_fd3abf24-ce4e-4b35-911c-2e22f6e09450.html"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Claude Code now reads AGENTS.md when no CLAUDE.md is present",
+      "category": "technology",
+      "publishedAt": "2026-09-18T21:00:32.000Z",
+      "summary": "Anthropic's Claude Code will now read an AGENTS.md file if a project has no CLAUDE.md.",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://code.claude.com/docs/en/changelog"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Becerra and Hilton decline to commit to Newsom's AI safety guidelines",
+      "category": "bayarea",
+      "publishedAt": "2026-09-18T20:48:43.000Z",
+      "summary": "California gubernatorial candidates Xavier Becerra and Steve Hilton did not commit to the AI safety guidelines Gov. Newsom laid out on Friday.",
+      "sources": [
+        {
+          "name": "The Almanac",
+          "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxOb2dnQ0RDbzE2VzRqSjN3TDhOUjFXUHJQRGtELTU0RHVFNmJvb09DZVdEVHRRYXAzLTgwaWxDTFlLb3lXMjh0b1ZjNU1JUHA3enZSXzhBV3RzaE8wQVVNX0N5WGRaRENTWnFmZU52REw3TmQ5VGdGMFlXSEMtVW9KeVBqN3NyX3JrNS1iTDlWS3hlaFVIRXpBcHlfeFNqYjNQUFhjV3RsWlY0YTAxT3kwVlZNR0czT3pTaHhabktrbkZVTzlBeXF6X0xIRmQtUDRRclN1YzdVSmpOY1ZkVzZsZ0cyX3IzZ1NUd3hoRWtXOGRtU2xvSkFXOEFsdTMtRl9aZk5ENUJkc3VWNUYyaDlhdWp2Q0ZyeTJ2VXM4ajduc0dacTlwS241S3N6MzJLSWpNMHFUVjNuVm1ZcnY5OVFScWNMNjhUZkxqOWhhazRMSDhHbVdoczhOR3FHR1BPdkt2bXRscVdITkp6RzhpdW5VWWE1Qmk2NmxoUlZZRnpiVXpfNjNhT2tGczdrR3MxR2xN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "At least 21 killed in explosives-laden vehicle attack on Pakistan mosque",
+      "category": "world",
+      "publishedAt": "2026-09-18T20:17:50.000Z",
+      "summary": "At least 21 people, including a four-year-old child, were killed when a vehicle loaded with explosives rammed a mosque in Pakistan; gunmen also attacked a police facility.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckn9wenz8wjwo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Family of Nvidia researcher seeks answers after his death",
+      "category": "bayarea",
+      "publishedAt": "2026-09-18T20:09:28.000Z",
+      "summary": "The family of Nvidia data scientist Irfan Al-Hussaini traveled to Palo Alto after his death was ruled a suicide.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/09/18/nvidia-ai-researchers-family-demands-answers-after-his-death/"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Newsom signs executive order on AI regulation, including a 'kill switch' proposal",
+      "category": "ai",
+      "publishedAt": "2026-09-18T20:03:47.000Z",
+      "summary": "California Gov. Gavin Newsom signed an executive order to consider AI regulation, including a proposal for an AI 'kill switch'. He urged the federal government to adopt California's regulations.",
+      "sources": [
+        {
+          "name": "Fox News",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOODF6a3NySlluY0RDOW15cDktZ2lpX3FPVzNTRmh2Sm9UUXpzT2o4QVlESzFHN2xkWU1yREw4aC1yUnBYSlZncy15c1o5ZjhjODVHWXhhenRFQzZNZXlpU2ZoeTVUMk1ZQ1ZWOWcyZlRRVjNUSUdiVzdlOTBpcUlvZnJ5Nkt2WlQzSk40TlE4bktyS3o0blFsZi15ZmFGZXJBTm5vemlFMlBqR2x1d1BrbQ?oc=5"
+        },
+        {
+          "name": "CNN",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdEZYLXNfYTBKV0J2c21LSkdQMFN4a2ZxQWF1b1pMUDVVTkJUMzhMVVltVE1sTGJUX0JRYkMwaS1GTmNEUHYwSUd5QW51TV9xRDF5YWJIRFZiSXJHRUxJanpkWW1sVzBtWEJJNU50aHNhTFZzYVFld1VLWFhLUGN3TVFB?oc=5"
+        },
+        {
+          "name": "CNBC",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02VU9ZNUVjMndvUEVjTHAzdzhaczNpRmVpX05mNW9fbzRvUWJSdWJpemJJSl9la2tQTnJDeDgwTVRGRmZrb09ILWRITmkxSEhveUNGb1lMbi1uSUEwejRTZzI0eHVuWDV2Rlo2WmlWUThoTlh2cFdXamZUeS00Z9IBgwFBVV95cUxPN2IzNlM1MkM2OFp2VDBwb1J6eXk1Z1hZdEpwSWdJbExPdXBvdDBFelVESmtWVGZ6UnRGVUFXaHpPU1AyMnduOFBxdURacTNhUWdRUUhGdlB4VzFOa0Z1Q0VwSnRQTmNRZElmb3NKZFhiOG15Y09pME1jUjlTc2pVV2lpRQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Oakland Unified faces civil rights complaint over Latino youth programs",
+      "category": "bayarea",
+      "publishedAt": "2026-09-18T20:00:00.000Z",
+      "summary": "Parent group Defending Education filed a complaint seeking a federal investigation of Oakland Unified programs for Latino students, claiming racial discrimination.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/09/18/oakland-unified-faces-civil-rights-complaint-over-programs-for-latino-youth/"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Albania to sign Artemis Accords as 73rd country",
+      "category": "science",
+      "publishedAt": "2026-09-18T19:56:08.000Z",
+      "summary": "Albania will sign the Artemis Accords at NASA Headquarters on Monday, Sept. 21, becoming the 73rd signatory.",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-albania-artemis-accords-signing-ceremony/"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Mountain lion captured in San Francisco's Outer Sunset",
+      "category": "bayarea",
+      "publishedAt": "2026-09-18T19:42:56.000Z",
+      "summary": "A mountain lion that roamed San Francisco's Outer Sunset neighborhood was captured after a standoff. KQED reported on another possible sighting in the city and noted attacks on humans are extremely rare.",
+      "sources": [
+        {
+          "name": "ABC7 Bay Area",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeVF1NS1ySHpmT3EtVk9KUVdsaTBzSklZYnI2empnb1RpVWZpZWttR0VmNV9QLW9jeXpDc1Mxb1lSazhodUFhMjYxMVFjRkZDX0RoWUtseWlEN3E3N3pUbjFOVDRpcEVtUHoySUNVOTJpTmxnYW1McHpiRkdXUTJydnhvVjdlWDdkZGs3bDhXZlhWa0djRkVZbGJUcE9Ha3pPOG9uSF9IVkbSAa4BQVVfeXFMTktKTDMtaGd0Z1ZJX3gwOGcxWW1PSXoxQzh5UGVSTjJ2ZDVCSkV6WlpUeTd6b2hyTmxFd2pUcjRTYjNQUTRlY3lwQll2bXJSbkFBcEp0V3piV3A5aVA0OHgzSGtVb3dLMUpyaWhrWkQza05lUnFRSWJ6aXpHcHJUMk1wQkNZUVFJZW9HV09aaWlUTFJOWTFRVXBxeWpFVWNCeDhRSnNjX1Z0N2dtc2dB?oc=5"
+        },
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/09/18/what-to-do-if-you-see-a-mountain-lion-while-hiking-in-the-bay-area/"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "FAA plans $875 million AI tool to manage air traffic congestion",
+      "category": "technology",
+      "publishedAt": "2026-09-18T19:20:50.000Z",
+      "summary": "The FAA plans to deploy an $875 million AI tool to help manage air traffic, starting in the Washington, DC area before a nationwide rollout. Politico reported that airlines raised concerns as the agency pushed the tool forward.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/"
+        },
+        {
+          "name": "Politico",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1iZzgzWWcxb0REa0s3akVoQUtqMmpkUVZZUmJaZ0tjVHBvcXpSTnREZDBmazhrbEtIdG02WkpNUERXaXhKb2h6NXhYMmdZXzgzaXFIaEtMSWQ3cjZmZGVybUFrNXhtSWlHWU5ocVBxb0ZkNnI1UHFZbVFzeDc0UQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "US-China 'Track Two' talks on AI ahead of Trump-Xi meeting",
+      "category": "world",
+      "publishedAt": "2026-09-18T19:14:15.000Z",
+      "summary": "Informal dialogues between US and Chinese experts at think tanks and universities are discussing AI risks ahead of a Trump-Xi meeting expected to cover AI.",
+      "sources": [
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/09/18/nx-s1-5971481/trump-xi-meeting-ai-track-two-talks"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Report finds Syrian government planned Austin Tice kidnapping for weeks",
+      "category": "world",
+      "publishedAt": "2026-09-18T19:13:52.000Z",
+      "summary": "New reporting finds the Syrian government planned the abduction of American journalist Austin Tice for weeks.",
+      "sources": [
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/09/18/nx-s1-5974166/assad-austin-tice-kidnapping-bbc-embedded"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "La Romaine man arrested after firearm magazines and scopes seized",
+      "category": "tt",
+      "publishedAt": "2026-09-18T19:06:25.000Z",
+      "summary": "A 22-year-old man was arrested after police found a firearm magazine in a vehicle and seized firearm-related items from his Marabella home.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/la-romaine-man-arrested-as-firearm-magazines-and-scopes-seized/?utm_source=rss&utm_medium=rss&utm_campaign=la-romaine-man-arrested-as-firearm-magazines-and-scopes-seized"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Android 17 adds new APIs without releasing them to AOSP",
+      "category": "technology",
+      "publishedAt": "2026-09-18T19:03:09.000Z",
+      "summary": "Android 17 is the first release since Android 3.x to add new APIs without publishing the source to the Android Open Source Project.",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://grapheneos.social/@GrapheneOS/117282080803799576"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "New public charge rule for green card and visa applicants",
+      "category": "bayarea",
+      "publishedAt": "2026-09-18T18:57:27.000Z",
+      "summary": "Federal officers can now consider whether green card or visa applicants received benefits such as unemployment, housing vouchers, Medi-Cal and free school lunches.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/09/18/applying-for-a-green-card-or-a-visa-what-to-know-about-the-new-public-charge-rule/"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Records contradict claim Kennedy Center is losing hundreds of millions",
+      "category": "world",
+      "publishedAt": "2026-09-18T18:56:17.000Z",
+      "summary": "2024 records show the Kennedy Center had a multimillion-dollar surplus after contributions and grants.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/videos/cqy4zw4xr717o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Man sentenced to 18 years for sexual offence against teenager",
+      "category": "tt",
+      "publishedAt": "2026-09-18T18:56:00.000Z",
+      "summary": "A man convicted of buggery against a 16-year-old boy was sentenced to 18 years with hard labour.",
+      "sources": [
+        {
+          "name": "Trinidad Express",
+          "url": "https://trinidadexpress.com/newsextra/9-plus-9-years-in-prison-for-man-who-fooled-and-buggered-boy/article_ef339501-040d-4679-87d6-820528039d21.html"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Research paper proposes direct 'cache-to-cache' communication between LLMs",
+      "category": "technology",
+      "publishedAt": "2026-09-18T18:55:35.000Z",
+      "summary": "A 2025 paper describes Cache-to-Cache, a method for language models to communicate semantically with each other directly rather than through text.",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://arxiv.org/abs/2510.03215"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Young people pushing back against artificial intelligence",
+      "category": "ai",
+      "publishedAt": "2026-09-18T18:48:18.000Z",
+      "summary": "ABC (Australia) reports on young people resisting the use of artificial intelligence.",
+      "sources": [
+        {
+          "name": "ABC News & Headlines – Australian Broadcasting Corporation",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTmxvMjN2Y0hsaXVwb0t0MHl1NUJaME9ETE5sN0p5bm5iZ1pXRWw3MTZoLXdYdlRWMW52ZTRER1Q2TTdxdzVGMndsY211TFN6NjI5dHIwQjJhWnBtUDhYVkNfYjdielFSYWpGRDZST25jWnBEcTlienpjSWc2T2hBZlRaQk0tdC1GaHhOMnlhWW1jSjVtYVh5QTBvY0VOaHlLazctd1d3ZUhmSV9YdWc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Apple publishes Xcode 27.1 beta release notes",
+      "category": "technology",
+      "publishedAt": "2026-09-18T18:39:31.000Z",
+      "summary": "Apple released the release notes for the Xcode 27.1 beta.",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Antigua & Barbuda Falcons reach first CPL final",
+      "category": "tt",
+      "publishedAt": "2026-09-18T18:24:47.000Z",
+      "summary": "Antigua & Barbuda Falcons beat the Guyana Amazon Warriors by nine wickets in Barbados to reach their first Caribbean Premier League final.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/falcons-soar-into-first-ever-cpl-final-with-dominant-victory-over-warriors/?utm_source=rss&utm_medium=rss&utm_campaign=falcons-soar-into-first-ever-cpl-final-with-dominant-victory-over-warriors"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Moss Landing power plant fire prompts shelter-in-place orders",
+      "category": "bayarea",
+      "publishedAt": "2026-09-18T18:24:01.000Z",
+      "summary": "A fire at the Moss Landing power plant triggered shelter-in-place warnings and affected Highway 1; firefighters expect it to burn out within 24 hours.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/09/18/moss-landing-power-plant-fire-triggers-shelter-in-place-warnings-highway-1-impacted/"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Ownership of Menlo Park's 80 Willow Road development questioned",
+      "category": "bayarea",
+      "publishedAt": "2026-09-18T18:06:44.000Z",
+      "summary": "Questions have been raised about the ownership of the 80 Willow Road development in Menlo Park.",
+      "sources": [
+        {
+          "name": "The Almanac",
+          "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNTmNzZDFuM0hQbXNNRlJoeng0U2ltdkF6dDNYWEhIQndXQ1U1WFBMT25TelZaRUE2VEpibnpoRWxPcF8tU1A2YkRDejB0cXgtMDg0dHdsNEpHU3JuMTYzMWpfdjdEOWtSSU9YdmNQdVlELW5iNnYzTXY4c2NQOGNDX2hXSmJpbDZIMm1mMjI2bm45dGM3RmtzLW40Q1RNN0JGSksyWGNyOHU0eVdaU2pKcFVuZWdqZXBkUmtrQ1FIdTVTNnFpRXFuUGl1NlU1ZERUa1lELTlxcTEtSkNvbURRQkE1NTJxX1N6a3RUS2N6dTlDeVBPNkRSdURWa0xQekRNeUZPYnVaVzFMdGNZNVBacU9OTDFOeThQenIyeXBGcW1xNU9SbmdZdXVwTzkyYTFweGVJUURoekJmSHlBdThVYWRwaXlDN2hpRG5fMXdIWlE0LTNQUkdhSzRsaEoweG9LX2NiRFoxV09jcjZYREpBcTFDV3c4OGZhTXRVWERTc1ZRQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Macron says Russian hybrid attacks on Europe are intensifying",
+      "category": "world",
+      "publishedAt": "2026-09-18T18:04:38.000Z",
+      "summary": "French President Emmanuel Macron said Russian hybrid attacks are intensifying and tasked the government with protecting critical infrastructure and defence sites.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "XRISM observes pulsar capturing companion star's wind",
+      "category": "science",
+      "publishedAt": "2026-09-18T18:02:53.000Z",
+      "summary": "Using the Japan-led XRISM X-ray observatory, astronomers directly observed a giant star's stellar wind being captured by its compact companion, powering strong X-ray flares.",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/missions/xrism/xrism-sees-pulsar-gathering-companions-wind/"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "California poised for $1.4 billion in broadband funding, with conditions",
+      "category": "bayarea",
+      "publishedAt": "2026-09-18T18:02:20.000Z",
+      "summary": "California is set to receive $1.4 billion for broadband, with significant conditions attached.",
+      "sources": [
+        {
+          "name": "The Almanac",
+          "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQeTE2NzRSREU2ZEY2SUk4TExHOTJtTGV0TmZsOG9fVGZ4YUp1TWFBLWpsQjNVeFNEN1I3cW00UDF0NmNoakljRF9wWVBwdlBleV90aUZhaVdrcWN0M2xyeldQb3ZwZ1Excl9zeTdfWnJQNTZyYWduaGJkaTk3Ti1FOU5TeHV2UmJTeWJlOURiaU5uMzB0dmktV3NOZ1NkaFJ5eTh0QU5XanFUaWFZOHI0aUJwaGJITnB2NE9tdV9GdUFfMGNIdmlBUHM0Zlp3aGpfWkxBWmRaVXZyOG5qUDVyR0ZqbWdTQkt4NWh3bF80SWRmYzJHLUk0MzNOY3lSSGtuSTZmVDBpdnpvbE5FU0hCdmFnTFl3dUtBWkx0dF8tVTJQUUNZemRFNk1kaURPVWxHc1JRWk5KSzR0U1lDdzVhLUZnXzJvejU2UURVeWg2TkZReDV0NGJtcVFFUXlFSnZyYUUzVi01WnpjYjBxeXNfSGkxTEo0dnQyVzJnMmptWFkxczdrbEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "FCC lets Paramount sell 49.5% stake to Saudi Arabia, UAE and Qatar",
+      "category": "technology",
+      "publishedAt": "2026-09-18T17:57:41.000Z",
+      "summary": "The FCC approved Paramount's sale of a 49.5% equity stake to Saudi Arabia, the UAE and Qatar, rejecting concerns about foreign governments gaining influence over the CBS owner.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "JP Morgan says it cannot forecast oil prices amid US war with Iran",
+      "category": "world",
+      "publishedAt": "2026-09-18T17:57:30.000Z",
+      "summary": "JP Morgan said it is struggling to forecast oil prices due to the US war with Iran, having assumed the US would avoid thresholds such as $100 oil.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cq0m3gmv8n7ko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Rare brain cells found that can trigger sleep",
+      "category": "science",
+      "publishedAt": "2026-09-18T17:49:50.000Z",
+      "summary": "Researchers identified rare cells with widespread connectivity in the brain that appear able to trigger sleep.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/09/finding-the-cells-that-put-our-brain-to-sleep/"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Federal Register website briefly used Chinese AI tool the FBI called 'malicious'",
+      "category": "technology",
+      "publishedAt": "2026-09-18T17:28:50.000Z",
+      "summary": "The US Federal Register website briefly used an open source Chinese AI search tool that the FBI had described as malicious.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "North Korean anthem mistakenly played for South Korea at Asian Games",
+      "category": "world",
+      "publishedAt": "2026-09-18T17:18:09.000Z",
+      "summary": "Organisers apologised after playing North Korea's anthem for South Korea's men's hockey team at the Asian Games in Japan.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/sport/hockey/articles/cmx2zg85gq03o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Warren Buffett steps down from Berkshire Hathaway",
+      "category": "world",
+      "publishedAt": "2026-09-18T17:15:02.000Z",
+      "summary": "Warren Buffett stepped down after six decades leading Berkshire Hathaway, which he grew from a textile mill into a global conglomerate.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cvj64dl1w6yno?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Ryanair CEO apologises for remarks",
+      "category": "world",
+      "publishedAt": "2026-09-18T17:10:58.000Z",
+      "summary": "Ryanair chief Michael O'Leary apologised for remarks, calling his language careless.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm1j4kj57k08o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "title": "Trinidad and Tobago intends to re-establish relations with Venezuela",
+      "category": "tt",
+      "publishedAt": "2026-09-18T16:51:41.000Z",
+      "summary": "Trinidad and Tobago plans to restore diplomatic relations with Venezuela.",
+      "sources": [
+        {
+          "name": "Orinoco Tribune",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMGNOMnBSdHlhZjBxWmZ6MDZ4VG1RYkdiV2VSakZ4MTV6S25Ba09mNkZKSVpZSWZ2RVN6YjZNM1FpNzctbnkxaWwydHZkQmIxMTlwLURHNXMxRzltQ2J4WDFYd0Z2WEZVb0JvX29UUkdTYzM2c0l3MmsyNWR3RWZicmw5azNJR2RtcWYwUzNWX29KOWJ6Q1k2amtsNGg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Cal/OSHA proposes ban on new quartz countertops",
+      "category": "bayarea",
+      "publishedAt": "2026-09-18T16:26:08.000Z",
+      "summary": "A Cal/OSHA draft would phase out engineered quartz countertops within about six months, citing a deadly lung disease among stonecutters.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/09/18/california-regulators-unveil-plan-to-ban-new-quartz-countertops-amid-rising-worker-deaths/"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Warden ousted at Central California Women's Facility",
+      "category": "bayarea",
+      "publishedAt": "2026-09-18T16:19:48.000Z",
+      "summary": "The warden was removed a month after the DOJ found an 'unbroken pattern' of sexual assault at the prison.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/09/18/warden-at-central-california-womens-prison-ousted-amid-sexual-abuse-scandal/"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "title": "Uber ordered to pay $40 million after stranded passenger killed",
+      "category": "bayarea",
+      "publishedAt": "2026-09-18T16:17:39.000Z",
+      "summary": "Uber was ordered to pay $40 million after a passenger left stranded on a highway was killed.",
+      "sources": [
+        {
+          "name": "Pleasanton Weekly",
+          "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOVHZTZ1BwekNtdXFnQ3lBYzI4cngxWXFjbFJIa1RDLU9vUHlpQzdyZFpETEpEMGdLUmFyc2RfRmo4bTMtUDF1T08zb0tIYl94RTVfc29NeGlPQkQtRTNlQndWYm1yeXFUWnJhSUIycWltVTNpZmVob1hzbDctSlF3eEtKUmd1ZC1EYUxFNVExTVZyalJaWS1vclFNNWVNNkNRb1Z1VWxCYkxBWjlSaVFtN0Vwb0VsMkZVbjJFZ3gwcDEtZWxzUWkyTnJsN3FjeXR3T2xScmJ3TkpUZGZySzJOZ2JjQkM3V0dNY1NEVEg5SmItV0VhQXdNNnFFQXd1ZlByNERiZEktX2oxSDMzejBXcnZEVk9GRjNtb3NtX2lscnRPQm16aExvQW43cHk4M3JvNi1OVDI3eGdFU0dTVjUxbWtPUDZrY0ZPTUpscTZqMGo1N0FOdWxFU2FIQVFBbnZuak9DUjJDS3BhcnhXR1ZzVDZvcENXU0NEZUF5YmNBWDFvSFBtSnJv?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "title": "NASA awards SpaceX three more crew flights to the ISS",
+      "category": "science",
+      "publishedAt": "2026-09-18T16:02:31.000Z",
+      "summary": "NASA awarded SpaceX three additional crew missions to the International Space Station through a contract modification.",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "title": "Dozens of suspected illegal miners die in Nigerian custody",
+      "category": "world",
+      "publishedAt": "2026-09-18T15:47:28.000Z",
+      "summary": "Dozens of suspected illegal miners died in custody in Nigeria; authorities cited disease, which relatives and intelligence reports dispute.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cw980qp2n3p4o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "title": "COSI gamma-ray telescope detector assembled at UC Berkeley",
+      "category": "science",
+      "publishedAt": "2026-09-18T15:45:03.000Z",
+      "summary": "UC Berkeley engineers assembled the detector for NASA's Compton Spectrometer and Imager (COSI) telescope.",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/image-article/cosi-telescope-comes-together/"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "title": "AG says man accused of ordering Hector killing has been in custody since last year",
+      "category": "tt",
+      "publishedAt": "2026-09-18T15:34:00.000Z",
+      "summary": "Attorney General John Jeremie said the man alleged to have ordered the killing of State prosecutor Randall Hector has been held at Teteron since last year.",
+      "sources": [
+        {
+          "name": "Trinidad Express",
+          "url": "https://trinidadexpress.com/newsextra/ag-man-behind-hector-hit-has-been-in-custody-since-last-year/article_1b0ba958-cdd3-4cfb-9b6e-696caf0d9151.html"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "title": "Vets warn of rising canine distemper cases",
+      "category": "tt",
+      "publishedAt": "2026-09-18T15:23:00.000Z",
+      "summary": "The T&T Veterinary Association warned of increasing canine distemper ('hard pad') cases among dogs.",
+      "sources": [
+        {
+          "name": "Trinidad Express",
+          "url": "https://trinidadexpress.com/newsextra/vets-warn-of-deadly-hard-pad-disease-among-dogs/article_9e73b61d-b57f-470d-9f64-68c094dbb620.html"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "title": "Woman reports sexual assault at Port of Spain hotel",
+      "category": "tt",
+      "publishedAt": "2026-09-18T14:37:00.000Z",
+      "summary": "A woman was sexually assaulted at a Port of Spain hotel on Independence Day.",
+      "sources": [
+        {
+          "name": "Trinidad Express",
+          "url": "https://trinidadexpress.com/newsextra/woman-reports-rape-at-port-of-spain-hotel/article_82e3ca63-e50e-48c1-a57d-4b3c59731c42.html"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "title": "Special Operations Bill would expand police search and detention powers",
+      "category": "tt",
+      "publishedAt": "2026-09-18T14:35:00.000Z",
+      "summary": "Under the Special Operations Bill, 2026, police officers conducting special operations inside designated closed areas would have enhanced search and detention powers.",
+      "sources": [
+        {
+          "name": "Trinidad Express",
+          "url": "https://trinidadexpress.com/newsextra/wider-search-detention-powers-under-special-operations-bill/article_bb4dbf12-10d5-4de1-a1f8-9ce704ce4048.html"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "title": "Cloudflare Quick Tunnels",
+      "category": "technology",
+      "publishedAt": "2026-09-18T14:18:41.000Z",
+      "summary": "Cloudflare documents Quick Tunnels, a way to expose a local service to the internet without configuration.",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://try.cloudflare.com/"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "title": "California bill would require coverage of cancer hair-loss treatment",
+      "category": "bayarea",
+      "publishedAt": "2026-09-18T14:00:00.000Z",
+      "summary": "A bill would require Medi-Cal and large group health plans to cover scalp-cooling treatment for chemotherapy patients.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/09/18/california-could-join-handful-of-states-that-cover-cancer-hair-loss-treatment/"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "title": "Mathematicians prove decades-old graph 'sandwich' conjecture",
+      "category": "science",
+      "publishedAt": "2026-09-18T13:55:50.000Z",
+      "summary": "A proof of a decades-old conjecture gives researchers a new way to understand complex networks.",
+      "sources": [
+        {
+          "name": "Quanta Magazine",
+          "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "title": "Hubble images galaxy NGC 4698 with out-of-sync rotation",
+      "category": "science",
+      "publishedAt": "2026-09-18T13:38:12.000Z",
+      "summary": "Hubble imaged NGC 4698, a spiral galaxy about 55 million light-years away in the Virgo Cluster whose structure hides chaotic internal motion.",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/uncategorized/nasas-hubble-spots-an-out-of-sync-galaxy/"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "title": "Researchers used Claude to breach an OpenAI employee account",
+      "category": "technology",
+      "publishedAt": "2026-09-18T13:30:12.000Z",
+      "summary": "Researchers used Anthropic's Claude to gain access to an OpenAI employee account and sensitive GitHub data.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "title": "Teen activists challenge Flock surveillance cameras in San Francisco",
+      "category": "bayarea",
+      "publishedAt": "2026-09-18T13:00:00.000Z",
+      "summary": "Teen activists are campaigning against Flock license plate cameras in San Francisco.",
+      "sources": [
+        {
+          "name": "The San Francisco Standard",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbDRuakRXWUlGR3ZGMFpPLUtTcHRJekJWMTljVHdweTFtNDQzdlJsSFJkdGpKa243aDZrR3FWVDlBYUFlYVoySk0xeHlWand3UjA1bkd4Q2NQWFExVDI3QU5DY2x2VFZlY05ZVVc2V3kzWXJVWU5VZHJ1a1U0UHBGT1pDa2JZMktwWlNheWRpOGdBRFAxT2dCcXUybEh4TmM?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "title": "Ronaldo, 41, named in Portugal squad",
+      "category": "world",
+      "publishedAt": "2026-09-18T12:45:25.000Z",
+      "summary": "Cristiano Ronaldo was named in new coach Jorge Jesus's first Portugal squad for Nations League games.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "title": "Scientists discover cells that survive programmed death and rebuild tissue",
+      "category": "science",
+      "publishedAt": "2026-09-18T12:30:43.000Z",
+      "summary": "Researchers found cells that begin programmed cell death, survive it, and help rebuild damaged tissue; their descendants are more resistant to future damage.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260917003722.htm"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "title": "New Guinea snake species named after guitarist Slash",
+      "category": "science",
+      "publishedAt": "2026-09-18T12:07:03.000Z",
+      "summary": "A newly described groundsnake from New Guinea, Lielaphis slashi, was named after Guns N' Roses guitarist Slash, confirmed as new by genetic testing and physical differences.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260918024816.htm"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "title": "Police fire shots as migrants moved from Ceuta beaches",
+      "category": "world",
+      "publishedAt": "2026-09-18T11:59:42.000Z",
+      "summary": "Police reportedly fired into the air in Ceuta as crowds of migrants jostled for places at a tented site.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgy80ge1z7o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "title": "Holdout juror in Lindsay Clancy trial speaks publicly",
+      "category": "world",
+      "publishedAt": "2026-09-18T11:49:46.000Z",
+      "summary": "The lone juror who refused to acquit Lindsay Clancy said he had no doubt she deliberately killed her children.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "title": "Roman Space Telescope may operate more than twice its planned lifetime",
+      "category": "science",
+      "publishedAt": "2026-09-18T11:31:56.000Z",
+      "summary": "NASA's Roman Space Telescope may have enough fuel for at least 22 years of science, more than double its 10-year design life, due to a precise course correction and extra fuel at launch.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260918024802.htm"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "title": "Judge rules Trump cannot demolish Kennedy Center without 30-day notice",
+      "category": "world",
+      "publishedAt": "2026-09-18T11:09:24.000Z",
+      "summary": "A federal judge ruled Trump cannot tear down the Kennedy Center without 30 days' notice; separate lawsuits seek to keep armed federal officers away from polling sites.",
+      "sources": [
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/09/18/g-s1-143913/up-first-newsletter-kennedy-center-trump-voter-intimidation-lawsuit-poland-russia-ukraine"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "title": "New muonium beam could test Einstein's gravity on exotic matter",
+      "category": "science",
+      "publishedAt": "2026-09-18T11:07:25.000Z",
+      "summary": "Scientists developed a way to create a controlled beam of muonium, which could allow the first test of whether gravity acts on second-generation particles as general relativity predicts.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260918024808.htm"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "title": "Three dead in Philippines school shooting",
+      "category": "world",
+      "publishedAt": "2026-09-18T11:01:46.000Z",
+      "summary": "Three people, including the gunman, died and eight were injured in the Philippines' third school shooting since June.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2z4dlzyr0o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "title": "Rocket Report: China seeks Raptor 3-class engine; SpaceX prepares major Starship test",
+      "category": "technology",
+      "publishedAt": "2026-09-18T11:00:11.000Z",
+      "summary": "Ars Technica's Rocket Report covers Chinese interest in an engine comparable to SpaceX's Raptor 3 and an upcoming major Starship test.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/09/rocket-report-ula-flies-into-uncertain-future-falcon-9-family-hits-700-launches/"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "title": "Femicides spark outrage in South Africa",
+      "category": "world",
+      "publishedAt": "2026-09-18T10:39:14.000Z",
+      "summary": "The killing of nine women in the same area of South Africa in recent weeks has renewed outrage over violence against women.",
+      "sources": [
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/09/18/nx-s1-5973822/south-africa-feels-like-a-prison-for-women-amid-spate-of-femicides"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "title": "Lunar orbiter finds 728-foot crater formed in 2024",
+      "category": "science",
+      "publishedAt": "2026-09-18T10:18:54.000Z",
+      "summary": "NASA's Lunar Reconnaissance Orbiter found a 728-foot-wide crater formed on the Moon in 2024, the largest newly formed crater identified in the solar system.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260917003715.htm"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "title": "San Quentin program involves gun violence perpetrators in prevention",
+      "category": "bayarea",
+      "publishedAt": "2026-09-18T10:00:00.000Z",
+      "summary": "The Arms Down program at San Quentin works with people who committed gun violence to understand its causes.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/09/18/at-this-san-quentin-program-perpetrators-of-gun-violence-are-part-of-the-solution/"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "title": "Newer blood thinners linked to slower cognitive decline in Alzheimer's patients",
+      "category": "science",
+      "publishedAt": "2026-09-18T09:48:31.000Z",
+      "summary": "Alzheimer's patients with atrial fibrillation taking NOAC blood thinners showed modestly slower cognitive decline than those on warfarin or no blood thinners.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260917003732.htm"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "title": "Tusk warns of Russian 'accidental' attacks on Ukraine's allies",
+      "category": "world",
+      "publishedAt": "2026-09-18T08:44:08.000Z",
+      "summary": "Polish Prime Minister Donald Tusk said potential Russian strikes on Ukraine's allies aim to paralyze NATO and show Article 5 exists only in theory.",
+      "sources": [
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/09/18/nx-s1-5973265/poland-nato-russia"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "title": "Houthi offensive threatens Saudi oil exports",
+      "category": "world",
+      "publishedAt": "2026-09-18T08:02:41.000Z",
+      "summary": "A week of Houthi attacks, their largest land grab in years, reignited Yemen's civil war, raised fuel prices and threatened Saudi oil exports.",
+      "sources": [
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/09/18/nx-s1-5973810/houthi-attacks-saudi-oil-world-markets"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "title": "Restoring brain protein Menin reverses signs of aging in mice",
+      "category": "science",
+      "publishedAt": "2026-09-18T04:25:45.000Z",
+      "summary": "Researchers linked declining levels of the brain protein Menin to aging in mice; restoring it reversed several age-related changes.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260918000437.htm"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "title": "Study finds GLP-1 drugs show little effect on broader life outcomes",
+      "category": "science",
+      "publishedAt": "2026-09-18T03:52:09.000Z",
+      "summary": "Ozempic and other GLP-1 drugs improve blood sugar, weight and cardiovascular health, but researchers found little evidence they improve mental health, employment, marriage or overall well-being.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260917003728.htm"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "title": "Anak Krakatau eruption sent ash nearly 10 miles high",
+      "category": "science",
+      "publishedAt": "2026-09-18T03:16:17.000Z",
+      "summary": "Anak Krakatau erupted for more than 24 hours in early September, sending ash up to 50,000 feet, closing eight airports and disrupting nearly 3,000 flights.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260917003718.htm"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "title": "Former employee sues SF Standard chief alleging harassment",
+      "category": "bayarea",
+      "publishedAt": "2026-09-18T00:51:42.000Z",
+      "summary": "A lawsuit accuses the SF Standard's chief of harassment and wrongful termination, alleging a culture that tolerated sexual comments.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/09/17/former-employee-accuses-sf-standard-chief-of-harassment-and-wrongful-termination/"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "title": "Government to reintroduce Zones of Special Operations (ZOSO) bill",
+      "category": "tt",
+      "publishedAt": "2026-09-18T00:25:51.000Z",
+      "summary": "The Trinidad and Tobago government plans to reintroduce legislation for Zones of Special Operations.",
+      "sources": [
+        {
+          "name": "Radio Jamaica News Online",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYVJVM25fd1lVanpLQ1pYUTgxS29OMlFBWW9ONVNjN1VFMWFFaUxTQnl1WXotUUU3V1U4MG0wbHktQ0k4ZzRnUHRvZ0trSEl3WlBxQlF5N0lKVl9tYmo5MUV4ZE5pd1hIMUxaa05tdnlUZkdjYW4tcmNCNWNoNjZldzY2RGgwTm5qa2hSQzk2bU5IVE5Wak5xcTJjQzg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "title": "Investigation finds AC Transit director violated harassment policy",
+      "category": "bayarea",
+      "publishedAt": "2026-09-17T23:44:11.000Z",
+      "summary": "AC Transit board director Joel Young violated the gender-based harassment policy after being accused of inappropriately touching a colleague.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/09/17/ac-transit-board-director-violated-gender-based-harassment-policy-investigation-finds/"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "title": "Nigerians buy first shares in Dangote oil refinery",
+      "category": "world",
+      "publishedAt": "2026-09-17T23:24:07.000Z",
+      "summary": "Many Nigerians bought shares for the first time in the oil refinery owned by Aliko Dangote.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cw7v4jr2932ro?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "title": "RFK Jr. names eight new members to preventive medicine task force",
+      "category": "technology",
+      "publishedAt": "2026-09-17T22:31:28.000Z",
+      "summary": "Health Secretary Robert F. Kennedy Jr. appointed eight new members to the US Preventive Services Task Force, which determines insurance coverage for preventive services such as colonoscopies.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/09/rfk-jr-stacks-another-influential-federal-panel-with-questionable-picks/"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "title": "Trinidad and Tobago ends state of emergency amid criticism of mass arrests",
+      "category": "tt",
+      "publishedAt": "2026-09-17T22:15:45.000Z",
+      "summary": "Trinidad and Tobago ended its long-running state of emergency as criticism grew over mass arrests carried out under it.",
+      "sources": [
+        {
+          "name": "Al Jazeera",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd0VDcWZBYm9RZHVEckRDeXN5S2RoazBHY3BYcnN5cnZTUFFpSmdXUzNFWDRXN3BBUWszMGxJeHNOODVjREJPeTYySllYUXk4bG50VnUxNUdfY0pWTVBPaldzb1RuR1NCbS1HemJKQUx2TFNVeWU5Um9XRWJWS0F3THY3Tm1xQzhnUElnN09WNFZseTlPbXlUZHhqMVd2Z2ZNOXpVVHRnb2FDa0FtcGdBeThhVVFCX2_SAbwBQVVfeXFMTmdqcFQ5MnlSYzRGSnRrQ29pVElTdVRuSDNPNm1YRVFsb1FEb1Z3NjFiaHB2czBIMFMwckZKUVNqeDA1SlpweWxUQmFiNVJpQ3YyeEtGS0dRS3pETXdiX1ZMQmVPLUpGTGVSVms4S0pNbDdTVlpTMHRBOXREYmVjTlJKVlFpTzB0NU5ydURRLTV2VnNfMUxBYUIySjI4TEF5UGhaTDd1TWxrWkFjU0lOOXZCOS1ncno3V1BhU0Y?oc=5"
+        },
+        {
+          "name": "Temple Daily Telegram",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZlZicnhGd2FtOW5MNmdOcW5TODFxRlVqS3o3ZWFaeGNUbmRQSC1iMjc2bFd6MHJRemdTVk8xY2lZMHR5Q1FWajlWT29LS3hoOWZWVHlxM2lNTG1zdUFydHp6eVkwVlNsTTlwNlJ4VXdnaUlsMXloMWFQNXJBbU42ZUEwVWY4SE44NmNNSDYxWTFfX3NJZnc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "title": "Small AI models let drones autonomously identify and attack targets",
+      "category": "technology",
+      "publishedAt": "2026-09-17T22:12:58.000Z",
+      "summary": "Company Scaleout is deploying decentralized AI learning to military bases and drones, enabling small models to identify and attack battlefield targets autonomously.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/09/nato-backed-startup-adapts-ai-for-autonomous-drone-recon-and-attack-missions/"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "title": "SpaceX selected to launch NASA's StarBurst gamma-ray mission",
+      "category": "science",
+      "publishedAt": "2026-09-17T20:37:09.000Z",
+      "summary": "NASA selected SpaceX to launch StarBurst, a small satellite to study neutron star mergers and short gamma-ray bursts, on a Falcon 9 Bandwagon rideshare.",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "title": "Google announces experimental 'CC' AI agent for families",
+      "category": "technology",
+      "publishedAt": "2026-09-17T20:24:34.000Z",
+      "summary": "Google announced CC, an experimental AI agent that lets multiple family members share data so it can make plans and complete tasks.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/google/2026/09/google-announces-new-experimental-cc-ai-agent-for-families/"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "title": "Microsoft exec called AI scraping 'largest theft of labor in human history'",
+      "category": "technology",
+      "publishedAt": "2026-09-17T20:10:41.000Z",
+      "summary": "Emails from Microsoft and OpenAI show concern that AI could cause a 'doom loop' for news organizations, with one Microsoft executive describing AI scraping as the largest theft of labor in history.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/09/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history/"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "title": "Republican bill would require ISPs, DNS providers and VPNs to block piracy sites",
+      "category": "technology",
+      "publishedAt": "2026-09-17T19:07:28.000Z",
+      "summary": "A Republican bill would help rightsholders obtain court orders requiring ISPs, DNS providers and VPNs to block foreign piracy sites.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/09/republican-bill-would-order-isps-dns-providers-and-vpns-to-block-piracy-sites/"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "title": "AI watermarking can make LLMs follow harmful prompts they would otherwise refuse",
+      "category": "technology",
+      "publishedAt": "2026-09-17T18:33:13.000Z",
+      "summary": "Research found that Google's SynthID watermarking can cause language models to follow harmful instructions they would normally refuse.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/09/ai-text-watermarking-can-make-models-more-vulnerable-to-adversarial-prompts/"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "title": "First new cat species discovered in 100 years",
+      "category": "science",
+      "publishedAt": "2026-09-17T18:31:56.000Z",
+      "summary": "Scientists have described what is reported to be the first new cat species discovered in a century.",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "title": "Dozens poisoned by 'detox' IV drips containing toxins",
+      "category": "technology",
+      "publishedAt": "2026-09-17T17:43:50.000Z",
+      "summary": "Dozens of people were poisoned by IV drips marketed for detoxification; the drips contained glutathione that was not made for injection.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/09/sketchy-iv-drips-at-wellness-clinics-have-poisoned-dozens-cdc-and-fda-warn/"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "title": "New frog species discovered in western Amazon",
+      "category": "science",
+      "publishedAt": "2026-09-17T14:08:44.000Z",
+      "summary": "Scientists identified Adenomera varcena, a new frog species from flooded forests of the western Amazon, distinguished by DNA and its call.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260917003737.htm"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "title": "Astronomers confirm youngest known planet",
+      "category": "science",
+      "publishedAt": "2026-09-17T13:00:19.000Z",
+      "summary": "Astronomers confirmed Elias 2-24 b, a Jupiter-size planet less than a million years old, the youngest known planet.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260917003712.htm"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "title": "Simulations suggest JWST 'little red dots' are fast-growing black holes",
+      "category": "science",
+      "publishedAt": "2026-09-17T12:45:48.000Z",
+      "summary": "Supercomputer simulations suggest JWST's Little Red Dots are rapidly growing black holes from the early Universe.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260917003703.htm"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "title": "Brain axons may resemble strings of pearls, not smooth tubes",
+      "category": "science",
+      "publishedAt": "2026-09-17T10:54:28.000Z",
+      "summary": "Scientists found that axons may naturally resemble strings of tiny pearls rather than smooth tubes, and these structures may affect how fast electrical signals travel.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260915232138.htm"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "title": "Experimental mesothelioma drug targets tumors' antioxidant defense",
+      "category": "science",
+      "publishedAt": "2026-09-17T05:11:51.000Z",
+      "summary": "An experimental drug kills mesothelioma cells by disabling PRX3, an antioxidant defense the tumors rely on.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260915232136.htm"
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "title": "New Horizons data suggests liquid nitrogen flowed on Pluto",
+      "category": "science",
+      "publishedAt": "2026-09-17T04:02:29.000Z",
+      "summary": "Dark features on Pluto's Sputnik Planitia glacier are consistent with liquid nitrogen rising through cracks, the first evidence of recent liquid flow on the surface.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/09/260916232525.htm"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "title": "Haiti and Dominican Republic are last Caribbean island with endemic malaria",
+      "category": "world",
+      "publishedAt": "2026-09-17T01:10:29.000Z",
+      "summary": "Our World in Data notes Hispaniola is the last Caribbean island where malaria remains endemic.",
+      "sources": [
+        {
+          "name": "ourworldindata.org",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR3lZcWVlQTljMi13Ym5iUEdIaFJid1ZpY0w4VEw2OU5EVXJHeUNhemItOVQxTS1TWmpnYlV4clVLckk5NmZmSXJSd1kyOFhlME5HU2tmRmtsb1BLNldHemt2TjVIckgwZkFZQkpNSFUyeS1iZ1VoUVFYMXlXVDBuaWtfYTBwb3o2MkxtdTg2V3ZGQWxKT0tXRnViUlMxV0xWRDRFS19ta3RuaGJPTEJqdl94WGhzN3hQUWVDcHlfNDlGSkl2?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "title": "OpenAI discloses six new incidents of 'concerning' AI behavior",
+      "category": "ai",
+      "publishedAt": "2026-09-17T00:12:24.000Z",
+      "summary": "OpenAI disclosed six new incidents in which its AI systems exhibited behavior the company described as concerning.",
+      "sources": [
+        {
+          "name": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPanVqWlBmM21Obkh1TWdaekdGZS1CaEphcUllWFJnc1Rvdm9Ka3NHbWEtZFFWMU9vUW85ZnJpOW1fVG41djJPeEpjOFNoT0huMWtEVndLUVh2REN3VmNfRG5neXN0eW5YRktYX2w1MGR5QlFyQUlxWjFVREE4SWNkN05oMmIwbENJ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "title": "AI now outperforms some top human forecasters",
+      "category": "ai",
+      "publishedAt": "2026-09-16T18:47:08.000Z",
+      "summary": "The Economist reports that artificial intelligence systems now beat some of the best human forecasters.",
+      "sources": [
+        {
+          "name": "economist.com",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOVE2WlNjSlVyUjdJZzRYT1ZTSlI1cWFHdHJYcHhMNnREaXYzRzhINE8xWHZIZmh2TTFaOGllS0lTVU5sNDctUzhuOXpNQi1BbjBwalduUkE3SllUbEp3ZTFveEVZajZwOGRSVXhDaS02bnVCMkM3OWdBZTd5STl4a2dBbjNidGhpSlQ1OXlCanZRaXpoay02TU45cXk5b2c5dndkQnRCVHdCbUxvV1ljTkNtMmY4aDFnUEFHNm5iMGdhWjB4SHNR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "title": "Researchers create mouse with cortex made largely of human cells",
+      "category": "science",
+      "publishedAt": "2026-09-16T15:00:00.000Z",
+      "summary": "Researchers produced a mouse in which nearly half of its brain volume had been replaced with human cells, and tracked its behavior.",
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/"
+        }
+      ]
+    }
+  ]
+}
