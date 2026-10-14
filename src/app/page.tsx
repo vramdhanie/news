@@ -35,8 +35,8 @@ interface NewsFile {
 
 const CATEGORIES = config.categories as Record<string, { label: string; color: string }>;
 
-function relativeTime(iso: string): string {
-  const mins = Math.round((Date.now() - new Date(iso).getTime()) / 60000);
+function relativeTime(iso: string, now: number): string {
+  const mins = Math.round((now - new Date(iso).getTime()) / 60000);
   if (mins < 1) return "just now";
   if (mins < 60) return `${mins} min ago`;
   const hours = Math.round(mins / 60);
@@ -70,6 +70,19 @@ function Tag({ category }: { category: string }) {
 }
 
 export default function Home() {
+  // Ticks once a minute (and on tab focus) so the relative times stay
+  // current while the page is left open.
+  const [now, setNow] = useState(() => Date.now());
+  useEffect(() => {
+    const tick = () => setNow(Date.now());
+    const t = setInterval(tick, 60_000);
+    document.addEventListener("visibilitychange", tick);
+    return () => {
+      clearInterval(t);
+      document.removeEventListener("visibilitychange", tick);
+    };
+  }, []);
+
   const [data, setData] = useState<NewsFile | null>(null);
   const [loading, setLoading] = useState(true);
 
@@ -88,7 +101,7 @@ export default function Home() {
           News<span className="text-neutral-500">.</span>
         </h1>
         {data && (
-          <p className="text-xs text-neutral-500">updated {relativeTime(data.generatedAt)}</p>
+          <p className="text-xs text-neutral-500">updated {relativeTime(data.generatedAt, now)}</p>
         )}
       </header>
 
@@ -123,7 +136,7 @@ export default function Home() {
                 <article className="group py-3">
                   <div className="mb-1 flex flex-wrap items-center gap-2 text-xs text-neutral-500">
                     <Tag category={item.category} />
-                    <time dateTime={item.publishedAt}>{relativeTime(item.publishedAt)}</time>
+                    <time dateTime={item.publishedAt}>{relativeTime(item.publishedAt, now)}</time>
                   </div>
                   <a
                     href={sources[0]?.url}
