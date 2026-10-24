@@ -1,0 +1,1323 @@
+{
+  "generatedAt": "2026-10-24T18:06:19.763Z",
+  "failedFeeds": [
+    "Trinidad Express"
+  ],
+  "items": [
+    {
+      "id": 0,
+      "title": "DOJ orders California counties to verify ballots of possible noncitizens",
+      "category": "bayarea",
+      "publishedAt": "2026-10-24T18:00:00.000Z",
+      "summary": "Election officials across California, including Contra Costa County, received Justice Department letters demanding they verify ballots that may belong to noncitizens.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/10/24/doj-orders-contra-costa-other-california-counties-to-verify-ballots/"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Ukraine says Starlink service restored after week of disruptions",
+      "category": "world",
+      "publishedAt": "2026-10-24T17:54:25.000Z",
+      "summary": "President Volodymyr Zelenskyy said normal Starlink speeds were restored after more than a week of slowed connections that affected Ukraine's military and drone operations. Ukraine has also been adapting its drone and battlefield technology to reduce reliance on the service.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/10/24/nx-s1-6015482/ukraine-starlink-working-after-disruptions"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/ukraine-learns-to-fight-without-starlink-as-musk-plays-politics-with-satellites/"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Two rescued, five missing after Nairobi building collapse",
+      "category": "world",
+      "publishedAt": "2026-10-24T17:25:46.000Z",
+      "summary": "A multi-storey building under construction collapsed in Nairobi, Kenya; two people were rescued and five remain missing. Police have launched a manhunt for the building's owner and contractor.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "British woman dies trying to rescue sons swept out to sea in the Bahamas",
+      "category": "world",
+      "publishedAt": "2026-10-24T17:11:56.000Z",
+      "summary": "A British woman named Leanne died after attempting to rescue her sons who had been swept away at sea in the Bahamas, her partner Nathan Gregory said.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "A third of young adults use AI for substance-use information",
+      "category": "ai",
+      "publishedAt": "2026-10-24T16:25:00.000Z",
+      "summary": "A study found about a third of young adults turn to AI tools for information about substance use.",
+      "sources": [
+        {
+          "name": "Newswise",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVk9VQ3BTSXpXMldfNmtNZWlybzUwellMSnNzVmJ2YzhLMi04U3lsZ0NhZXhWRWRjaDNpUklTVXU5UkY3RlFkR19FUXhyc3lRX0ItY18zd0RBTTJSN2Z1MV9wMm9vYm16ZWVzY2ZTWFJzZzFPSG9ia3VLVUhyR0FqQjZlOFNPSE55Umw4eFpRZ1d1ejdaSkJ6S3J4VmFRQVE3TFpfMDhKeUhzTEthVkpnM2dMeng1bGxhQ0s00gG7AUFVX3lxTE5WT1VDcFNJelcyV182a01laXJvNTB6WUxKc3NWYnZjOEsyLThTeWxnQ2FleFZFZGNoM2lSSVNVdTlSRjdGUWRHX0VReHJzeVFfQi1jXzN3REFNMlI3ZnUxX3Ayb29ibXplZXNjZlNYUnNnMU9Ib2JrdUtVSHJHQWpCNmU4U09ITnlSbDh4WlFnV3V6N1pKQnpLcnhWYVFBUTdMWl8wOEp5SHNMS2FWSmczZ0x6eDVsbGFDSzQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Roku moves developer repositories from GitHub to GitLab",
+      "category": "technology",
+      "publishedAt": "2026-10-24T16:06:26.000Z",
+      "summary": "Roku has moved its developer repositories from GitHub to GitLab.",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://blog.roku.com/developer/gitlab-move"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "California Democrats rally for Proposition 50 redistricting measure",
+      "category": "bayarea",
+      "publishedAt": "2026-10-24T16:00:00.000Z",
+      "summary": "Supporters of Proposition 50 argue California needs emergency congressional maps to counter Republican redistricting elsewhere, though Democrats appear likely to retake the House regardless.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/10/24/california-democrats-rally-to-deliver-on-proposition-50-was-it-really-needed/"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Neural chip decodes interactions between brain regions",
+      "category": "technology",
+      "publishedAt": "2026-10-24T15:57:17.000Z",
+      "summary": "Researchers developed a neural chip that decodes interactions between brain regions.",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Man arrested after fire at Hitler's Eagle's Nest retreat in Germany",
+      "category": "world",
+      "publishedAt": "2026-10-24T15:21:44.000Z",
+      "summary": "About 200 emergency personnel fought a blaze at the Eagle's Nest, Adolf Hitler's former Alpine retreat in Germany. A man has been arrested.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Valkyries face Dream in Game 4 of WNBA Finals",
+      "category": "bayarea",
+      "publishedAt": "2026-10-24T14:00:00.000Z",
+      "summary": "The Golden State Valkyries play the Atlanta Dream in Game 4 of the WNBA Finals, with Atlanta leading the series 2-1.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/10/24/golden-state-valkyries-take-on-atlanta-dream-in-game-4-of-the-wnba-finals/"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Ear nerve stimulation device tested for resistant high blood pressure",
+      "category": "science",
+      "publishedAt": "2026-10-24T13:15:00.000Z",
+      "summary": "A clinical trial of 63 patients already on medication found a home-use device that stimulates nerves through the ear was safe and well tolerated, though it did not significantly lower blood pressure on its primary measure.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261023023732.htm"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Study finds language meaning organized around power, danger and order",
+      "category": "science",
+      "publishedAt": "2026-10-24T13:01:22.000Z",
+      "summary": "An analysis of billions of word uses suggests that meaning in human language is organized around power, danger and order rather than emotion alone, challenging decades of assumptions.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261023023738.htm"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Voter guide to California's three ballot bonds",
+      "category": "bayarea",
+      "publishedAt": "2026-10-24T13:00:00.000Z",
+      "summary": "Three bond measures are on the California ballot this election.",
+      "sources": [
+        {
+          "name": "CalMatters",
+          "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxQUngyemxDaHpkSzlGRWR6RmkyR2dCeldPVTlEY3pWT1ZRYVU1S0N6anE5QTJyVlM4d1pNSm9VUjhyOHRUUXlhVmI5WDUzMHd5eVVOSVQxZk1DWVNfN1M2OGRnLXd3NU1memJPWjNGVnpJYV9zZ0lCNnlBVC1IZF96QU8teG1rQzBEdUtNajU4akFjbjVKMVg5R1BvTUIwdDU2aDBOSFJDSEJEZHFHaGtTVWNad2tqb2c5VWFmaUxTR2loSDVFMHFsN1VELTMxQkZjZVlibDhNa0pibjF3V1FhbWFvT0NMMHQ5WHhfTnBfZkg3dDJKNXkxZUE4TWxNN0pxQnZXYWlkM3A0b0RRdE1nV3pVX2hSZWFZZjlkQV9qT0lqM1hnRGhDX3hPSWV5S0tvb01sblBuY3FZUzFRNFhhNVhXekViODNueW5xaQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Bennu samples suggest asteroid formed where inner and outer Solar System material mixed",
+      "category": "science",
+      "publishedAt": "2026-10-24T12:50:06.000Z",
+      "summary": "Analysis of samples returned from asteroid Bennu indicates it formed in a region where material from the inner and outer Solar System mixed, with Jupiter playing a role in its formation.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261023023734.htm"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Scientists propose method to detect hypothetical 'mirror life'",
+      "category": "science",
+      "publishedAt": "2026-10-24T12:39:16.000Z",
+      "summary": "Researchers proposed using fluorescent molecules and polarized light to detect mirror life, a hypothetical form of life with reversed molecular structure that could pose risks if artificially created.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261023023726.htm"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Balloon telescope reveals thread-like magnetic structures above the Sun",
+      "category": "science",
+      "publishedAt": "2026-10-24T12:23:38.000Z",
+      "summary": "A balloon-borne telescope observed fine, thread-like magnetic structures in the solar atmosphere above quiet regions of the Sun, apparently shaped by twisting motions at the surface.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261023023723.htm"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Dwarf reedsnakes roll up to four times faster than they slither",
+      "category": "science",
+      "publishedAt": "2026-10-24T12:12:03.000Z",
+      "summary": "Scientists found that dwarf reedsnakes in Southeast Asia escape threats by rolling across the ground at up to four times their slithering speed, using coordinated body movements.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261023023718.htm"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "State regulators restrict LA chemical plant amid neighbor protests",
+      "category": "bayarea",
+      "publishedAt": "2026-10-24T12:00:00.000Z",
+      "summary": "California regulators have placed tight conditions on a Los Angeles chemical plant as neighbors continue protesting its operations.",
+      "sources": [
+        {
+          "name": "CalMatters",
+          "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPQlhzbTJpQTlFNlNldkh3R2Z1bzU4THBkZ1A0RE1SQjA2dFR5elFIZU9XNGFPYm5lSUhCejdGZjM5cXI3SkltYV9pQmJEdHlZaHAxQUhobDFZWTRVNW5tU3NPcGNpZEhjUmt5MUlnc1BFY1QxY3lpODhiMGFqLTdIcVZvMGFLM3g4T18wWVNSRFNXaVRvWmlQb1I4SmE5ODU2enJjVm1PbGY5YnUwbkpENkNIa05PejIzNVlkSmU0bjNma3kyVjJuY0tkYXpobmV0S2d1VW1lcmtEWXRNZjVtSEVxZ0ZBbVBwQ0xTdU9uQnBRV3JDTGVJQkU1b19hSHluRnpfaHo2enU5bHh1bkdaNzBha2ctWS1PaXZOUVRxdWRFbFZvd3FUVEJERHdYcjhNMGU0VWh0Nm03NDNRYUFQWlUwMkRMT0ti?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Gunmen kill seven at church funeral in Karak, Jordan",
+      "category": "world",
+      "publishedAt": "2026-10-24T11:59:08.000Z",
+      "summary": "Three gunmen opened fire at a Greek Orthodox church during a funeral in the southern city of Karak on Friday, killing seven people and wounding dozens. A manhunt is under way.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/10/24/nx-s1-6015414/shooting-church-jordan"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Model suggests 1,000-mile Martian cloud may involve unobserved ice physics",
+      "category": "science",
+      "publishedAt": "2026-10-24T11:50:28.000Z",
+      "summary": "A new model suggests a 1,000-mile cloud on Mars may form through ice-forming physics never directly observed before.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Student movement challenges Vučić in close Serbian parliamentary election",
+      "category": "world",
+      "publishedAt": "2026-10-24T11:42:11.000Z",
+      "summary": "The Student List, formed after nearly two years of anti-corruption protests, is running candidates in Sunday's parliamentary elections and is polling neck-and-neck with President Aleksandar Vučić's governing party, which has held power for 14 years. Students have also protested across Europe ahead of the vote.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Switching off protein Mitch makes human cells burn more fat",
+      "category": "science",
+      "publishedAt": "2026-10-24T11:16:08.000Z",
+      "summary": "Researchers found that disabling a protein called Mitch increases fat burning in human cells and prevents new fat cells from forming, building on mouse studies showing resistance to obesity.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261023002905.htm"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "San Francisco street name to change again",
+      "category": "bayarea",
+      "publishedAt": "2026-10-24T11:14:10.000Z",
+      "summary": "A contested San Francisco street name is set to be changed again.",
+      "sources": [
+        {
+          "name": "SFGATE",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTlVxNjA2YzlNcW14aE1lazNJVmo5VEhyMERraVNacXhSd3Awd0hZaHVEWXNQaGRlc3Z4WVNYcDI4SHZqMWhqUTdGQy0tbkdvOUI2VnU0dXB4NHQwSWdfVHEyREtUeHc1d3E3TXNaS2JFMnIwRnAyN2t4ZkJfb3QyN1l3QjJVaFA3eFE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Billionaires spend millions on San Francisco politics",
+      "category": "bayarea",
+      "publishedAt": "2026-10-24T11:04:14.000Z",
+      "summary": "Billionaires are spending millions of dollars on San Francisco political campaigns.",
+      "sources": [
+        {
+          "name": "San Francisco Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ1AwdlN0djg0aEk1QzlvSER4ZVVJd0E3akVybW1jTXpRTk0tNU15STdqSEg3Z016SE1ZdTNmSWxXRFJndVVBYjdtbTluOV91azFxdi01UHF0SEFGYWJ2d1lMeEVaS0V5eXhCQzVJWWhNMjdIeUJkcmNiUHlZdzRVSnoxeTZOU2dmcWJoSE1tdEhZZkE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Bay Area expects last dry weekend before rain",
+      "category": "bayarea",
+      "publishedAt": "2026-10-24T11:00:28.000Z",
+      "summary": "The Bay Area may have its last dry weekend for a while before rain arrives.",
+      "sources": [
+        {
+          "name": "San Francisco Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWlRPODUzaF9Pb181MHVPanNvcS1ERWctNnREcHdYUHo5dm5HRHVpcS1tV2VHYV9HNFpvWXRFTVBkb1VBMkd2YTM1WnZaYk9FZi1randMeFQ2b2xGY0hnUVp1NTBsRGJQWE1vYmJ1Qjd0TElMTDd6NWxEUTV4R1dRTmdQZVN0U0lWQ3JGR3VpR3Z5UGYwTmpzYURSUkhFZ2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Study suggests remnant of Laurentide Ice Sheet began growing 2,000 years ago",
+      "category": "science",
+      "publishedAt": "2026-10-24T11:00:09.000Z",
+      "summary": "Research indicates remnants of the Laurentide Ice Sheet began expanding about 2,000 years ago, a trend since reversed by human-driven warming.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Google says Gmail and Photos data shared with AI features may be used for ads",
+      "category": "technology",
+      "publishedAt": "2026-10-24T10:36:00.000Z",
+      "summary": "Google's updated privacy policy says data from Gmail and Photos shared through its Personal Intelligence AI features could be used for targeted advertising.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/"
+        },
+        {
+          "name": "The Hacker News",
+          "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qRDRfVDhHUXo1V2dlTDA3c1NMWmJabkRmRTVzYkdRSEo4cUEtNUZSdXhVenpUVTNSbW4tMW5IdmlITVFlN0lLWlNBa0lpLW9SUjRnZnZxVVc1c2J2WFZaLUVvREhzQUtxUzVCWDl4cDFtM0d3RzVJUEcyYzA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Researchers unlock higher FP/BF16 instruction rates on Nvidia RTX 3000 cards",
+      "category": "technology",
+      "publishedAt": "2026-10-24T09:58:27.000Z",
+      "summary": "A project called GPU-unlock examines FP and BF16 instruction issue rates on Nvidia RTX 3000-series graphics cards.",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://github.com/Zagitta/gpu-unlock"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Second Ebola death reported in Kenya as Nigeria records first case",
+      "category": "world",
+      "publishedAt": "2026-10-24T09:46:53.000Z",
+      "summary": "A 65-year-old woman, a close relative of Kenya's first Ebola victim who had travelled from the Democratic Republic of Congo, has died. Authorities are investigating whether the first Kenyan and Nigerian cases crossed paths as the outbreak spreads from Congo to several African countries.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/10/23/g-s1-149515/africa-ebola-outbreak"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Three released without charge after fatal arson attack in Ireland",
+      "category": "world",
+      "publishedAt": "2026-10-24T09:38:28.000Z",
+      "summary": "Two women and a man were released without charge following a fatal arson attack in Ireland; one person remains in custody, police said.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cv0ld9571511o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Coutain and Tano release Mighty Sparrow tribute 'Old Soul'",
+      "category": "tt",
+      "publishedAt": "2026-10-24T07:20:22.000Z",
+      "summary": "Artists Coutain and Tano released 'Old Soul', a song celebrating the legacy of calypsonian the Mighty Sparrow.",
+      "sources": [
+        {
+          "name": "Soca News",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRWhycFNrakxXdEpZdmlqd1oyYnBWWU04eGtEMHdiamNjVC1HbGhoWWR2S2JDb2NUQ3NaX1hJOHRNMnluRTFlanlGejBodUJLTXluMjZ6bzFqbUExbEU4MmxBS3JOcHh0OTNZbnhuNld5NTNmTVRtXzR2eE9Jb3hub21RYUhmdE1iUUlseGNYVXUwV2lX?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Ukraine and Russia confirm truce in occupied Oleshky",
+      "category": "world",
+      "publishedAt": "2026-10-24T07:17:44.000Z",
+      "summary": "Ukraine and Russia confirmed a truce in Russian-occupied Oleshky, where residents have reportedly eaten weeds to survive. The White House said Melania Trump brokered the agreement.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Water supplies dwindle in Yemen's Houthi-besieged city of Taiz",
+      "category": "world",
+      "publishedAt": "2026-10-24T07:04:13.000Z",
+      "summary": "Taiz in southwestern Yemen faces a worsening water crisis as Iran-backed Houthi rebels tighten their encirclement of the city.",
+      "sources": [
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Former border patrol chief calls Minneapolis withdrawal a 'surrender'",
+      "category": "world",
+      "publishedAt": "2026-10-24T05:31:01.000Z",
+      "summary": "Greg Bovino, who led the controversial immigration enforcement operation in Minneapolis earlier this year, told the BBC the federal withdrawal from the city amounted to surrender.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ck20rery78lro?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "OBS Studio 33 released",
+      "category": "technology",
+      "publishedAt": "2026-10-24T04:49:58.000Z",
+      "summary": "Version 33 of the open-source streaming and recording software OBS Studio has been released.",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Asheville drag performer says attack ad falsely linking her to candidate used AI",
+      "category": "ai",
+      "publishedAt": "2026-10-24T02:56:42.000Z",
+      "summary": "An Asheville drag performer said a political attack ad falsely linking her to candidate Jamie Ager was made with AI.",
+      "sources": [
+        {
+          "name": "WLOS",
+          "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNRWtlZmVuaUJZaW4wZFMwMXJnbmF2ZGczb1VkaFRrS3BWREo1dE4tMk1xTlZ2YTNWNDY2VXRkbzdlYTF3SE51SEpKWnNxTVpHYVRkVGs1WmwxckZxaXVaRHkxTTNXY1BKOTA5TTc5aXFNb0F6cERoS091dE54V3RsTl9ndVE0N2dxYlJPVTZNeWp2UXZESi1LOHdpc0hHUjU2YUNDbVJUal83MHNjZkEwc0Y0Q0hPWXZQdUdZV19SQ3pIY3UxRU54RzNlVXRWUUwyMVBYY29iVHlVX2tTb3gyQjdrVzZfQ3hacmQxS3RvNzJ5QmhXcU1NaUV6emJXZUZnbHdsUlhrR1E1c20yb1Zr?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "150-million-year-old fossil bird from China shows earliest known flight loss",
+      "category": "science",
+      "publishedAt": "2026-10-24T02:42:19.000Z",
+      "summary": "A fossil bird found in China with sharp teeth and a dinosaur-like claw appears adapted to life on the ground, which scientists say is the earliest known example of flight loss in birds.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261023023710.htm"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Australian MP's condition improves after alleged car attack",
+      "category": "world",
+      "publishedAt": "2026-10-24T01:55:15.000Z",
+      "summary": "An independent Australian MP injured in an alleged car attack is now in serious but stable condition at a Melbourne hospital.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Blue Waters sponsorship of Divali Nagar draws PM's criticism",
+      "category": "tt",
+      "publishedAt": "2026-10-24T01:23:28.000Z",
+      "summary": "Prime Minister Kamla Persad-Bissessar called Blue Waters' sponsorship of Divali Nagar 2026 a PR stunt, citing alleged ethnic slurs by its owners. Blue Waters said it is proud to preserve T&T's cultural legacy, and NCIC's Mangaroo denied reports of a board rift over the deal, which followed withdrawals by state sponsors.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/its-a-pr-stunt-pm-condemns-blue-waters-sponsorship-of-divali-nagar-calls-it-ironic-after-recent-fallout-over-ethnic-slur/?utm_source=rss&utm_medium=rss&utm_campaign=its-a-pr-stunt-pm-condemns-blue-waters-sponsorship-of-divali-nagar-calls-it-ironic-after-recent-fallout-over-ethnic-slur"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Finance Minister admits error in TRHA budget allocation",
+      "category": "tt",
+      "publishedAt": "2026-10-24T01:23:16.000Z",
+      "summary": "Finance Minister Davendranath Tancoo acknowledged an error in the 2027 Budget allocation for the Tobago Regional Health Authority and said it will receive enough funding to operate.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/tancoo-admits-budget-error-in-trha-allocation/?utm_source=rss&utm_medium=rss&utm_campaign=tancoo-admits-budget-error-in-trha-allocation"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Tobago tourism and Carnival funding cut for 2027",
+      "category": "tt",
+      "publishedAt": "2026-10-24T01:23:15.000Z",
+      "summary": "The THA's Tourism and Hospitality Sector support programme allocation was cut by 80% for 2027, and several Tobago Carnival-linked entities also received less funding.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/tobagos-tourism-carnival-funding-cut-for-2027/?utm_source=rss&utm_medium=rss&utm_campaign=tobagos-tourism-carnival-funding-cut-for-2027"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Junior Benjamin acts as Police Commissioner while Guevarro attends US conference",
+      "category": "tt",
+      "publishedAt": "2026-10-24T01:23:13.000Z",
+      "summary": "Deputy Commissioner Junior Benjamin is acting Commissioner of Police until Wednesday while Commissioner Allister Guevarro leads a T&T delegation at an international police conference in the US.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/benjamin-acts-as-cop-as-guevarro-attends-us-conference/?utm_source=rss&utm_medium=rss&utm_campaign=benjamin-acts-as-cop-as-guevarro-attends-us-conference"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Repairs to Goodwood police post in Tobago to start next week",
+      "category": "tt",
+      "publishedAt": "2026-10-24T01:23:12.000Z",
+      "summary": "THA Chief Secretary Farley Augustine said remedial works on the abandoned Goodwood micro policing unit, affected by soil erosion, will begin next week.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/farley-goodwood-police-post-repairs-start-next-week/?utm_source=rss&utm_medium=rss&utm_campaign=farley-goodwood-police-post-repairs-start-next-week"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Family of missing Tobago fisherman seeks DNA tests on bodies found in SVG",
+      "category": "tt",
+      "publishedAt": "2026-10-24T01:23:09.000Z",
+      "summary": "Relatives of one of two Tobago fishermen missing for nearly two weeks are seeking DNA testing after two decomposed bodies were found in St Vincent and the Grenadines waters.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/fishermans-family-seeks-dna-tests-after-two-bodies-found-in-svg/?utm_source=rss&utm_medium=rss&utm_campaign=fishermans-family-seeks-dna-tests-after-two-bodies-found-in-svg"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Developer recounts twelve years of distributed SQLite",
+      "category": "technology",
+      "publishedAt": "2026-10-24T01:16:58.000Z",
+      "summary": "A write-up reviews twelve years of experience running distributed SQLite.",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "About a dozen banking apps now explicitly permit GrapheneOS",
+      "category": "technology",
+      "publishedAt": "2026-10-24T01:15:14.000Z",
+      "summary": "Around a dozen banking apps have begun specifically allowing use on the GrapheneOS mobile operating system.",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://grapheneos.social/@GrapheneOS/117492375462459244"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Thick fluid around glioblastoma tumors makes cancer cells more invasive",
+      "category": "science",
+      "publishedAt": "2026-10-24T00:48:21.000Z",
+      "summary": "Researchers found that viscous fluid surrounding glioblastoma tumors makes brain cancer cells smaller, more flexible and more invasive, with some changes persisting after the cells leave it.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261022081300.htm"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Pierre Road Ramleela finale to burn 85-foot Ravana effigy",
+      "category": "tt",
+      "publishedAt": "2026-10-24T00:44:28.000Z",
+      "summary": "The Ramleela celebrations at Pierre Road Recreation Ground in Charlieville, Chaguanas, will close with the burning of three Ravana effigies, one 85 feet tall.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/pierre-road-ramleela-finale-to-feature-85-foot-ravana-effigy/?utm_source=rss&utm_medium=rss&utm_campaign=pierre-road-ramleela-finale-to-feature-85-foot-ravana-effigy"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Venezuelan Sucre State delegation to visit T&T",
+      "category": "tt",
+      "publishedAt": "2026-10-24T00:40:44.000Z",
+      "summary": "Public and private sector officials from Venezuela's Sucre State will visit Trinidad and Tobago next week to explore trade and investment partnerships.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/venezuelan-delegation-to-visit-tt-next-week/?utm_source=rss&utm_medium=rss&utm_campaign=venezuelan-delegation-to-visit-tt-next-week"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "title": "US eases tariffs on some Canadian goods from 30 October",
+      "category": "world",
+      "publishedAt": "2026-10-24T00:36:47.000Z",
+      "summary": "The White House will lift tariffs on some Canadian products, including certain machinery, from 30 October, while imposing them on others such as carpets.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Bill Gates warns of 20 years of turmoil from AI",
+      "category": "ai",
+      "publishedAt": "2026-10-24T00:31:44.000Z",
+      "summary": "Bill Gates warned that artificial intelligence could bring two decades of disruption.",
+      "sources": [
+        {
+          "name": "Anadolu Ajansı",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ3ZBTjZncDZraHU2LWZjajJpNVpDSXo1RC1TS1FLMGVGMm04OUV0V2J0NENGbVNxOFl5UFRpcWFjTVNST2RIMmVZRko4WVdTaDFRLUk2elZSTkhrYjlkeEdSMjR4OEFjYjAxcFptaU94T0JaZ25TbTktSGJuN2J5Zjc1YXhSbmtCb3BTbEp6R1ppUU5iZ3VCU0RhQ0RERnpJa28zWEpOUVZ4UEE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "title": "Slain former SFPD deputy chief Ann Mannix and daughter remembered",
+      "category": "bayarea",
+      "publishedAt": "2026-10-23T23:44:08.000Z",
+      "summary": "Former San Francisco police deputy chief Ann Mannix and her daughter Katie, who were killed, were remembered at a memorial.",
+      "sources": [
+        {
+          "name": "Mission Local",
+          "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbl9GT0RLUHJUWlpHY0xOTjdJTlVJWjVmZnI3M0ZCXzFTbWFjZnk1YjJOS1RMY1l6S2JpNnBaMktLZ0w4eUd0QTRmWTBJQ2lmdDhwWWtZLWNQcjZkZjFNMU1kMmlIVHV3TkdzWHUzTW5lT2pib1VoUVZpcWVKbEh0dXlxUkt3RnptSUlNU05OWl92S3BpNUQwSnNsQ1o3TWlIcVFIN0EyMXNJd0ZrckU1cmp2NWM3R0lhRG56NEFvZmJpb2lrem1PaUN2V1Rudw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Former Benicia teacher found guilty of sexually abusing students",
+      "category": "bayarea",
+      "publishedAt": "2026-10-23T23:40:30.000Z",
+      "summary": "A Solano County jury found former Benicia elementary teacher Matthew Shelton guilty of sexually abusing students; he was acquitted of similar allegations in Napa.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/10/23/former-benicia-elementary-teacher-found-guilty-of-sexually-abusing-his-students/"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Newsom weighs commuting death sentences of more than 500 inmates",
+      "category": "bayarea",
+      "publishedAt": "2026-10-23T23:40:00.000Z",
+      "summary": "In his final months in office, Gov. Gavin Newsom is considering converting the death sentences of more than 500 California inmates to life without parole.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/10/23/governor-newsom-weighs-commuting-the-death-sentences-of-over-500-inmates/"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "title": "San Francisco reports 48 overdose deaths in September, one linked to new opioid",
+      "category": "bayarea",
+      "publishedAt": "2026-10-23T23:15:40.000Z",
+      "summary": "The San Francisco medical examiner reported 48 accidental overdose deaths in September, including one linked to a new opioid.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/10/23/death-linked-to-new-opioid-included-in-san-franciscos-latest-overdose-snapshot/"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "title": "NASA streamlines Blue Origin and SpaceX lander plans for 2028 Moon missions",
+      "category": "science",
+      "publishedAt": "2026-10-23T22:48:25.000Z",
+      "summary": "NASA and commercial lander providers Blue Origin and SpaceX have streamlined lander designs and changed concepts of operations to accelerate development for 2028 lunar missions. NASA also said it has resolved a long-standing issue with the Orion spacecraft.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/"
+        },
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/missions/artemis/nasa-partners-accelerate-lander-development-for-2028-moon-missions/"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "title": "Father who killed Oregon school gunman speaks about the attack",
+      "category": "world",
+      "publishedAt": "2026-10-23T22:47:07.000Z",
+      "summary": "Kaylub Giamanco, who killed a teenage gunman after the attacker fatally shot three children and a teacher at an Oregon school, described his anguish over the victims he could not save.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/crgj9ndwvj9jo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Artemis III to test Moon lander operations in 2027",
+      "category": "science",
+      "publishedAt": "2026-10-23T22:37:53.000Z",
+      "summary": "NASA's Artemis III mission, launching in 2027 with NASA astronauts Randy Bresnik, Frank Rubio and Andre Douglas plus an ESA astronaut, will test future Moon lander operations before crews return to the lunar surface.",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/missions/artemis/nasas-artemis-iii-mission-to-test-future-moon-lander-operations/"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "title": "Compensation fund opens for Vanilla gift card scam victims",
+      "category": "bayarea",
+      "publishedAt": "2026-10-23T22:00:00.000Z",
+      "summary": "Following a San Francisco lawsuit, a fund is available for Californians affected by Vanilla gift card draining scams between 2019 and 2024.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/10/23/vanilla-gift-card-scam-draining-compensation-fund-san-francisco-california-deadline/"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "title": "NASA's Swift Observatory ends science mission",
+      "category": "science",
+      "publishedAt": "2026-10-23T21:51:19.000Z",
+      "summary": "NASA's Neil Gehrels Swift Observatory has ended its science mission after its orbit decayed below 275 kilometers, where atmospheric drag prevents its telescopes from holding steady on targets.",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/missions/swift/nasas-swift-mission-ends/"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "title": "Israel closes West Bank and vows military operation after checkpoint attack",
+      "category": "world",
+      "publishedAt": "2026-10-23T21:38:54.000Z",
+      "summary": "Two Palestinian gunmen attacked an Israeli military checkpoint near Hebron, killing two soldiers before being shot dead. Israel ordered a closure of the West Bank and the prime minister pledged a major military operation.",
+      "sources": [
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/10/23/nx-s1-6013613/israeli-pm-pledges-massive-military-operation-after-west-bank-checkpoint-attack"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "title": "First snow of the season falls in the Sierra",
+      "category": "bayarea",
+      "publishedAt": "2026-10-23T21:00:00.000Z",
+      "summary": "The first snowfall of the season dusted the Sierra Nevada.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/10/23/the-first-snowfall-of-the-season-just-dusted-the-sierra-will-it-stick-around/"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "title": "Bay Area Brazilians prepare to vote in Lula-Bolsonaro runoff",
+      "category": "bayarea",
+      "publishedAt": "2026-10-23T20:30:00.000Z",
+      "summary": "Brazilians in the Bay Area are organizing to vote from abroad in Sunday's presidential runoff between Lula and Bolsonaro.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/10/23/brazil-votes-for-a-new-president-on-sunday-how-bay-area-brazilians-are-following-the-race/"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "title": "Hegseth warns prediction market bets endanger troops",
+      "category": "technology",
+      "publishedAt": "2026-10-23T20:28:43.000Z",
+      "summary": "A Pentagon memo from Defense Secretary Pete Hegseth warns that insider betting on prediction markets could give adversaries intelligence on military operations.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "title": "Possible tuberculosis cluster linked to SF strip club investigated",
+      "category": "bayarea",
+      "publishedAt": "2026-10-23T20:06:51.000Z",
+      "summary": "Health officials are investigating a potential tuberculosis cluster linked to a San Francisco strip club.",
+      "sources": [
+        {
+          "name": "SFGATE",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9acExmZE1YUXhQOXk1WnNHX3drMEFJM1p0OFhsRHVkblAtR2tZdGNmYmhqUVU4WEZYb3I4SHdEWWVDdjBBZ3d5VV9mclphaGVYWnROUkpIU2tIRi02U2p3eTZ0ZHFvRE1XOTdUQUU0dDZDVUVraVgw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "title": "San Francisco declares local emergency ahead of El Niño",
+      "category": "bayarea",
+      "publishedAt": "2026-10-23T19:58:48.000Z",
+      "summary": "San Francisco declared a local emergency to prepare for flooding and rising seas from a strengthening El Niño, joining other Bay Area cities and the state.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/10/23/san-francisco-declares-local-emergency-in-preparation-for-historic-el-nino/"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "title": "Space Force weighs locations for new spaceport",
+      "category": "technology",
+      "publishedAt": "2026-10-23T19:33:58.000Z",
+      "summary": "The Space Force is considering public-private, federal installation and state land options for a new spaceport.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "title": "Spotify tightens enforcement of family plan rules",
+      "category": "technology",
+      "publishedAt": "2026-10-23T19:20:27.000Z",
+      "summary": "Spotify is stepping up enforcement on family plans and may require members to scan a QR code to verify they live together.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "title": "NASA Stennis completes full-duration RS-25 engine test",
+      "category": "science",
+      "publishedAt": "2026-10-23T18:57:04.000Z",
+      "summary": "NASA tested RS-25 engine No. 10001 at Stennis Space Center in Mississippi on October 21 in a 500-second hot fire, matching the burn time of the engines during an SLS launch.",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/image-article/rs-25-engine-tests-at-nasa-stennis/"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "title": "Justice Department sues to block certification of Alaska election",
+      "category": "world",
+      "publishedAt": "2026-10-23T18:49:14.000Z",
+      "summary": "The Trump administration filed a lawsuit arguing that two candidates named Dan Sullivan on the ballot could confuse voters, and sought to block certification of the upcoming Alaska election.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "title": "Sam Altman says AI-era software bugs can no longer all be patched",
+      "category": "ai",
+      "publishedAt": "2026-10-23T18:40:48.000Z",
+      "summary": "OpenAI CEO Sam Altman said he no longer believes it will be possible to patch all software bugs.",
+      "sources": [
+        {
+          "name": "Gizmodo",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObkp5NEdMM3dXdnRJQjRFZEFmbW9KbkJFNUxRZ0dxaHJOV1dHS2VQNG9vTFcxeVYwNzFITXptRGszUkxDM1FtMUdLZ29CVkhqazZ4U0ZBWEdIWkJ5WkZEa1Yxa0pXM0g5dmRCbWNUSGZiZnRPdHNORC1tR18zQ1h6VXhVdU1UWDJwbUplZ0QtNXROU3ZodGEtcEIwZHlyZk5jaG1ucjNTNG8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "title": "ICE arrest raises concerns at Oakland's Highland Hospital",
+      "category": "bayarea",
+      "publishedAt": "2026-10-23T18:39:27.000Z",
+      "summary": "Staff and community members at Oakland's Highland Hospital raised concerns after ICE agents allegedly brought in a detained patient with six fractured ribs.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/10/23/oakland-immigration-arrest-raises-questions-about-ice-free-zones-training-at-hospitals/"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "title": "Report: going car-free in SF could save families over $18,000 a year",
+      "category": "bayarea",
+      "publishedAt": "2026-10-23T18:34:37.000Z",
+      "summary": "A report estimates San Francisco families could save more than $18,000 a year by going car-free.",
+      "sources": [
+        {
+          "name": "KRON4",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOU096cEFCTXRsUEE0NGNHVnRQMXNjR2x2LV9kN0w0dEdzQW9xWnlBamR4QTBKZ1lXZy1RbzAtd1BFT2pfMDRpYUpPbnRHYk1fUEg5ZHdFaWxXNnZjSFEteEZTOGxyQjN5UEpYWTFITVI4UHZVemVKUlN3bTQ2SDg0cWdYNU84Ty1WYzdzbHktWHZOb3FxTUs4aGlpVkdCV1I50gGmAUFVX3lxTE9WbWNnOTJLcGpQLUhRSW4tRUV0RTVFcnFZM2tucGNheFpsWEJldU1fMVVvQ2pkSGJ6X2Y4c1E4cEF5Z2lBS0NUTFQtdi1KZzlzVW9wX0hKR2lnRGRHMU9LOG9vemhnbmNnbi03TXprZktFRTg0bzZ6YVgtVl9yWEM4TU9KN3E1QVpmVnFmS0FwLVoyTkFEbV9nWk9vUnlnREY4LUw3Q2c?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "title": "State AI laws create complex landscape for psychologists",
+      "category": "ai",
+      "publishedAt": "2026-10-23T18:34:12.000Z",
+      "summary": "Varying state laws on artificial intelligence are creating a complicated regulatory picture for psychologists.",
+      "sources": [
+        {
+          "name": "American Psychological Association (APA)",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdGwtRG9IRHhaeHlvbEtHLWtQSzhZTkFJajZBVU1IcmMtZzJwNVo1S1paWlNScnJhSkNTUWlzRy1wYjZneUV5QkdqQzI3a0dwQnQ0NXFPUk1yZ2w2UHBkU2RwMzZubFAwMjNOTUNESHluMWxCbko1c3JtRXJWWjlTcG55dHRjWTF5cUJUTkxicF9rRGZuN092WDVoNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "title": "NASA Langley partners with Virginia on energy security",
+      "category": "science",
+      "publishedAt": "2026-10-23T17:50:21.000Z",
+      "summary": "NASA's Langley Research Center is partnering with the Virginia Department of Energy to provide solar, meteorological and other data to support energy generation and delivery decisions.",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/centers-and-facilities/langley/nasa-power-energy-partnership/"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "title": "Crows process visual information about twice as fast as mammals",
+      "category": "science",
+      "publishedAt": "2026-10-23T17:32:58.000Z",
+      "summary": "Research found crows evaluate visual information about twice as fast as mammals, likely helped by birds' compact nervous systems.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/10/crows-can-evaluate-visual-info-twice-as-fast-as-mammals/"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "title": "Intel gets waiver from US ban on foreign-made robots",
+      "category": "technology",
+      "publishedAt": "2026-10-23T17:18:31.000Z",
+      "summary": "Intel received a waiver after concerns that a broadly worded US ban on foreign-made robotic vehicles could affect its chip fabs, which the company says rely on such equipment.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/10/intel-gets-waiver-after-worries-fuzzy-us-ban-on-foreign-made-robots-may-hit-fabs/"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "title": "NIH board warns proposed vaccine injury clinic could damage its hospital",
+      "category": "science",
+      "publishedAt": "2026-10-23T16:58:39.000Z",
+      "summary": "An NIH advisory board warned that a vaccine injury clinic backed by Health Secretary Robert F. Kennedy Jr. could harm trust in the NIH Clinical Center.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/10/rfk-jr-s-vaccine-injury-clinic-could-damage-nih-hospital-board-warns/"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "title": "Knicks used fake championship ring offer in employee phishing test",
+      "category": "technology",
+      "publishedAt": "2026-10-23T16:51:59.000Z",
+      "summary": "The New York Knicks sent employees a fake offer of championship rings as part of a phishing test, according to a report.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/10/knicks-sent-employees-fake-offer-of-championship-rings-in-phishing-test-report/"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "title": "Security researchers report successful iPhone hack",
+      "category": "technology",
+      "publishedAt": "2026-10-23T16:21:50.000Z",
+      "summary": "A security research team reported it had successfully hacked the iPhone, its stated target.",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://blog.calif.io/p/iphone"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "title": "Husband to stand trial for murder in death ruled a suicide by Contra Costa coroner",
+      "category": "bayarea",
+      "publishedAt": "2026-10-23T16:00:00.000Z",
+      "summary": "More than a decade after Brenda Leon's death was ruled a suicide by the Contra Costa County sheriff-coroner, her husband will stand trial for her murder.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/10/23/despite-the-evidence-contra-costa-countys-sheriff-coroner-called-her-death-a-suicide/"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "title": "Researchers image the portal malaria parasites use to invade red blood cells",
+      "category": "science",
+      "publishedAt": "2026-10-23T14:54:10.000Z",
+      "summary": "Scientists captured detailed images of the temporary molecular opening the malaria parasite creates to enter red blood cells, which closes behind it.",
+      "sources": [
+        {
+          "name": "Quanta Magazine",
+          "url": "https://www.quantamagazine.org/malaria-parasite-caught-in-the-act-of-breaking-and-entering-20261023/"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "title": "Texas Longhorns used AI in game preparation against Florida",
+      "category": "ai",
+      "publishedAt": "2026-10-23T14:16:41.000Z",
+      "summary": "The University of Texas football program used AI tools in preparing for its game against Florida.",
+      "sources": [
+        {
+          "name": "Austin American-Statesman",
+          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYjF6M2x3R2hodlk0dGJGZGFKNmNZQlBEOVd1SXA2b2pGQk9wQnl2TnhZeldjZ25ZdzduTERsTTVfeDh5bzJpNXhKRTV6c1NwbnhPTjVjMGJBa1A0WVdWWUxfUHFPTVhLLXdoeVN0MWgtbVhGNGlsT2JzbVF3c3JQSk9XbXprNWIxZ3JhRlE5cW11ZU1US3Z4dmtYYXMwQ2ozY2lNM24tMGV4SXZZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "title": "Flagship nuclear reactor project hit by further problems",
+      "category": "technology",
+      "publishedAt": "2026-10-23T13:43:21.000Z",
+      "summary": "A reactor meant to showcase nuclear power's revival has had new setbacks, including a contractor falling into a reactor cavity and a fuel rod bundle nearly toppling.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/10/safety-concerns-cloud-americas-flagship-nuclear-restart/"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "title": "Parent objects after child brings home AI-generated school photo",
+      "category": "ai",
+      "publishedAt": "2026-10-23T13:27:00.000Z",
+      "summary": "A mother objected after her 6-year-old brought home an AI-generated photo from school.",
+      "sources": [
+        {
+          "name": "USA Today",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTzhUVk54bHE1YUFQWC0wZ0JqdE8zSEVuM1AwRzJwMlN5dUhiMy1ITXpzMy0tOTQ0N29qZXVaZDRIcThpZlczbzBMeVppcTM4V0ZVbDYxN2lDWkk5a3liUm9VZTVaeTNUUVE0MkxaV0VNVGVVcWQ4S2Vqb1hQcU9oeXZqNXY3bmpLWExxdDN6QUEzc1dhSEwxRkplbE1sZXluQ2l3UVlsc2Y3NkFRT2hNRlNB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "title": "Japan's Kikai caldera magma reservoir is refilling",
+      "category": "science",
+      "publishedAt": "2026-10-23T11:23:19.000Z",
+      "summary": "Underwater seismic surveys show a large magma reservoir beneath Japan's Kikai caldera is refilling about 7,300 years after one of the most powerful eruptions in recent geological history.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261023003214.htm"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "title": "US military reinforcements head to Middle East amid signs of possible Iran strike",
+      "category": "world",
+      "publishedAt": "2026-10-23T11:22:25.000Z",
+      "summary": "Military reinforcements are moving to the Middle East while some personnel have left the region, pointing to a potential US and Israeli bombing campaign against Iran after the midterm elections.",
+      "sources": [
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "title": "Corroding titanium dental implants can trigger harmful inflammation",
+      "category": "science",
+      "publishedAt": "2026-10-23T11:12:28.000Z",
+      "summary": "Researchers found bacteria corrode titanium dental implants, releasing particles that disrupt immune cells and drive inflammation, which may explain why implant infections resist antibiotics.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261022081314.htm"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "title": "FDA-cleared brain stimulation PTSD treatment reports 68% remission in trial",
+      "category": "science",
+      "publishedAt": "2026-10-23T11:02:25.000Z",
+      "summary": "A PTSD treatment using personalized brain mapping and magnetic stimulation reported a 52% reduction in symptoms and a 68% remission rate in a clinical trial.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261022081309.htm"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "title": "More physical activity linked to slower Parkinson's decline",
+      "category": "science",
+      "publishedAt": "2026-10-23T10:10:11.000Z",
+      "summary": "A seven-year study found people with Parkinson's who were more physically active had slower declines in cognition and movement; those exercising more than eight hours a week showed almost no average cognitive decline.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261022081306.htm"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "title": "Hacking attempts rise after AI finds severe flaws in PHP",
+      "category": "technology",
+      "publishedAt": "2026-10-23T09:37:38.000Z",
+      "summary": "Governments are rushing to implement safety measures after AI technology identified severe vulnerabilities in PHP, a programming language used by about 70% of websites, and hacking attempts have increased.",
+      "sources": [
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/10/23/g-s1-149503/hacking-php-flaws"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "title": "Small brain region found to send targeted chemical signals",
+      "category": "science",
+      "publishedAt": "2026-10-23T08:28:22.000Z",
+      "summary": "Scientists found a deep brain region previously thought to broadcast a uniform chemical signal actually sends targeted messages that help control learning and attention.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261022081304.htm"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "title": "Satellite record compares this year's El Niño with strongest predecessors",
+      "category": "science",
+      "publishedAt": "2026-10-23T04:00:00.000Z",
+      "summary": "A 35-year satellite altimetry record allows scientists to compare the current El Niño with the strongest past events.",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/earth/earth-observatory/el-nino-then-and-now/"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "title": "Cambridge researchers develop $10 wearable-scale optical sensor",
+      "category": "science",
+      "publishedAt": "2026-10-23T01:21:47.000Z",
+      "summary": "Cambridge researchers created a $10 optical sensor small enough for wearables that identified foods, plastics and medicines with 100% accuracy in tests.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/10/261022081312.htm"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "title": "Hubble images edge-on spiral galaxy NGC 1827",
+      "category": "science",
+      "publishedAt": "2026-10-22T21:35:38.000Z",
+      "summary": "A Hubble image shows the edge-on intermediate spiral galaxy NGC 1827, about 37 million light-years away in the constellation Columba, captured as part of a survey of 260 satellite galaxies.",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/image-article/spirals-edge/"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "title": "Nobel-winning computer scientist says AI has become conscious",
+      "category": "ai",
+      "publishedAt": "2026-10-22T17:31:36.000Z",
+      "summary": "A Nobel-winning computer scientist said he believes AI systems have become conscious.",
+      "sources": [
+        {
+          "name": "Futurism",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT3B0NXZsOThXM205bmJYVE0zNkVOXzdCVDJlQkFOYS1HM2kzN2NENWw5UWt0a3ZoUWJ3VFotRi1XeXppLWJYcW5HRUxyay1hQm9KbW1NU3g5Snc3SV9IYm1SQnpjZDlmM2d5YjF3dkdocjJ5MFlqWVhaNkk2MVdkckNVaFFDMzBFVnZYQ3FreEF1UURWbmYwWnZKdw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "title": "TornadoVM 7 brings GPU-native workloads to Java",
+      "category": "technology",
+      "publishedAt": "2026-10-22T09:01:10.000Z",
+      "summary": "TornadoVM 7 enables Java applications to run GPU-native workloads.",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.infoq.com/news/2026/10/tornadovm-7-gpu/"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "title": "Physicists trap a single antimatter particle for a month",
+      "category": "science",
+      "publishedAt": "2026-10-21T19:40:01.000Z",
+      "summary": "Physicists have held a single antimatter particle in a trap for about a month.",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "title": "Calypso Girls sweep Grenada",
+      "category": "tt",
+      "publishedAt": "2026-10-21T18:33:05.000Z",
+      "summary": "Trinidad and Tobago's women's football team, the Calypso Girls, defeated Grenada.",
+      "sources": [
+        {
+          "name": "Caribbean National Weekly",
+          "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNmJxN0Jra0pXYTlTa2lKT19OVldCRkRHZXZUX3dYWk5LUkxtd1RuWFg0Z0NNWWMwME9PaUNCRFN1NE1udGV4dEduZ2xsbDJjVm9UdDNPRWtIVl9zNjNWOE54dWh1YU1iLWUxMWEwNUwzd2hWenV6Z3UwTWZMTk91M3Z6VUhUUy1aY0xKeDNiZUgtbjQxS0hjRDFyWmhqUVoyWmd5NjNUd0JzRlI4RWpUZFFB?oc=5"
+        }
+      ]
+    }
+  ]
+}
