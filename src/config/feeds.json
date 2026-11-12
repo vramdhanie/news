@@ -37,6 +37,26 @@
       "url": "https://feeds.npr.org/1004/rss.xml"
     },
     {
+      "category": "world",
+      "name": "Reuters",
+      "url": "https://news.google.com/rss/search?q=source:Reuters+when:1d&hl=en-US&gl=US&ceid=US:en"
+    },
+    {
+      "category": "world",
+      "name": "CBS News World",
+      "url": "https://www.cbsnews.com/latest/rss/world"
+    },
+    {
+      "category": "world",
+      "name": "ABC News International",
+      "url": "https://abcnews.go.com/abcnews/internationalheadlines"
+    },
+    {
+      "category": "world",
+      "name": "NBC News World",
+      "url": "https://feeds.nbcnews.com/nbcnews/public/world"
+    },
+    {
       "category": "science",
       "name": "ScienceDaily",
       "url": "https://www.sciencedaily.com/rss/top/science.xml"

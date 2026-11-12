@@ -21,7 +21,7 @@ const DATA_DIR = path.join(ROOT, "public", "data");
 
 const MAX_AGE_HOURS = 72;      // drop anything older than 3 days
 const MAX_PER_FEED = 15;       // cap each feed's contribution
-const MAX_TOTAL = 200;         // overall cap after sorting
+const MAX_TOTAL = 240;         // overall cap after sorting
 const FETCH_TIMEOUT_MS = 20000;
 
 // Opinion filter: publishers route opinion through URL sections, and most
