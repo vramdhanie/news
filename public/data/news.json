@@ -1,0 +1,1534 @@
+{
+  "generatedAt": "2026-11-14T17:25:18.720Z",
+  "failedFeeds": [
+    "Trinidad Express"
+  ],
+  "items": [
+    {
+      "id": 0,
+      "title": "Big Tech spending mostly won California races, with exceptions",
+      "category": "bayarea",
+      "publishedAt": "2026-11-14T17:07:45.000Z",
+      "summary": "Tech-funded super PACs mostly succeeded by backing Democrats in safe blue districts, analysts say, but in some races the money became a point of contention.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/14/across-california-big-tech-spending-led-to-election-wins-but-not-in-these-races/"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Pope Leo returns to his former diocese in Peru",
+      "category": "world",
+      "publishedAt": "2026-11-14T17:07:31.000Z",
+      "summary": "Pope Leo XIV made an emotional return to Chiclayo, Peru, where he served as bishop, weeks after treatment for lung cancer. He prayed for an end to violence in Peru and visited a hub of the Afro-Peruvian community, highlighting the African slave trade to Peru.",
+      "sources": [
+        {
+          "name": "NBC News World",
+          "url": "https://www.nbcnews.com/nightly-news/video/pope-leo-makes-emotional-return-to-peru-273486917715"
+        },
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/pope-laments-violence-enveloping-peru-ministers-former-diocese-138143939"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Filipino singer Carmelle wins first Eurovision Asia",
+      "category": "world",
+      "publishedAt": "2026-11-14T17:06:50.000Z",
+      "summary": "Carmelle won the first Asian edition of the Eurovision Song Contest in Bangkok with the song \"Sobra-Sobra.\"",
+      "sources": [
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/filipino-singer-carmelle-storms-victory-eurovision-asia-debut-138144506"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Nonprofit advocacy groups sue to stop AI development",
+      "category": "ai",
+      "publishedAt": "2026-11-14T17:05:52.000Z",
+      "summary": "Nonprofit advocacy groups filed a lawsuit seeking to halt development of artificial intelligence, citing its dangers.",
+      "sources": [
+        {
+          "name": "Jurist.org",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaURoay1wenlTQTdzS1JKWjgtak5DZnZUR1R1eGt3X1FaMWRVNk9GXzd6MENMdnlqZlhjWE52aW1UN0RpclplYWJSd0tzaEZNMS00RTA3LVdTUFJIMnM1dklfdVZIYzFIVm5BMFVlVk10dzJaOUNpVVRfU0lXeUNCUFZxLTZ4bElkc3c0dGo3T001QnZSdkRzajRPbDlzeHdvdUJJS3hfTXU4UXZsZGlnRjRDY3o3d2xCOWFUNjB3MUprYV9U?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Researchers use AI to accelerate neuroscience research",
+      "category": "ai",
+      "publishedAt": "2026-11-14T17:00:24.000Z",
+      "summary": "Researchers are applying AI tools to speed up neuroscience research.",
+      "sources": [
+        {
+          "name": "Medical Xpress",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pNjdkbTNTaU8wM1hIQkJYUElOMXR3SVNhNDhGd19Lak9ZelpCWUp0aXdHNm5IMjJaT0psUUJRalpUUGpvQ0JHaDNSenZOOUJIc1Znb2RxRXduU09HM0MzNWRWNEM2ODJ6X2ZZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Italy fines Meta €805 million over access to users' photos",
+      "category": "technology",
+      "publishedAt": "2026-11-14T16:29:48.000Z",
+      "summary": "Italian authorities fined Meta €805 million ($887 million), accusing it of failing to inform about 20 million users that it had access to their photos on Android devices.",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Two Americans die in suspected drowning in the Bahamas",
+      "category": "world",
+      "publishedAt": "2026-11-14T16:26:46.000Z",
+      "summary": "Police said the two Americans were part of a group swimming beyond an area marked with a warning sign about strong currents.",
+      "sources": [
+        {
+          "name": "CBS News World",
+          "url": "https://www.cbsnews.com/news/americans-die-suspected-drowning-bimini-bahamas/"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Zelenskyy says US floated Donbas-for-NATO exchange and new European security framework",
+      "category": "world",
+      "publishedAt": "2026-11-14T16:26:25.000Z",
+      "summary": "Ukrainian President Volodymyr Zelenskyy said US envoys raised the idea of Ukraine ceding the Donbas in exchange for NATO membership as part of efforts to end the war. He also said a new postwar European security framework floated by the US could benefit Putin.",
+      "sources": [
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/zelenskyy-new-european-security-framework-floated-us-benefit-138138301"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Fuel crisis and protests pressure Chile's President Kast",
+      "category": "world",
+      "publishedAt": "2026-11-14T16:05:12.000Z",
+      "summary": "Rising fuel prices have triggered transport strikes and protests across Chile, increasing pressure on President José Antonio Kast.",
+      "sources": [
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Three oil tankers hit mines in Strait of Hormuz, Iran says",
+      "category": "world",
+      "publishedAt": "2026-11-14T15:59:05.000Z",
+      "summary": "Fires broke out on three oil tankers that struck mines in the Strait of Hormuz overnight and into Saturday morning, according to Iran's military.",
+      "sources": [
+        {
+          "name": "CBS News World",
+          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-nuclear-material-no-deal/"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Trump, Putin and Xi to hold first trilateral meeting in China next week",
+      "category": "world",
+      "publishedAt": "2026-11-14T15:53:55.000Z",
+      "summary": "President Trump will meet the leaders of China and Russia on the sidelines of the APEC summit in Shenzhen next week, the first formal trilateral meeting of the three leaders. The White House says Trump will discuss reducing nuclear arsenals.",
+      "sources": [
+        {
+          "name": "CBS News World",
+          "url": "https://www.cbsnews.com/news/trump-putin-xi-jinping-meeting-china-us-russia-talks/"
+        },
+        {
+          "name": "NBC News World",
+          "url": "https://www.nbcnews.com/world/china/trump-xi-putin-plan-unprecedented-joint-meeting-sidelines-apec-officia-rcna609275"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Nigeria cautions against transiting Addis Ababa airport due to altitude",
+      "category": "world",
+      "publishedAt": "2026-11-14T15:42:54.000Z",
+      "summary": "Nigeria's foreign ministry says six Nigerians with underlying health problems have died this year while transiting through Ethiopia's main airport.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Former Nvidia CEO misled top lawyer about affair, sources say",
+      "category": "world",
+      "publishedAt": "2026-11-14T15:41:38.000Z",
+      "summary": "Former Nvidia CEO Jensen Huang misled the company's top lawyer about an affair with a Chinese businesswoman, according to sources cited by Reuters. Sources also say he had a relationship with a second employee.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5"
+        },
+        {
+          "name": "The Express Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUk1NVDlPaEdGZEZGV1BKOUdXQUFMdUVKRjJaMnlFUng5RnJoZXQwYTljUzg5OVBhOUE2SDBjWnhoc2hVdUdSeDVVeXhjTWlKMUxCT0M2TWhiSXUwOXl4dUN2VldDbkxySDZudUZ2QjdhZXJvUG5KS3B4RnVnUUg2MUY3SlF5RkxUa092Q3hiWFRlbTl6ZGg4Sy1YajZkeDRoZTFjeWpXUlhKdXIwbTRMQW40UVpWZ2l20gHAAUFVX3lxTE44Q21iSWlDS01KdlJfNEVFdHVpellzWlhnakJOTHlUejBYNG84Wk5YbGI2RkFQbEFGMjhudkFSNU5TYkQxSnNRbEo2RjcwMk9JbUhqdTZ6dG80TXdZLS1xNDBmWXpWODZjNnctR2w1S2Q0SlRoOXROWWYwM0dGd3BvR1lDUEVqVjdpaVhHdFFrUU5CU2hFSjF6THNaTWlERmJnZy1pbkd1NzNoNEM4aWtIR2JRRUNCMFVQQ2xNd01jeQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "PyPI launches redesigned project pages with clearer security signals",
+      "category": "technology",
+      "publishedAt": "2026-11-14T15:40:52.000Z",
+      "summary": "The Python Package Index rolled out redesigned project pages that display security information more clearly.",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "FAA lifts nationwide ground stop caused by air traffic network failure",
+      "category": "world",
+      "publishedAt": "2026-11-14T14:20:57.000Z",
+      "summary": "The FAA lifted its third-ever nationwide ground stop after an air traffic network failure disrupted flights across the US. Transportation Secretary Sean Duffy blamed obsolete equipment overloading, and officials said it was not a cyberattack.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTTdvYllmb0pHUXVJVGNLUmFZb2I0WXpjZENubU52NW1nQlFJa1E4c3ZNTGhseUdiUzl0ZXJWa0pOSnR1ZDlRQk9FTHZlaWkyT0hLM1J3OW5tVUhIb0o4OWN5bDVVakF5T3lIanR1SVVMSkctSDlpb2loMWI2MENuWEIxTmhTcy1kZXdqSlRrdi1NMHlFSGtPRWEzdUFrMWR1c2wwNk9rRUUwOGpzajM0N1h2MndWVU9MYngyMVdudw?oc=5"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/faa-orders-third-nationwide-ground-stop-in-its-history/"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "SpaceX Starship flight 15 reaches orbit ahead of booster catch attempt",
+      "category": "technology",
+      "publishedAt": "2026-11-14T14:18:41.000Z",
+      "summary": "Starship's 15th test flight reached orbit, and SpaceX planned a second catch attempt on Saturday after an earlier booster came down in the ocean instead of being caught.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "COP31 ends first week with divisions on climate finance",
+      "category": "world",
+      "publishedAt": "2026-11-14T13:09:38.000Z",
+      "summary": "The first week of COP31 in Antalya, Türkiye, ended with negotiators facing questions over climate finance, fossil fuel dependence and the pace of climate action.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/cop31-day-6-your-morning-brief/?utm_source=rss&utm_medium=rss&utm_campaign=cop31-day-6-your-morning-brief"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Sixth body found in Chaguaramas boat collision; calls for probe",
+      "category": "tt",
+      "publishedAt": "2026-11-14T12:52:45.000Z",
+      "summary": "The sixth person missing after Sunday's boat collision off Chaguaramas has been found, ending the search. Opposition Leader Pennelope Beckles called for a thorough investigation, and St Francois Girls' College mourned former student Kieyanna Seechan.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/sixth-body-found-in-chaguaramas-boating-tragedy/?utm_source=rss&utm_medium=rss&utm_campaign=sixth-body-found-in-chaguaramas-boating-tragedy"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Consistent daily routines linked to less pain and depression in older adults",
+      "category": "science",
+      "publishedAt": "2026-11-14T12:48:01.000Z",
+      "summary": "University of Missouri researchers found older adults with consistent daily schedules reported less physical pain and fewer depression symptoms.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261113231624.htm"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Stanford finds brain signals that predict Alzheimer's years before symptoms",
+      "category": "science",
+      "publishedAt": "2026-11-14T12:25:05.000Z",
+      "summary": "Stanford researchers found patterns of brain activity that predict Alzheimer's risk years before memory problems appear, and that identify brains unusually resistant to the disease.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112230444.htm"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Webb telescope finds ice older than the star it orbits",
+      "category": "science",
+      "publishedAt": "2026-11-14T12:15:48.000Z",
+      "summary": "James Webb Space Telescope observations show ice predating its host star, reshaped by radiation and collisions.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/11/james-webb-telescope-finds-ice-older-than-the-star-it-orbits/"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Report details events before mass firings in SF mayor's innovation office",
+      "category": "bayarea",
+      "publishedAt": "2026-11-14T12:07:12.000Z",
+      "summary": "The San Francisco Chronicle reports on what preceded mass firings in Mayor Daniel Lurie's innovation office.",
+      "sources": [
+        {
+          "name": "San Francisco Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONkJUVmJPUXpsN1FoQ09sSXBVVDctNkpXSDgyVTYyeWlodENvRlR3R25MRUtqOVI1WVFBeTVyYUVuUU5aU0Z3STRYbkFpNzlmZHJRbTlabWJjTUpYQ2JLWHFmMnU3X3E2blVzcFgtWXFqajRPZUR0aWxzRk9vVldQc002X3hYSTNrdUZnYkQtajRTVFdVdFJ3UjNuWQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Mission District's historic library reopens after six years",
+      "category": "bayarea",
+      "publishedAt": "2026-11-14T12:00:00.000Z",
+      "summary": "The century-old branch library, closed for renovations in 2020, reopens Saturday.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/14/after-6-years-the-missions-historic-library-is-back-what-to-look-for/"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Questions over future of Jensen and Lori Huang's SF philanthropy",
+      "category": "bayarea",
+      "publishedAt": "2026-11-14T12:00:00.000Z",
+      "summary": "Mission Local looks at what will happen to the Huangs' San Francisco philanthropic commitments.",
+      "sources": [
+        {
+          "name": "Mission Local",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdFVuUzVPUy1JbTk3TGNjcDhyRmJ0empIanpaSTdNdVJWR2ZudVViM0lid3g3UkQ0NUcyQS1KbkltZlg5aGk2NjVfV3p2cFdBRmNGTjFDRW5LUnNUVHZjSzJkZEFHR0RTTURhck96SkhXQmh6V2JjQ2xsQ20ycngtQmhqdW9FN1BQVHJPNUl3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Large icy object beyond Pluto could be sixth dwarf planet",
+      "category": "science",
+      "publishedAt": "2026-11-14T11:58:42.000Z",
+      "summary": "Astronomers discovered 2026 ED138, a potentially large object beyond Pluto that could become the solar system's sixth recognized dwarf planet.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112230447.htm"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "South Sudan postpones first national elections to February 2027",
+      "category": "world",
+      "publishedAt": "2026-11-14T11:20:38.000Z",
+      "summary": "South Sudan has again delayed its first national elections since independence in 2011, moving polling from December to February.",
+      "sources": [
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/south-sudan-postpones-national-elections-february-2027-138138151"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Trump may hold off on Iran attacks barring new provocations, sources say",
+      "category": "world",
+      "publishedAt": "2026-11-14T11:04:10.000Z",
+      "summary": "Trump has told advisers he may refrain from further attacks on Iran unless there are new provocations, according to sources. With the Iran war at a stalemate, Trump says the status quo is what Gulf Arab allies want, shifting toward economic pressure.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2NiU2RGMHprbUFIMnNuTGJheHdpTzhuZFRCSWVGcl9HZF9raUd2VXQxNHE1WldRVzNaZWx6YnlRZFpueGZlb05DMElhZ3FEOVdLakpQWkNLaGktQWh6THRxT3V0aGVPaXI0dW9LVm9DeTJRekF1enJaamZ5bEd2SFZtSVNtTFd5VEp0WFl6U2VWX3BCRkYzbnB1c25QRnU2M3FBbDJBMHRTVWU5T0hyZG5sWFRPWUFIYVhuT1BMWTBkUVdNbDlF?oc=5"
+        },
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Hungarian authorities uncover $20m in probe of Orbán-era minister",
+      "category": "world",
+      "publishedAt": "2026-11-14T10:42:20.000Z",
+      "summary": "The find comes as Prime Minister Péter Magyar pursues an anti-corruption drive after ousting Viktor Orbán in April.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Judo champion Teddy Riner enters French presidential race",
+      "category": "world",
+      "publishedAt": "2026-11-14T10:31:42.000Z",
+      "summary": "French judo star Teddy Riner is running in the French presidential race.",
+      "sources": [
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/judo-star-teddy-riner-taking-toughest-battle-french-138136080"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "ASEAN leaders gather in Manila; Trump to join final talks",
+      "category": "world",
+      "publishedAt": "2026-11-14T10:31:31.000Z",
+      "summary": "Southeast Asian leaders meet in the Philippine capital this weekend for the annual ASEAN summit focused on global conflicts, with Trump joining the final talks.",
+      "sources": [
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/southeast-asian-leaders-call-peaceful-resolutions-conflicts-trump-138136538"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Experts warn about AI-generated child sexual abuse material",
+      "category": "ai",
+      "publishedAt": "2026-11-14T10:00:00.000Z",
+      "summary": "Experts are warning about the risks posed by AI-generated content in child sexual abuse material.",
+      "sources": [
+        {
+          "name": "CBC",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdmpiQkt4dHA2aFNTOGJFOEFDbWlOVkFHaEZoUlBNdVM2Y1YyektfR1hLdzBNOFVzZFJMMzRFTTh1QnVnN0dtek5YMDhDZVpMT3JOMEYwclhaOGg2Sjk4NzkwSVhNOVJLSlEzcHllN2xsT2NydFhhTmhHekd1NTF0MEQ2T1hoY2RHeFRmZmdfcjQtbGVxUzhObUhoZGVTZG8tUWhfNmJmaTRCWFM1cU1VZ09LMGVITThiLU9GMFVBRlY?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Modi's office summons India's telecom secretary over fake court orders",
+      "category": "world",
+      "publishedAt": "2026-11-14T09:10:23.000Z",
+      "summary": "Indian Prime Minister Narendra Modi's office summoned the telecom secretary over the use of fake court orders, officials said.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcEN3SVIzbzRoYUJrbW1QTXRmRkpMSTRXTTRSWk9UelBIci1DSnhsZDdxaXktWHNqdURKQ1JYdTNOUGtDbklnMFhTbXZXLXJOLWF5YUVLN2VQdjkya1BxOHJYYnVFNWtoSFhxUGlDNW1JZ3lIVW56a3dRdzBJOXlxdE1zNGNTcy13dlVmaE85dFFYOVdPYWRhdF9XblZJaXgyMElfc05nZVBYcW8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "New awards show honors AI-generated music",
+      "category": "ai",
+      "publishedAt": "2026-11-14T09:05:46.000Z",
+      "summary": "A new awards show celebrates AI music and its creators.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVGtiYXF6RWUzZFVXRm9lUTc0QlRNQ1pfLTZGZTZUeXlJdTFtZll2WUdrMmRGdy1oT3RzN3djckdpSHJ3OWRxZnJXSlByWnFNcXlJQ3VJOS1kblRmd1NCRFhYRThOWl9RRVhvUDJMZHpZQkU5RVRJcV9VTzJoUFF1aU1UTXBkQW8zOWR4S2h6RkYxTUxDVXpyLU5CQ1R5cU42RjFN?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Microsoft restores services after day-long global outage",
+      "category": "world",
+      "publishedAt": "2026-11-14T07:32:05.000Z",
+      "summary": "Microsoft says it restored Outlook, Teams and Copilot after a day-long worldwide outage that affected companies, governments, hospitals and courts. The company said it was still monitoring enterprise services.",
+      "sources": [
+        {
+          "name": "CBS News World",
+          "url": "https://www.cbsnews.com/news/microsoft-battling-major-outage/"
+        },
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxObkxxbE1VclJTQkp3R3ZZR3M4b0UtTUNMMmIzb09GSzlZQU1kUDQzN3ZKRXhleXhXV1BUd1lEMXVSMnZBUDN3WEwwdUM0QVhydk5mZWwxZnRndlJHd2FEQUpWUnRaeG5raGFMY2Z2M1RHRlZYLThiVktPTVVsYVFFS0dkMHlyNmtPNWRlQ3NsYjNRY0dxZVdQaFhRUlRpMTNjdlZqbDBZcVg3Q0tRV3ZFWlQ1bTJIZHl3WXFDV2FJbFVocm8w?oc=5"
+        },
+        {
+          "name": "NBC News World",
+          "url": "https://www.nbcnews.com/tech/tech-news/outlook-widespread-outage-hits-microsoft-apps-rcna609047"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/microsoft-blames-failed-server-health-checks-not-hackers-for-global-outage/"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Attacks on China critics in Taiwan raise transnational repression concerns",
+      "category": "world",
+      "publishedAt": "2026-11-14T05:32:26.000Z",
+      "summary": "Violent attacks on critics of China in Taiwan, including a deliberate car crash involving comedian Huang Yi-hao in September, have raised concern about transnational repression.",
+      "sources": [
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/violent-attacks-critics-china-taiwan-raise-concern-transnational-138132369"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Francophonie summit in Cambodia faces rift over African conflict",
+      "category": "world",
+      "publishedAt": "2026-11-14T05:31:20.000Z",
+      "summary": "French President Emmanuel Macron and other leaders are attending the biennial summit of French-speaking nations in Cambodia, where an African conflict threatens a rift.",
+      "sources": [
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/french-speaking-nations-hold-summit-cambodia-african-conflict-138135244"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "SF moving company rebuilds after suspicious Halloween fire",
+      "category": "bayarea",
+      "publishedAt": "2026-11-14T03:49:36.000Z",
+      "summary": "A decades-old San Francisco moving company is rebuilding after a suspicious fire on Halloween night.",
+      "sources": [
+        {
+          "name": "KRON4",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWHVOeVdSQTEtX2oycWVQdXBYMVpHT2pRWVNNel85YlpRRVlmbHNlZktrc2dpUGUxbHhWWjROOHZsMFBfdmJ6eDRPQ1VoUDVmYnRiaGN3dWwzTkNxd3huVFFjd2cwUXUxOVlvLWxGazNyTUVpTXhwUVVuT2FKWndvbXJYNXpoTEpYNjUxNTVGVG5IOFg3QXR0SzJuTlNoWGJzMGhFVGE5alRjcVRfY1piUzVrQ0NXd9IBuwFBVV95cUxPMzE3WkxUN3FxWld6dGRia0MwMGVkb1l2aV9NNU5JcHI5bVJCY1N1cS1mMHc4S3o1S0MtTXQxVVppOGVSVXEzY3F4ZWMzejgwdGlRUUV5MFo1RzhQZzdWT0I2Vkd2a0JWVUE3RTJrNENkVF96azVZUnBoYlBkeUxjUG9QMkd4V1RSR2VkMzFscjlyLVFVTW5hZHBZZGUzTGVsT2o1SnRubS0weURMcW9iUmZJNGdLUEs4azhZ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Skulls suggest some early Egyptian royal retainers were killed",
+      "category": "science",
+      "publishedAt": "2026-11-14T02:59:05.000Z",
+      "summary": "Reexamination of 46 skulls from tombs of Egypt's first kings found potentially fatal head injuries in 18, suggesting at least 39% may have been deliberately killed.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112025540.htm"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Hundreds of Bay Area flights cancelled during FAA ground stop",
+      "category": "bayarea",
+      "publishedAt": "2026-11-14T02:45:11.000Z",
+      "summary": "San Francisco International Airport cancelled more than 300 flights as of 6:30 p.m. Friday during the nationwide FAA ground stop. Travelers whose flights were cancelled or delayed may be entitled to refunds or rebooking.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/13/all-bay-area-flights-ground-stopped-in-nationwide-faa-outage/"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "ggml reaches version 1.0.0",
+      "category": "technology",
+      "publishedAt": "2026-11-14T02:28:29.000Z",
+      "summary": "The ggml machine learning tensor library released version 1.0.0.",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Nine arrested in Maloney crackdown as residents question 'closed area' rules",
+      "category": "tt",
+      "publishedAt": "2026-11-14T02:03:53.000Z",
+      "summary": "Police arrested nine people and seized marijuana in Maloney between Tuesday and Thursday, including shooting suspects. Residents say they are being ordered indoors outside curfew hours and want clarity on the restrictions.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/cops-arrest-nine-seize-marijuana-during-three-day-crackdown/?utm_source=rss&utm_medium=rss&utm_campaign=cops-arrest-nine-seize-marijuana-during-three-day-crackdown"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Eric Jones unseats longtime Rep. Mike Thompson in Napa Valley",
+      "category": "bayarea",
+      "publishedAt": "2026-11-14T02:03:50.000Z",
+      "summary": "Political newcomer Eric Jones defeated fellow Democrat Mike Thompson in what became California's most expensive self-funded House campaign.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/13/early-results-show-rep-mike-thompson-in-tight-race-with-challenger-eric-jones/"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Bessent blames Lutnick for failing to block Nvidia chip exports to China-linked firm",
+      "category": "world",
+      "publishedAt": "2026-11-14T01:46:29.000Z",
+      "summary": "Treasury Secretary Scott Bessent blamed Commerce Secretary Howard Lutnick for allowing Megaspeed, a firm once led by alleged Chinese spy Alice Huang, to obtain Nvidia chips that were funneled to China. Critics question whether Lutnick's ties contributed to lax oversight; Megaspeed denies wrongdoing.",
+      "sources": [
+        {
+          "name": "CBS News World",
+          "url": "https://www.cbsnews.com/video/bessent-upset-lutnick-didnt-ban-nvidia-chip-exports-to-china-linked-firm/"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Defence Force retirement age raised to 50",
+      "category": "tt",
+      "publishedAt": "2026-11-14T01:26:22.000Z",
+      "summary": "The compulsory retirement age for officers of major rank and below in the Regiment, Coast Guard and Air Guard has been increased to 50.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/defence-force-retirement-age-raised-to-50/?utm_source=rss&utm_medium=rss&utm_campaign=defence-force-retirement-age-raised-to-50"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "Motorcycle deaths up 28% after fatal highway collision",
+      "category": "tt",
+      "publishedAt": "2026-11-14T01:26:20.000Z",
+      "summary": "Two motorcyclists died on the Sir Solomon Hochoy Highway, bringing motorcycle crashes in 2026 to nine, a 28% increase over last year.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/motorcycle-deaths-increase-by-28-after-fatal-highway-collision/?utm_source=rss&utm_medium=rss&utm_campaign=motorcycle-deaths-increase-by-28-after-fatal-highway-collision"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Gonzales calls for criminal probes into TSTT and NCRHA procurement",
+      "category": "tt",
+      "publishedAt": "2026-11-14T01:26:19.000Z",
+      "summary": "PNM chief whip Marvin Gonzales called for investigations into former TSTT CEO Keino Cox and NCRHA chairman Dr Tim Gopeesingh.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/gonzales-demands-probes-into-tstt-ncrha-procurement-issues/?utm_source=rss&utm_medium=rss&utm_campaign=gonzales-demands-probes-into-tstt-ncrha-procurement-issues"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Broken elevators in San Francisco SRO buildings",
+      "category": "bayarea",
+      "publishedAt": "2026-11-14T01:19:24.000Z",
+      "summary": "Mission Local examines responsibility for broken elevators in the city's single-room occupancy hotels.",
+      "sources": [
+        {
+          "name": "Mission Local",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqYWt6aVVfTUpNcnlBOFYwYk5CdnZQWDRnMURISFV2c01vZ1dLbERuajNBc25qc3p1UTM2Rm5RemNGZlRIUEx5anVxaW84MDB0ZmhQSDkwdmVZQkdzbVZGNFFDY0R6akRET2lqdlpWOF8?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Electrons observed jumping across forbidden energy gaps in graphene",
+      "category": "science",
+      "publishedAt": "2026-11-14T01:13:05.000Z",
+      "summary": "Scientists captured electrons in graphene making transitions across forbidden energy gaps, some with 100% probability.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112025523.htm"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Basement buried after 1906 earthquake unearthed on Van Ness",
+      "category": "bayarea",
+      "publishedAt": "2026-11-14T00:00:13.000Z",
+      "summary": "Construction workers uncovered a basement buried since the 1906 earthquake at a site on Van Ness Avenue.",
+      "sources": [
+        {
+          "name": "SFist",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQV25hUmctWlB1TUxmX0FubFh6NlpqamViR3otQXVpM2dmVlZhWlRrWTZsZ01LYy15Q1BwTEdXRjNreEo0MVZuTDZCUEhtd1JqVlRtSkJQbEJfT21NRU1NRGpWRVdpbF9BbjdWVjdsTGFiSXd4NG9CYlJ6elJ5RXl0bnJqcVZ6cG5jbm9xcm9RWTcyNUZZeFZZZDdXU25GYTkyeDBzbDc1bGdYaENTR2dmM3lhNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Colom wins Mississippi Senate race; White House warns Democrats over probes",
+      "category": "world",
+      "publishedAt": "2026-11-13T23:45:09.000Z",
+      "summary": "Scott Colom narrowly won the Mississippi Senate seat after more than a week of ballot counting. The White House sent a letter warning Democrats who plan to investigate the administration.",
+      "sources": [
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/12/g-s1-153171/up-first-newsletter-scott-colom-trump-democrats-ukraine-russia"
+        },
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/13/democrats-gear-up-to-investigate-the-trump-administration/"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "All passengers rescued after New Orleans cruise ship collision",
+      "category": "world",
+      "publishedAt": "2026-11-13T23:40:45.000Z",
+      "summary": "A cruise ship collision on the Mississippi River in New Orleans left 32 people hospitalized with non-critical injuries, with no one unaccounted for.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "title": "Investors flock to Anthropic IPO but question durability of AI lead",
+      "category": "ai",
+      "publishedAt": "2026-11-13T23:30:55.000Z",
+      "summary": "Investors are showing strong demand for Anthropic's IPO while raising questions about how long its lead in AI will last, according to Reuters.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOckJYSDVUWDh1cTJPb3ptd2pLZmxuNXBtSEJkN0F0WWFucUZuWDgtQ0dZbzZITDBWY3dhSWZqcjcyZl9FdGpHdHJsX1dkbVowTkZ3OWRKd3pwN2NIMnBGZ1AtbDFkMkl6Vm1RZFNsZ2VDOU1nLUVmY2d4UHV2U01ER1pJTmdlSGFDdmsyM2ZhbXlXYVdEb01ERlNybGxWY0RsYlo4QlNxa0NCaUNpQjQw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Experts warn public to stay away from large waves this weekend",
+      "category": "bayarea",
+      "publishedAt": "2026-11-13T23:30:01.000Z",
+      "summary": "Officials caution that the massive swells expected this weekend can be deadly for onlookers.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/13/bay-area-weather-big-waves-mavericks-surf-san-francisco-coastal-advisory-flooding/"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "title": "FAA investigating whether new AI tool contributed to ground stop",
+      "category": "ai",
+      "publishedAt": "2026-11-13T22:57:09.000Z",
+      "summary": "The FAA is investigating whether new AI technology contributed to the nationwide ground stop. The agency had recently expanded an AI advisory tool for managing air traffic congestion across all US airspace; airlines praised it, but the controllers' union was not involved.",
+      "sources": [
+        {
+          "name": "Click2Houston",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPLWtSN25JZ3FqRk1BTEdGZDR2SHc2RkdsTEhBMmdQUThHcVYwTUhseVFxSG44TVlCZ2xVLUtyejFFbkJWTlZCMm92QzZIb2p1aU5hQVVmakIxZjZNZy1jaDNUbWxVQ2kwZ2NiR2tjeW4ydmYxazZlM3dBRFcyQ1pDSnliSmRFVGk1WUt3czBuTWFlRlZiTG5NSXBRSldyQVFJazFUVXdlOXdsV3ZqSk9ZVUI0V2NxRVc0TkEtRjFDLXU4Vm9WUEVFZDVBUktEREk?oc=5"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "title": "Banko Brown's family settles with security company for $5M",
+      "category": "bayarea",
+      "publishedAt": "2026-11-13T22:00:00.000Z",
+      "summary": "The family settled its wrongful death suit with Kingdom Group Protective Services; claims against Walgreens and Allied Universal continue.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/13/family-of-banko-brown-security-company-settle-for-5m-in-wrongful-death-suit/"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "title": "Millions of Americans not taking GLP-1 drugs as prescribed",
+      "category": "science",
+      "publishedAt": "2026-11-13T21:59:01.000Z",
+      "summary": "Cost and access barriers are leading many people to modify their GLP-1 doses or use unapproved versions.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "title": "US Supreme Court to consider lawsuit over Robinhood's 2021 IPO",
+      "category": "world",
+      "publishedAt": "2026-11-13T21:47:11.000Z",
+      "summary": "The Supreme Court agreed to consider a lawsuit related to Robinhood's 2021 initial public offering.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUE0zT1RvMFJtc1k0LXVEa0Y4WUV1SjRBQUd0T1RSYzVJSjJ1MTlVZEdXUmVLZUgyWGdXMXZkTGdja3I1WG10QklEb2JaN1dYbFY3ZG5YenpZTTdXY29HbTByeEQzTWRpak1FdjRtVnpoY1VHMGVIZkVBSzU3QlhISDQ3UE1vR3Q4RFd4a0NfMmJmbEV6OVpuYWdpUExFOEJlT1d5LWtrTE9nQTNRdnZWRDQ1VnVlS3BIX0gw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Singapore and Malaysia step up Nvidia chip smuggling probes",
+      "category": "world",
+      "publishedAt": "2026-11-13T21:45:29.000Z",
+      "summary": "Malaysia and Singapore have intensified investigations into Nvidia AI chip smuggling, with charges brought against a Chinese national over 917 smuggled servers. Sources say Singapore held Alice Huang's passport for eight months and received little US help in investigating her firm.",
+      "sources": [
+        {
+          "name": "CBS News World",
+          "url": "https://www.cbsnews.com/news/jensen-huang-nvidia-alice-huang-singapore-investigation-china-chips/"
+        },
+        {
+          "name": "Tom's Hardware",
+          "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNLVRQRDJjLUYybzVveW5wWEV2cU9ka3VhQXpvV3dWN00yNS11bzBnb0VDOTNENTVFdjh0ZkdMVDF4bjYxTTFZM0s4YmlsMHFyNUZjREFSRTN2Vi1QVk9mMjNqQ3JpY2hKWGRLUFNFR3ljWl91LWQ3dXhmQlNjdnR1WkMteHV2RklKek9UMElmLWVMa3NPU21yUnJ3akNvVDFBQ05fbW1EMVVOMzloYk5YZnU4di1SZ2VlVWkzOE1iUDVJM3R1OVFfb0E3bXpBLWJiY1pDekhXWUtScUplMU9TYVRSYkxYcmRmNmJTeTdKZ2RsU3NlM3pTalVXLWdwMlU5TmZDc0EwaS1wN3E2ZThQWEtjWDRteGRWZktZNDBIbDN4XzhJckg5akw0NXJHU1hxbUpfenhPVEpQQVFDTEZjOFg4d1VTbmNXSzVsZnZQQ01NTjZsamZDb0F0dE1HaDVQRDRONDRhQzRrOXNhbVFHOHJ3YUNHbEl3TVdkamVvNTRMcnFlVXV6LXBOcmNBaWtEeFBtRkRuNWNjZ1VxWUczdFUxTQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "title": "Bay Area flooding foreshadows extreme king tides around Thanksgiving",
+      "category": "bayarea",
+      "publishedAt": "2026-11-13T21:09:45.000Z",
+      "summary": "This week's street flooding signals potentially damaging high water from king tides expected in late November.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/13/bay-area-floods-foreshadow-extreme-king-tides-around-thanksgiving/"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "title": "Star witness testifies in Sheng Thao bribery trial",
+      "category": "bayarea",
+      "publishedAt": "2026-11-13T20:35:20.000Z",
+      "summary": "Mario Juarez has testified for a week about the alleged scheme to bribe the former Oakland mayor.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/13/no-angel-how-a-flawed-star-witness-could-make-or-break-sheng-thaos-bribery-trial/"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "title": "Jamaican wanted for rape and robbery arrested in Trinidad",
+      "category": "tt",
+      "publishedAt": "2026-11-13T20:35:08.000Z",
+      "summary": "A Jamaican man wanted for rape and robbery was arrested in Trinidad.",
+      "sources": [
+        {
+          "name": "Caribbean National Weekly",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMEs1UUtVNTVlb3JCSmdWcUZJWW5sQ1d6R2IySGhrWk4zWXRIX244dGFVNXRVcmhBV3FsX3hCMEJ6OEdkUWYyLWFSV2JEYUl4R2N5SzBpTENHUUFuaW5xSENVYmhPTFFmN0JUdUtIb2xsUjFUNnFmTGlZYXdZYzRxQ3RJZEdCNVRRZDNkeV9mM0h4OWZOc21jbGFYQURCOXdC?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "title": "Ecological change shrinks elephant population in Sri Lankan park",
+      "category": "science",
+      "publishedAt": "2026-11-13T20:03:13.000Z",
+      "summary": "Ecological change is reducing the elephant population of a park in Sri Lanka, showing limits to community resilience.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "title": "Kalshi drops Donald Trump Jr. as adviser",
+      "category": "technology",
+      "publishedAt": "2026-11-13T19:49:16.000Z",
+      "summary": "Prediction market Kalshi ended Donald Trump Jr.'s advisory role; he had received equity while the Trump administration aided Kalshi in lawsuits. The CEO acknowledged the optics were not good.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/trump-jr-out-as-kalshi-advisor-after-his-firms-big-investment-in-polymarket/"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "title": "Gold smuggled from war zones still enters UAE, report says",
+      "category": "world",
+      "publishedAt": "2026-11-13T19:41:31.000Z",
+      "summary": "A new report says the United Arab Emirates remains a key destination for gold smuggled from conflict zones despite new regulations.",
+      "sources": [
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/gold-smuggled-war-zones-entered-uae-despite-new-138117227"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "title": "Caltrain downtown SF extension gets $750 million",
+      "category": "bayarea",
+      "publishedAt": "2026-11-13T19:29:31.000Z",
+      "summary": "The long-planned extension of Caltrain into downtown San Francisco received $750 million in funding.",
+      "sources": [
+        {
+          "name": "SFist",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcnRIODVjVEM2UG00VEZNNFJUZm5NLU1qMHBLOWxEem9GTDZMa2c1V2NjZlc5S2IzRG1nc0c1S1BZV2JhRnBla0NXTjlQTzhfbzI4YndTODFPWkxTTUlnbl9JSURGNENlTkNfcjhrNHlHbGpEMW1ldWZwdllBV29yRTJKalFQUHlPUkZ5cXNINXJzeVJoM1owZmpxcHpDTzlwekE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "title": "ChatGPT adds payment capabilities",
+      "category": "ai",
+      "publishedAt": "2026-11-13T19:15:01.000Z",
+      "summary": "OpenAI's ChatGPT is moving into handling purchases and payments for users.",
+      "sources": [
+        {
+          "name": "Gizmodo",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0UEJyMTY4M1lOTDgxZFBRcUpCcEFCclpzcUtvUXZOY2UwOVZLeF9idjJGYWd0MWQyd1V6cGs5NzFCSEdGa1ZRX3RzRm5tZUVIVmJMYUVjUGV2OTMtS1B0Y2R6cHF2Z1lKbUtJc1RqdnlScndDdU9GLTFjUnkyZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "title": "Van Hollen to challenge Schumer for Senate Democratic leadership",
+      "category": "world",
+      "publishedAt": "2026-11-13T19:03:10.000Z",
+      "summary": "Maryland Senator Chris Van Hollen says Democrats need new leadership after the party's midterm gains and will challenge Chuck Schumer for majority leader.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "title": "Death penalty's future in California after Newsom's clemency",
+      "category": "bayarea",
+      "publishedAt": "2026-11-13T19:00:03.000Z",
+      "summary": "Gov. Gavin Newsom commuted death sentences, but the death penalty remains part of California law.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/13/whats-the-future-of-the-death-penalty-in-california-after-newsoms-clemency/"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "title": "Brookfield-CPPIB consortium advances in Uniper sale process",
+      "category": "world",
+      "publishedAt": "2026-11-13T18:29:00.000Z",
+      "summary": "A consortium of Brookfield and the Canada Pension Plan Investment Board has entered the next round of bidding for German energy company Uniper, sources say.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU19NSkVwM01HVEVUWTBqYzU4T0FKbUxJUlJJZmdKSDJUYk4taFJsREpuOThjVUh1T0taMGp0QTAyV3dmVDBoV0NXaEcwMUJGVlVwZUVvbXJFaUE1MzNSenNZQmJuOWVBZkFUSGVDRHktV2lQY0RCQ1RaZG1YTGxtNVRSbERVdUhiRlRYRl94OVhoeU5QcjdXVDRCbDR3Y3lCeXVmTTJXdWNONVdYSTNPTy1RU0VqX2ZSTHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "title": "Nvidia names CFO interim CEO after Jensen Huang steps down",
+      "category": "technology",
+      "publishedAt": "2026-11-13T18:05:02.000Z",
+      "summary": "Nvidia's chief financial officer was appointed interim CEO after Jensen Huang stepped down amid a scandal over chip sales to China. Analysts point to large-scale smuggling of banned Nvidia GPUs to China as a possible cause, and some employees are pushing for Huang's return.",
+      "sources": [
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen"
+        },
+        {
+          "name": "Tom's Hardware",
+          "url": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxPa05TQWhhVXlHQVIxZHdoazBqQUJSNmlfRkRVc29ROGNyLVAzbmxDb0Q1UnpEZUtBd0RueEVRZ0ZRaXJMemxIeWxtRU9iNld1cHVfOEVhZVg4bEFfamFmZEc2T3liSF9pT2huRDBOVkhMdVRHSmkyY2lsY2h0dkcwNlVmekZhZW5xSVNfd1FfdXc0NG5sNm45TDJxT09mQ1dQdUJveWRCbzB0OE5yYW5aTkYtakJyTFhnelhIcWVWY3lxVDJFc3V5Wl9rMWxST3RORzVMckFhY2dNSkUtS1JCc2ptMzd2Q0ZsVGVwRWxxR3Qwd214Z1JHaDJJMkUwWFpmMVdfYmRGbWt1VXpCTWhjVWdnbXpqYjhjUGJOUU5KQ2hfTDdhRXpIV3BSa1FMVFp5elNQNTNqLThHYzJsQVQ3NV9pZjdBRm5UcFRtVVBXN1JJb0ZvcGRqWVpsN1FSSDFHOVd0S2lUZGVzSVFL?oc=5"
+        },
+        {
+          "name": "Gizmodo",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU0VqX3RaWGN3WU04cEpKU3dUTk16WHhiZWdNOGJaLUxZNHBiWEhrbjlPWFpyQjhxVnd0VEQ3cGtybG5DOUZ2a3VYNjF3MUxDQ3lKS0k3bUtzclhwdVU4M3BHbG01V2dwREdKOHI5SVgxZlJVSTlSUnRnTlo4VE03dzI1VV9MbHc?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "title": "Status of California's statewide Black reparations plan",
+      "category": "bayarea",
+      "publishedAt": "2026-11-13T18:00:00.000Z",
+      "summary": "California created the nation's first statewide plan for Black reparations, but it has not yet been implemented.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/13/california-created-the-nations-first-statewide-plan-for-black-reparations-where-does-that-effort-stand-now/"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "title": "Estonia bans Russian and Belarusian athletes",
+      "category": "world",
+      "publishedAt": "2026-11-13T17:54:33.000Z",
+      "summary": "Estonia will not allow Russian or Belarusian athletes to compete on its territory because of the war in Ukraine.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "title": "California proposition results: six passed, six failed so far",
+      "category": "bayarea",
+      "publishedAt": "2026-11-13T17:54:21.000Z",
+      "summary": "Of 14 state propositions, six have passed and six have failed so far, according to the Associated Press.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/13/california-proposition-roundup-results-so-far/"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "title": "ICC limits Afghanistan investigation to Taliban crimes",
+      "category": "world",
+      "publishedAt": "2026-11-13T17:48:41.000Z",
+      "summary": "International Criminal Court judges ended the part of the Afghanistan investigation that could have involved US military personnel.",
+      "sources": [
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/international-criminal-court-limits-afghanistan-investigation-taliban-crimes-138116142"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "title": "UK police investigate author David Walliams over sexual offense allegations",
+      "category": "world",
+      "publishedAt": "2026-11-13T17:48:07.000Z",
+      "summary": "London police are investigating children's author and TV personality David Walliams for serious sexual offenses after media reports of misconduct allegations.",
+      "sources": [
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/uk-police-launch-sex-offense-investigation-childrens-author-138113000"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "title": "Over 1,000 roaming cattle disrupt North Macedonian town",
+      "category": "world",
+      "publishedAt": "2026-11-13T17:46:48.000Z",
+      "summary": "Residents of Kriva Palanka are dealing with a herd of more than 1,000 roaming cows, frustrating local farmers.",
+      "sources": [
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/hundreds-roaming-cows-wreak-havoc-north-macedonian-town-138113077"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "title": "SF public defender alleges excessive force in deadly scooter crash",
+      "category": "bayarea",
+      "publishedAt": "2026-11-13T17:33:00.000Z",
+      "summary": "San Francisco's public defender alleges police used excessive force in connection with a fatal scooter crash.",
+      "sources": [
+        {
+          "name": "KTVU",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaVFHOWZxQWExbDUyRGpSVTN5LW9zV3hWcElOMWp0amhycmd0R1J0WkRwWWR5a0VwbWVKMWpsQzljR3ZORUQ5azBjeFpjUkU5SmxiRU5acTRET0gwcEVHNjkybVNPQ1RYR0FVWC1OaEZabVk4MWZnMnQ1SHhkdlNHbmRGTXFuRkhLNFRMMG1pV1o3M1E?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "title": "OpenAI board member warns AI 'takeover' could be months away",
+      "category": "ai",
+      "publishedAt": "2026-11-13T17:25:45.000Z",
+      "summary": "An OpenAI board member and researcher traced a possible path from AI reward hacking to a societal takeover and human extinction.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/ai-is-the-most-likely-reason-youll-die-openai-board-member-warns/"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "title": "Pentagon renames its principal AI office the 'Super Intelligence Office'",
+      "category": "ai",
+      "publishedAt": "2026-11-13T17:02:32.000Z",
+      "summary": "The Defense Department rebranded its main AI organization as the Super Intelligence Office.",
+      "sources": [
+        {
+          "name": "Breaking Defense",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT05UWGJTSFduUXhDT3l3QkdWNVBzcFBOb3p3blUzVFcwR3NQdFNGRUI4MV91cl9maVZTcmlfSW13VUd1X3k1REY3NE1jeFVlOC0wWkxLQXVHRVdTaW5JZER1VkVDQ2NfaEl5dkdGbWFDOHRhOHRPejJuOWVSa24xRFdCOE00V3VEbFBkZ0gxT29IZnVkdU83anc0QkozeldzU3FR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "title": "Blackbird Mountain Guides shuts down after deadly Tahoe avalanche",
+      "category": "bayarea",
+      "publishedAt": "2026-11-13T17:00:00.000Z",
+      "summary": "The company, investigated and fined after a fatal avalanche, said it is ceasing operations.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/13/blackbird-mountain-guides-ceases-operations-after-tahoe-avalanche/"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "title": "Missing Australian teen found alive after six days in the bush",
+      "category": "world",
+      "publishedAt": "2026-11-13T16:54:30.000Z",
+      "summary": "A 17-year-old boy with autism was found alive by a helicopter crew after six days lost in the Australian wilderness.",
+      "sources": [
+        {
+          "name": "CBS News World",
+          "url": "https://www.cbsnews.com/video/missing-australian-boy-found-alive-after-6-days-in-the-wilderness/"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "title": "Chandra identifies trigger of repeated outbursts from massive star",
+      "category": "science",
+      "publishedAt": "2026-11-13T16:39:33.000Z",
+      "summary": "Astronomers using NASA's Chandra X-ray Observatory found what drives repeated outbursts from AT 2016blu, an unstable giant star in galaxy NGC 4559.",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/image-article/outbursts-from-a-massive-star/"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "title": "Windows zero-day released by researcher grants System rights",
+      "category": "technology",
+      "publishedAt": "2026-11-13T16:26:32.000Z",
+      "summary": "A disgruntled researcher published the \"SignDrop\" exploit, which lets local users on Windows gain System privileges.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/11/windows-0-day-dropped-by-disgruntled-researcher-hands-hackers-system-rights/"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "title": "China warns US against new chip export controls",
+      "category": "world",
+      "publishedAt": "2026-11-13T16:23:00.000Z",
+      "summary": "China warned the US against imposing new export controls on semiconductors following the scandal surrounding Nvidia and its former CEO Jensen Huang.",
+      "sources": [
+        {
+          "name": "CBS News World",
+          "url": "https://www.cbsnews.com/news/china-us-export-controls-chips-nvidia-huang-scandal/"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "title": "Megaspeed, firm at center of Nvidia scandal, pledges to cooperate with US probe",
+      "category": "world",
+      "publishedAt": "2026-11-13T15:19:08.000Z",
+      "summary": "Megaspeed, a major buyer of Nvidia AI chips, said it will cooperate with US government investigations. Its unusual global footprint has raised questions about whether it is a front for the Chinese government.",
+      "sources": [
+        {
+          "name": "NBC News World",
+          "url": "https://www.nbcnews.com/tech/tech-news/megaspeed-statement-nvidia-jensen-huang-alice-us-exports-chips-china-rcna608939"
+        },
+        {
+          "name": "CBS News World",
+          "url": "https://www.cbsnews.com/news/megaspeed-nvidia-china-ties/"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "title": "1.5°C warming threshold could be crossed by 2029, scientists warn",
+      "category": "science",
+      "publishedAt": "2026-11-13T14:29:15.000Z",
+      "summary": "Scientists warn the 1.5°C threshold could arrive by 2029 as climate action has stalled for five years and fossil fuel development continues to grow.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/11/scientists-warn-the-1-5c-climate-change-threshold-could-arrive-by-2029/"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "title": "Wife of jailed ex-DUP leader Jeffrey Donaldson placed on sex offenders register",
+      "category": "world",
+      "publishedAt": "2026-11-13T13:39:14.000Z",
+      "summary": "Eleanor Donaldson has been placed on the sex offenders register for five years.",
+      "sources": [
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/wife-jailed-leader-northern-irelands-largest-pro-uk-138107487"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "title": "Bus and truck collision in India's Assam kills at least 24",
+      "category": "world",
+      "publishedAt": "2026-11-13T13:39:08.000Z",
+      "summary": "A bus collided with a container truck in Assam state, killing at least 24 people and injuring 11.",
+      "sources": [
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/bus-truck-collision-indias-assam-state-kills-24-138107488"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "title": "Former 'Below Deck' captain arrested after teen dies following brawl in Turkey",
+      "category": "world",
+      "publishedAt": "2026-11-13T12:56:31.000Z",
+      "summary": "João Franco and his brother were arrested after a fight in Turkey in which a 17-year-old was punched, hit his head and later died.",
+      "sources": [
+        {
+          "name": "CBS News World",
+          "url": "https://www.cbsnews.com/news/below-deck-joao-franco-arrested-turkey-fight-teenager-death/"
+        },
+        {
+          "name": "NBC News World",
+          "url": "https://www.nbcnews.com/nightly-news/video/former-reality-star-arrested-after-deadly-brawl-273387077563"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "title": "Viral infections may leave lasting immune damage, mouse study finds",
+      "category": "science",
+      "publishedAt": "2026-11-13T12:55:11.000Z",
+      "summary": "Mice recovering from acute viral infections showed lasting changes to their spleens and weakened immune responses.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112025531.htm"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "title": "Owner gives Twin Peaks lot to San Francisco after failed $5.75M sale",
+      "category": "bayarea",
+      "publishedAt": "2026-11-13T12:06:22.000Z",
+      "summary": "After failing to sell the lot for $5.75 million, the owner is donating it to the city.",
+      "sources": [
+        {
+          "name": "San Francisco Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbGswUXNlb3RsVzV6MnVIX1BONE5wVER2WnIwRmlTN2huaFJTcGhneUlKRWlZNkRKclJyQ19VdmlDRFU2UkdDU2UtVkZJUnpiTEIweU9VaGc5RkhPNzVaYTVEamNOWTRtV2tSUm83aDNWOVAxUW83Zk1hZXlNZjM1QVN3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "title": "Superheated magma may explain towering lava fountains",
+      "category": "science",
+      "publishedAt": "2026-11-13T11:56:39.000Z",
+      "summary": "Experiments show superheated magma can delay crystal formation, which may explain why some volcanoes erupt with lava fountains.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261111221811.htm"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "title": "Man dies after eating explosive disguised as a sweet",
+      "category": "world",
+      "publishedAt": "2026-11-13T11:36:22.000Z",
+      "summary": "Some rural communities use homemade dough-wrapped gunpowder devices to kill wild boars; a man died after eating one.",
+      "sources": [
+        {
+          "name": "CBS News World",
+          "url": "https://www.cbsnews.com/news/man-dies-eats-bomb-disguised-indian-sweet/"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "title": "Dark energy may have switched from negative to positive 9.5 billion years ago",
+      "category": "science",
+      "publishedAt": "2026-11-13T11:08:34.000Z",
+      "summary": "Researchers exploring an alternative gravity theory found dark energy could have flipped sign roughly 9.5 billion years ago.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261111005901.htm"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "title": "Brain implant trial volunteers seek more autonomy and fewer NDAs",
+      "category": "technology",
+      "publishedAt": "2026-11-13T10:00:00.000Z",
+      "summary": "Volunteers in brain-computer interface trials are asking researchers for more autonomy and fewer nondisclosure agreements.",
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "title": "Earth's atmosphere supplied most particles in May 2024 solar storm",
+      "category": "science",
+      "publishedAt": "2026-11-13T09:49:36.000Z",
+      "summary": "Satellite data show about 85% of the charged particles fueling the May 2024 geomagnetic storm originated from Earth's own atmosphere.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261111005905.htm"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "title": "Mangrove forests rebound globally after decades of decline",
+      "category": "science",
+      "publishedAt": "2026-11-13T05:01:00.000Z",
+      "summary": "NASA reports mangrove forests are making a comeback worldwide after decades of loss.",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/earth/earth-observatory/a-global-rebound-for-mangroves/"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "title": "Privy Council rules against criminalizing same-sex conduct in Trinidad and Tobago",
+      "category": "tt",
+      "publishedAt": "2026-11-13T00:11:01.000Z",
+      "summary": "Trinidad and Tobago's highest appeals court, the Privy Council in Britain, ruled that consensual same-sex relations cannot be criminalized.",
+      "sources": [
+        {
+          "name": "Jurist.org",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQN2VTZ1dYR1pmSE4zN05wcnBLR0FoRjczcFRXSVJlOVB4SFdWbkFERy1iZ0VydENpSlJDZ3BQVjdoN0FaTVkwX0NkYkd3aTRIdlByVWtLa3FPbnZpblpZdGxuMC0xbWdDd2tzdXZZN2NuQnVTSTloa25qV08zVUotYUpVUVcxYjNWU0xMSWlBWWU2XzV5UW4zTlN2R25xSV9Jd0RqQVBPcWJUNjFUZU94emlfOXhTWlB5bUtkS1lCT0NQRnJKbGw5clVn?oc=5"
+        },
+        {
+          "name": "The Week",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMEl5bW1zYmVzNlNMaUVyYXFTVHo1NUFkRHhHR0NydXpCTmFNUlMwal9jdEFnRVdpVVNuNFloeG95eVNSSDNDa3hlem43emJTQXFRdC1id1k2dnZPZ3I5Tks0QkNWYnhjWUlva0pOSzAwdUhOOU0xMFdxdWRIQ0hKOQ?oc=5"
+        },
+        {
+          "name": "The New York Times",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYTRraEw1Q05PZnRvUHBOQU5CRTJIN0RiYTZaZjBiWjVGUERiU3lwalBtTzUwU2NzanF0TFpkeEp2TVJydXlwaUdib05idU1YWTdiYm5jSkZ6OXdOb002LVFCUVNaRTJjNTRITUFnNXhvSFFvRjk0ZVVxdHFuSGt4bC1zS2tsQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "title": "Nvidia privately said chip tracking to fight smuggling is feasible, lawmaker says",
+      "category": "technology",
+      "publishedAt": "2026-11-12T20:16:24.000Z",
+      "summary": "Rep. Bill Foster said Nvidia representatives told him it would be technically possible to implement anti-smuggling measures in the Chip Security Act, even as an industry group publicly questioned feasibility.",
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "title": "US envoys meet Putin in Moscow and Zelenskyy in Dublin after Abu Dhabi talks",
+      "category": "world",
+      "publishedAt": "2026-11-12T15:26:34.000Z",
+      "summary": "US-mediated talks in Abu Dhabi ended with an agreement on a Russia-Ukraine prisoner exchange. US envoys then met Russian President Vladimir Putin in the Kremlin and Ukrainian President Volodymyr Zelenskyy in Ireland.",
+      "sources": [
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "title": "Indonesia's vice president resigns over credentials dispute",
+      "category": "world",
+      "publishedAt": "2026-11-12T14:22:50.000Z",
+      "summary": "Vice President Raka, son of former President Joko Widodo, resigned after courts ruled his overseas education documents did not meet election requirements.",
+      "sources": [
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "title": "Hubble gallery of gravitational lenses sets up Roman telescope observations",
+      "category": "science",
+      "publishedAt": "2026-11-12T13:18:40.000Z",
+      "summary": "NASA released a gallery of gravitational lenses imaged by Hubble as groundwork for follow-up by the Nancy Grace Roman Space Telescope.",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-offers-cosmic-sampler-of-targets-for-roman/"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "title": "Crows make visual decisions twice as fast as humans",
+      "category": "science",
+      "publishedAt": "2026-11-12T12:17:19.000Z",
+      "summary": "University of Tübingen researchers found crows identify visual motion direction in about 235 milliseconds on average, twice as fast as humans and monkeys.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261111005850.htm"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "title": "AI improves precision of experimental bionic vision",
+      "category": "science",
+      "publishedAt": "2026-11-12T11:55:55.000Z",
+      "summary": "Scientists developed an AI approach that predicts the light flashes and shapes perceived by a blind man with a brain implant, making bionic vision more precise.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261110042553.htm"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "title": "Perseverance confirms complex organic carbon in ancient Mars rocks",
+      "category": "science",
+      "publishedAt": "2026-11-12T11:37:06.000Z",
+      "summary": "NASA's Perseverance rover confirmed complex organic carbon just beneath the surface of ancient Martian rocks.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261111005908.htm"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "title": "Fossil analysis maps where undiscovered prehistoric species may be found",
+      "category": "science",
+      "publishedAt": "2026-11-12T11:24:47.000Z",
+      "summary": "An analysis of 540 million years of marine fossils found the largest gaps in knowledge lie in relatively recent geological periods.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261112025529.htm"
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "title": "Familiar tropical butterfly turns out to be three species",
+      "category": "science",
+      "publishedAt": "2026-11-12T10:47:43.000Z",
+      "summary": "Researchers used ultraviolet wing patterns and DNA to show a common tropical butterfly is three nearly identical species, one new to science.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261110042556.htm"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "title": "Ukraine reports renewed Starshield disruptions as US envoys meet Putin",
+      "category": "world",
+      "publishedAt": "2026-11-12T09:53:02.000Z",
+      "summary": "Zelenskyy said Ukraine's military experienced a renewed wave of significant disruptions to the Starshield satellite internet service, hours after a US delegation arrived in Moscow for peace talks.",
+      "sources": [
+        {
+          "name": "NBC News World",
+          "url": "https://www.nbcnews.com/world/ukraine/ukraine-starshield-limits-russia-war-trump-musk-rcna608938"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "title": "Israeli strike on Gaza hospital kills at least six",
+      "category": "world",
+      "publishedAt": "2026-11-12T09:26:44.000Z",
+      "summary": "An overnight Israeli airstrike on a hospital in southern Gaza killed at least six people, the enclave's Health Ministry said.",
+      "sources": [
+        {
+          "name": "NBC News World",
+          "url": "https://www.nbcnews.com/world/middle-east/israeli-strike-gaza-nasser-hospital-abu-shaira-doctor-hamas-rcna608932"
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "title": "China accelerates data center construction as US opposition grows",
+      "category": "technology",
+      "publishedAt": "2026-11-12T00:52:44.000Z",
+      "summary": "China is expanding data center construction across Inner Mongolia to catch up with the US on AI, while opposition to data centers mounts in the United States.",
+      "sources": [
+        {
+          "name": "NBC News World",
+          "url": "https://www.nbcnews.com/video/as-u-s-pushes-back-on-data-centers-china-races-to-build-them-273308229709"
+        }
+      ]
+    }
+  ]
+}
