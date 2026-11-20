@@ -1,0 +1,1696 @@
+{
+  "generatedAt": "2026-11-20T22:05:54.432Z",
+  "failedFeeds": [
+    "Trinidad Express"
+  ],
+  "items": [
+    {
+      "id": 0,
+      "title": "Google search redesign drops search button and adds AI sidebar",
+      "category": "technology",
+      "publishedAt": "2026-11-20T21:58:29.000Z",
+      "summary": "Google's latest search page redesign removes the search button and adds an AI sidebar for easier access to AI tools.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Mathematician claims AI-assisted proof of the Generalized Riemann Hypothesis",
+      "category": "ai",
+      "publishedAt": "2026-11-20T21:48:21.000Z",
+      "summary": "Mathematician Levent Alpöge has posted a claimed proof of the Generalized Riemann Hypothesis, reportedly developed using AI. The claim has not yet been verified.",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://alpo.ge/remark.pdf"
+        },
+        {
+          "name": "The Washington Post",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWnR2Ny1uWG1YVUdRQmI2QlEyUkFoalhFZFp3Rng1ZWVlRVR4SHVzaHFnRnZuNWFfRmM5YkpVNFJCSmNHWFk2WDJia1lfOG1mYVY5MHZjY2F1d05XMlhHRUVlVklvc2RiWUR4aURGLWh4MGJMZWFsOW1Obm0taDVHek54Tk1GckZpYl80QXRncVNIbmxLdHlWUkZqMGJfSktFQ0hFV1VJWVQzZDZjbHN6Z3I0LS1aVGNJTElMZ2QzWHo2QQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Meta reconsiders 2030 net-zero goal amid record data center emissions",
+      "category": "technology",
+      "publishedAt": "2026-11-20T21:47:10.000Z",
+      "summary": "Meta says it is re-evaluating its 2030 sustainability goals as emissions from its AI data centers hit records.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "California propositions: seven pass, seven fail",
+      "category": "bayarea",
+      "publishedAt": "2026-11-20T21:47:02.000Z",
+      "summary": "Of 14 state propositions on the California ballot, seven passed and seven failed.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/20/california-proposition-roundup-results-so-far/"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "CrowdStrike in talks to acquire Zscaler",
+      "category": "technology",
+      "publishedAt": "2026-11-20T21:46:37.000Z",
+      "summary": "CrowdStrike is in talks to acquire fellow cybersecurity company Zscaler, sources say.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQelZkLVhGN0lQVWs3SVJrWU00RjF6LV9tUEUyaDlySnhaQ29EVW1mUWFBajFfMmpTckxRUHY3aUxDTHRYV3kxSm1zbDNUdTQ3UnFuRVVULVk1bXlOaDNRc3hrM3k4dDQ2OVBtTHRNR1dlSzQweG1Ya2RjTVNGNk0xLVlKTzBHQjRtTHhhQVBUeW5ZMm1YZ3lUWUNfbGUtNk0?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Security forum head says world can no longer count on US leadership",
+      "category": "world",
+      "publishedAt": "2026-11-20T21:42:59.000Z",
+      "summary": "The head of a major international security conference in Canada warned that the United States can no longer be counted on as a predictable leader of the democratic world and urged other countries to step forward.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/head-of-canadian-security-forum-warns-world-can-no-longer-count-on-us-leadership/?utm_source=rss&utm_medium=rss&utm_campaign=head-of-canadian-security-forum-warns-world-can-no-longer-count-on-us-leadership"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Trump threatens to penalize US firms building AI data centers abroad",
+      "category": "ai",
+      "publishedAt": "2026-11-20T21:36:12.000Z",
+      "summary": "President Trump said U.S. tech companies that build AI data centers in other countries will be penalized. He provided little detail, and members of his team were reportedly hearing about it for the first time.",
+      "sources": [
+        {
+          "name": "ABC7 New York",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcjRkVkRVVmNKQXJGaW1TOE9vM05iRllrdUVzRTZ4LTBTZUtVRzdpa3pJVHB3TXljYV9rT1VueG5MRndHN1ZnV1RRcERHVURucm1WZkFtTFpTQk8wYkJQb3hlLXNvcW1TUTRXQkY3eVVia0ZuRGtwRC1LS0tEaEZkbldUZFF6M3BaRENvOHlDdDMwa1FyOFZ0ZU1PdzRROW1iem9Bb2xVeF9hLTRCbzdPWXQ1ckVZdlhzVXo4?oc=5"
+        },
+        {
+          "name": "NBC Los Angeles",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbDZBUVJXbkl0ZUpxZUFST2dXc3UyenR6akJ2eVIwLURUdGRRQWpFU3FLTXpRYWNYMnBiZ1hFbGRmM0ZiczRhanF0VkdPR3ZTNEFRNTJIN2VJWkF3QlJZT3dZZEZ4bnlkR1g3YVRVekVITXJjWXhYN3FhUWFzQ3A3NXBqb0c4WEZIYV9SekpDaHZMSjJBU0l1ajNQNThXMER1clE3NVVrbkhqam55YUY3Rmx4c29xenZhLUtUM2ZxdmhTM3RRTkRsUVlXeFRSU3fSAdcBQVVfeXFMUDdET0pNa09zQjNCeC1YU2x2ei1EeDlLNTRNRTJ5QUtndUhTSnBlbnVJX1o0bFRzcElFcE9OVm9RLUFjUVRaUWNCTWJRSHlxUUdvb1ltRTlLeFNWa0F5cF9nZ2wyMVlQV1FxRlkyeWxMeHAwUllPVlRxa2Q2Z0tmUms5R1g3TFlWTEZDV2ZYYnllVTRPczlrOFo2OUs1dld6aHpVVllCRlZjVXYzSzRxTWdzeThjSTZGR0NvS2NPcW1VbUhNTU5ERzVsVl9ZdzdHUHBwNUJlelk?oc=5"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "T&T team wins top honours at Taste of the Caribbean",
+      "category": "tt",
+      "publishedAt": "2026-11-20T21:19:48.000Z",
+      "summary": "Trinidad and Tobago's national culinary team won the top team award at the Caribbean Hotel and Tourism Association's Taste of the Caribbean 2026.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/tt-culinary-team-wins-top-honours-at-taste-of-the-caribbean/?utm_source=rss&utm_medium=rss&utm_campaign=tt-culinary-team-wins-top-honours-at-taste-of-the-caribbean"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Researcher's 2 million canaries reveal data leaks in AI supply chain",
+      "category": "ai",
+      "publishedAt": "2026-11-20T20:59:08.000Z",
+      "summary": "A test that planted prompts containing unique, trackable secrets into the AI supply chain showed that data does not stay private.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "At least 34 killed in Haiti police operation against gang leader",
+      "category": "world",
+      "publishedAt": "2026-11-20T20:51:15.000Z",
+      "summary": "At least 34 people were killed after Haitian security forces launched an attack on an area controlled by gang leader Renel Destina, according to police reports.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/several-killed-during-police-operations-in-haiti/?utm_source=rss&utm_medium=rss&utm_campaign=several-killed-during-police-operations-in-haiti"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Astronomers watch giant star swallow its companion and explode",
+      "category": "science",
+      "publishedAt": "2026-11-20T20:41:17.000Z",
+      "summary": "A recent stellar brightening turned out to come from a star orbiting inside a giant companion before an explosion.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/11/astronomers-watched-a-star-spiral-to-its-death-inside-a-giant-companion/"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "SEC investigation focuses on Nvidia's accounting",
+      "category": "technology",
+      "publishedAt": "2026-11-20T20:37:03.000Z",
+      "summary": "Nvidia's accounting is a focus of a U.S. Securities and Exchange Commission investigation, sources told Reuters.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMzlPdFVTT2cyVkhmMFVKNWZ1MnpNT0NLcURnblg4THMwUWNuYTRBLWUxU0ZSSUR5bk1zNnBmVlhIUjByNkN6TzVBNC1uaXQxM0dwY2FkMzZQdm00a0xyMXo3NFNpSUNPdERZWU82aGZLa0lNZHpMOXVnVDBVQW9lMmNrWEVRczVYS1Racm1NNlNERDBJeTFJRG1pZVRfTC1LTy1pNjhpVzRaeGRrY25kSzQ1aDNUUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Russian missile lands in Poland during massive attack on Ukraine",
+      "category": "world",
+      "publishedAt": "2026-11-20T20:28:38.000Z",
+      "summary": "A Russian missile crashed on Polish territory overnight as Russia carried out one of its largest attacks on Ukraine, which killed at least 8 people. No one was hurt in Poland; Prime Minister Donald Tusk called the incident a likely intentional provocation as Ukraine's allies held military exercises.",
+      "sources": [
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/unidentified-object-appears-crashed-poland-after-russian-attacks-138315055"
+        },
+        {
+          "name": "CBS News World",
+          "url": "https://www.cbsnews.com/news/ukraine-war-russia-intentional-provocation-poland-missiles-nato/"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "GUY$18 million in marijuana found in barrels shipped to Guyana",
+      "category": "tt",
+      "publishedAt": "2026-11-20T20:27:21.000Z",
+      "summary": "Guyana's Customs Anti-Narcotics Unit and Revenue Authority found GUY$18 million worth of marijuana in barrels shipped from the United States.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/multi-million-dollar-drug-discovery-made-in-guyana/?utm_source=rss&utm_medium=rss&utm_campaign=multi-million-dollar-drug-discovery-made-in-guyana"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "NASA's new Moon plan takes shape as key questions remain",
+      "category": "science",
+      "publishedAt": "2026-11-20T20:26:33.000Z",
+      "summary": "NASA's revised plan for returning to the Moon is taking shape, though major technical questions remain under debate.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/nasas-new-moon-plan-is-taking-shape-but-some-big-questions-remain/"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Nvidia server suppliers halt Southeast Asia shipments over US curbs",
+      "category": "ai",
+      "publishedAt": "2026-11-20T20:04:00.000Z",
+      "summary": "Suppliers of Nvidia servers have halted shipments to Southeast Asia because of U.S. export curbs.",
+      "sources": [
+        {
+          "name": "Nikkei Asia",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQWJ2Ynl0elFmc2U2cHV6em9qVVp6SGdacE1hRjdjaEJsZExHRDhkSm95cDYwNGxDN3pwY1dBYkhSSkgzd0JveGJUMExPaDBXS2lrc0hCaUtOd09ZUUdPRWNjNHZJOXZhRkpmajhral9vZDV1WjV3UzItRnhiU3Y5NmtKV3JueDZQVHVlaEFTamxxOG1pUm9KdTlXazlOSXEtLUNFdkJmaFY0cG9td1hqV2dCLTF4b2t0ZXZBVVVQSHh0Zy1OY05EV0NwcmJ1c2Ni?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Storm and coastal flooding threaten Bay Area Thanksgiving travel",
+      "category": "bayarea",
+      "publishedAt": "2026-11-20T20:02:03.000Z",
+      "summary": "Another storm hitting the Bay Area, combined with coastal flooding, could disrupt pre-Thanksgiving travel.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/20/another-storm-is-hitting-the-bay-area-heres-how-it-could-affect-thanksgiving-travel/"
+        },
+        {
+          "name": "SFist",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWk9xX3F4cGl4ekhSR0dJdGxId0tMeUZsU3RMOVdrWnU4X1hEMVJWTXhIMzVZUVNDYXZLWFYtMTc5VFF0S3dCeEJNQ2NVbEd2VXl2YVlLM2hYSDNHU2xpcVB0Mlc0WjQ5bktfZHF0TlI0QmZyY0xLUmRoVW45NHYzMmxsSWhZbmJxTjFNTlVCUFVMYzQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Anthropic shares fall 13% the day after record IPO",
+      "category": "ai",
+      "publishedAt": "2026-11-20T20:00:53.000Z",
+      "summary": "Anthropic shares dropped 13% on their second day of trading, leaving retail traders with losses amid a wider tech sell-off. The IPO bank closed a position meant to stabilize the stock, removing a source of support.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTnI5ZjRqcHhFQXkycDMySHZ1Tkl4V2RKdzNIcTlPdFhCMlJhZEkzX2RSZ0F0cjgteE9RX3JQejRRWHV6RnMtdXA3b3RKczRka0dxSEsyZU5SNFhUbTRZMU00NTVOdXE4RTI0OURfdE41aGIzc2N3ZnpsRFBxNkdsOUYzOGFnNEFGVkppNTVlTkR0OUstdU5jZWwyRUtOWGxVeEJBMWpiZ3FWRzVDdG8tUG1va3VWS2U0a3pWcg?oc=5"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "US and Israel weigh new assault on Iran as Trump says he is in no rush",
+      "category": "world",
+      "publishedAt": "2026-11-20T20:00:46.000Z",
+      "summary": "Israel wants a new joint operation with the U.S. against Iran, sources say, but it is unclear whether Trump will resume military action. Trump told an Israeli outlet he may not decide on his next move in the Iran war until 2027.",
+      "sources": [
+        {
+          "name": "CBS News World",
+          "url": "https://www.cbsnews.com/news/iran-war-us-israel-considering-new-assault-sources-say/"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Anthropic co-founder Tom Brown plans donation to Trump investment accounts for kids",
+      "category": "ai",
+      "publishedAt": "2026-11-20T19:54:57.000Z",
+      "summary": "Anthropic co-founder Tom Brown plans to donate to the Trump administration's investment accounts for children, a source says.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVEFvNDBodHpvUlp4S085VFJqRGZsa1drMzJrQXZYWjQtNHNFRU1wR3Z5VG95dDNMWjFLMGRxMTNTYmpQVHlrS1hvd1dYMmE2RHdIZnBQaFFqVEQwWERxaDd6aWNqa1pXWnBYVnVCMTUyblg5ZHNpYTNGbWF5eHdlZk40QUdRcmZiZTl0cW5EMUphWXZpcEdQMjRQaGJTWC1qQ2JETnBhWF9kQQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Prisons cleared to jam contraband phones",
+      "category": "technology",
+      "publishedAt": "2026-11-20T19:52:59.000Z",
+      "summary": "Prisons have received approval to jam contraband phones; industry group CTIA said a test showed interference up to two and a half miles away.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/prisons-get-ok-to-jam-contraband-phones-ctia-says-nearby-phones-will-be-jammed-too/"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Gérard Depardieu and French author investigated over sexual allegations",
+      "category": "world",
+      "publishedAt": "2026-11-20T19:45:20.000Z",
+      "summary": "A French judicial investigation was opened after a complaint filed last year over allegations of a sexual nature.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "GTCR explores takeover of Global Payments",
+      "category": "world",
+      "publishedAt": "2026-11-20T19:34:48.000Z",
+      "summary": "Private equity firm GTCR is exploring a takeover of Global Payments, a source says.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3RQSllqVmJZWmJDT1FsYzFoM0tsWmx3YUF2eGlLSXZDWmYzdXRuYXV2VmhWLXpsS01fTVVub25oVS1FMmJVTEhzSzd2XzZKMmkxU2o5dk9aVVN4WE9mdDNGbmhyc1pQYVljUHdudXJuckxKQ3ZpNThadERoSkoyMG5iaGRTblFBeUcxcVo3S1IzNE9vU0Z2Ukk0a1dIaGVpd1ZFcy1sSl9qa2NZRmhxeXR0RmN0ZDBmSjFqeXpOdmtWM2JjbG90MkVR?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Indian man sentenced to more than 19 years in plot to kill US-based Sikh separatist",
+      "category": "world",
+      "publishedAt": "2026-11-20T19:27:49.000Z",
+      "summary": "Nikhil Gupta, who pleaded guilty in February to murder-for-hire, conspiracy and money laundering charges, was sentenced to more than 19 years in prison.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Army delays detonation of hazardous lead azide in Iowa",
+      "category": "world",
+      "publishedAt": "2026-11-20T19:21:50.000Z",
+      "summary": "The Army has delayed detonating a stockpile of lead azide amid public fear and anger; modeling predicts a plume of neurotoxic lead could reach up to 100 miles away. The Army says waiting could also become dangerous.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/science/2026/11/outrage-questions-swirl-as-army-delays-blowing-up-stockpile-of-toxic-lead-azide/"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "US stocks tumble as AI sell-off erases Nasdaq's gains for the year",
+      "category": "world",
+      "publishedAt": "2026-11-20T19:18:45.000Z",
+      "summary": "The S&P 500 dropped and the Nasdaq erased its gains for the year as a sell-off in AI stocks accelerated, despite Anthropic's record-setting IPO.",
+      "sources": [
+        {
+          "name": "ABC News - Breaking News, Latest News and Videos",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdnZzQ25ucktqYTRpZVBGZmxRYzV5NkVOdlBvcno0RV9hVW5aRk0xSmQzWWRXV2tjWjN2YUFoWldXTVcydjN4Q0d5UURuQUxhZGhzVVNiWUtKbzJrbWR1TG9tZGsxWUVwRkF3a2pTMVNhenNrRm9kazdWMjNDNlFDWW9tcTN1R1d4b284OGxJLXUxX0ppOVHSAZsBQVVfeXFMTnBNdmtqamoxYWgyVjdrUGVTRTF4bFRnRXE0TU9rNFJLbUt0M05VS0hmQ3NBODVuSEl4NEdaeFc0UW9jbS1xa0t0MXhlWHVnZGgxelZDN2hkcEhpVVdqamU0Uk8yYkZzSEVoQUlUaklydmZKcTh2UjFBSlVILU1EaEtJbnZyNy1aNk44VFRrZTd4eXp0bUpLZUMyNFk?oc=5"
+        },
+        {
+          "name": "NBC News World",
+          "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "White House removes cybersecurity chief after tech outages",
+      "category": "world",
+      "publishedAt": "2026-11-20T19:03:56.000Z",
+      "summary": "The White House cybersecurity chief was fired after a series of tech outages, reportedly after losing the confidence of new chief of staff Stephen Miller.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Family of woman seeks answers after death in Trinidad",
+      "category": "tt",
+      "publishedAt": "2026-11-20T18:43:12.000Z",
+      "summary": "The family of a woman who died in Trinidad is seeking answers about her death.",
+      "sources": [
+        {
+          "name": "Yahoo News Australia",
+          "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcDFLcFBTN3o0OXJySHNBWnN0bFoyRTRCbEIxLTVRRFFqYlFZWFYtcWh1S3JSaEoyb2V5dWdrUi1qM2JzYXU4dW5OZGRPS1FuVE1GemY4SWpVTVRtQ0piajV3WENwMWZBWFA2Tm43dHJ2LWRQX0ZoenhfMFdvb3lCNA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Trump calls Putin his friend at summit, drawing criticism from European leaders",
+      "category": "world",
+      "publishedAt": "2026-11-20T18:34:32.000Z",
+      "summary": "Trump called Putin his \"friend\" and said he has a \"fantastic relationship\" with the Russian leader after the APEC summit in Shenzhen. European leaders and foreign policy experts expressed dismay at the remarks.",
+      "sources": [
+        {
+          "name": "CBS News World",
+          "url": "https://www.cbsnews.com/video/trump-calls-putin-his-friend-at-summit-prompting-backlash-from-some-world-leaders/"
+        },
+        {
+          "name": "NBC News World",
+          "url": "https://www.nbcnews.com/world/europe/trump-friend-greeting-putin-causes-alarm-europe-ukraine-rcna610373"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Alphabet raises $4.19 billion in Canadian bond offering",
+      "category": "technology",
+      "publishedAt": "2026-11-20T18:27:40.000Z",
+      "summary": "Alphabet raised $4.19 billion in a Canadian bond offering.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUFVQU3VBb1FwSmxpYnh6M1hNLU03RW1TSkZpbUJPcXpkQ1lZbWFocERJLTA3cUZWZ2JELUtSY050MW5Kdko5VHhoUFRqdW5XUGlWNlliWlZYLUxFa0tCY3RLaERDa3p2aGNGVEk3VjhlNFpPQTR0clR6MzJKQzBPS1JXSHljRUFIdkJRSWFFOVBrWERMQnVYTGVMTloxbVF5?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "METR update finds some AI capabilities still improving exponentially",
+      "category": "ai",
+      "publishedAt": "2026-11-20T18:15:15.000Z",
+      "summary": "An updated report from AI evaluation nonprofit METR finds some AI capabilities continue to improve exponentially, but models perform worse on tasks requiring judgment than on coding.",
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "ABB considers robotics listing if SoftBank sale fails",
+      "category": "world",
+      "publishedAt": "2026-11-20T18:13:00.000Z",
+      "summary": "ABB is considering listing its robotics business if a sale to SoftBank falls through, sources say.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmFTbW95TklxQWFndG5mcGRTNEd2U3d1cnJIUWU2VGpUZjVLRTlrb2V0T3FUeTdwQ3VYbXRVQmtlRXY0bUpHeEJLTE5BanpCUV9sS3p2VkVXenVvejVzczROSXJiVjVnVjBQb0dEYUFVbXBOcUc0Vks2aGZvTTBuakc2LVdyZTNSMktUalhHbFFNWXFmT1UzTy03c195M0VlUWwzV1RUUXF4RmhJSmozYjRnaUtCTm1LWWlYVFRyQnJXZw?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Denmark accuses Russian intelligence of plotting to kill American Ukrainian",
+      "category": "world",
+      "publishedAt": "2026-11-20T17:59:38.000Z",
+      "summary": "Danish authorities say they thwarted an attempted killing of an American Ukrainian citizen on Danish soil in a plot allegedly orchestrated by Russian intelligence services.",
+      "sources": [
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/denmark-accuses-russian-intelligence-plotting-kill-american-ukrainian-138323497"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "UK and EU agree deal at summit to strengthen ties",
+      "category": "world",
+      "publishedAt": "2026-11-20T17:49:48.000Z",
+      "summary": "Top EU officials met UK Prime Minister Andy Burnham at a rare summit and agreed a deal covering British food exports, emissions trading and a youth experience scheme. Burnham said the UK will explore even closer ties.",
+      "sources": [
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Sierra ski resorts open early after heavy snow",
+      "category": "bayarea",
+      "publishedAt": "2026-11-20T17:47:21.000Z",
+      "summary": "El Niño-driven snowfall is allowing resorts such as Palisades Tahoe to open ahead of schedule.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/20/ski-resorts-in-the-sierras-opening-early-thanks-to-heavy-snow/"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Apollo and Goldman lead $44 billion SpaceX GPU debt financing",
+      "category": "technology",
+      "publishedAt": "2026-11-20T17:46:10.000Z",
+      "summary": "Apollo and Goldman Sachs are leading a $44 billion debt financing backed by SpaceX's GPUs. Bondholders want the chip collateral kept on Earth and within reach.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaEhScEk2NU5wVFRpcDFmSXdjTko1Szc1YXM2Z0d0S3lvX2NTa0RVVTBGRkxROHA3UjdDOHR0Q3BmX0c4YzZka0Z2NTJrMWFVTU9NODNic1IxUjFxSkFLcGk1d29VZUI5TmJwVV82UV9xSFZEQm1KZTN4QlR6aldKaWZvZG5ITlRDVkM2RDNLVV8tSi1yTnBaT3hOXzFtRF9BdjNDZUVlbXdrMkVkUUk5cDZzaThIZw?oc=5"
+        },
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/space/2026/11/spacex-lenders-dont-want-elon-musk-launching-their-collateral-into-space/"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Federal OSHA urges California not to ban engineered stone",
+      "category": "bayarea",
+      "publishedAt": "2026-11-20T17:40:35.000Z",
+      "summary": "The federal OSHA head urged California to enforce existing rules rather than ban the countertop material linked to rising silicosis cases; state officials say that is insufficient.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/20/feds-urge-california-not-to-ban-countertop-material-linked-to-rise-in-silicosis/"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Tesla proposes $3.1 billion Texas polysilicon plant",
+      "category": "technology",
+      "publishedAt": "2026-11-20T17:25:43.000Z",
+      "summary": "Tesla has proposed a $3.1 billion polysilicon plant in Texas for solar manufacturing.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNHlYSGVWRlplU3QwM1lpeFJ6ZGZsYnN4ZHNjeUp4d1M5ekhZUWlWMU5aVFRqeFlPUkRjV2h1T04tcVcySTM3bU9lR2d5d0tLUm9rcEEzYmN6YmZjaGR2ZXhRYTVBRl95STl1VWlRb0kzVFhCa3h4RTh3azhsVjNaTTlLOFZqUnRYdl9NWHlEeWdETHk1UC1yMmp4TmNKbFlyclp4THNYSmVzdEEtaWNfMXhJSi1uR3NL?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "California Legislature's Democratic majority grows, with internal splits",
+      "category": "bayarea",
+      "publishedAt": "2026-11-20T17:23:05.000Z",
+      "summary": "Democrats will hold their largest legislative caucus in modern history, but ideological divisions and swing-district pressures could affect policy.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/20/californias-legislature-is-becoming-bluer-than-ever-that-doesnt-mean-they-all-agree/"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Papers claim finite-time blow-up for Navier-Stokes equations",
+      "category": "science",
+      "publishedAt": "2026-11-20T17:21:36.000Z",
+      "summary": "New papers posted online claim to show finite-time singularities in the Navier-Stokes equations, one of mathematics' major open problems.",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Family demands answers after boating victim's lungs found missing",
+      "category": "tt",
+      "publishedAt": "2026-11-20T17:10:31.000Z",
+      "summary": "Attorney Anand Ramlogan SC is calling for an urgent investigation after an independent pathologist found both lungs missing from 18-year-old Amiyr Ali, one of six people missing after a boating incident.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/family-demands-answers-after-boating-victims-lungs-go-missing/?utm_source=rss&utm_medium=rss&utm_campaign=family-demands-answers-after-boating-victims-lungs-go-missing"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Nestlé eyes autonomous factory lines with Google and Microsoft",
+      "category": "ai",
+      "publishedAt": "2026-11-20T17:01:00.000Z",
+      "summary": "Nestlé is looking at autonomous factory lines and is eyeing Google and Microsoft as partners.",
+      "sources": [
+        {
+          "name": "WSJ",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWUFvdy1NOXphTWxlN25CWVV2TlppczdLSERycm44cVJmNmF5Q1g5Y184Tmoyak96ekgyZDd4N1h2d3diVUktU1E5aGNtSm1hV2JyNUltOENIU3NLdW1OcEdKVUk0THhOWF94aVlhMUFrNTBULW5hckZ4eWppTG1uMmU1TW1zdmZzSC14QmZySElQbm53dWE1bnhoMVhYNEtCV3ViMGp1bTl3MzB3QnhnVjdGbVJmUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Newsom backs AI kill switch in expert panel recommendations",
+      "category": "bayarea",
+      "publishedAt": "2026-11-20T17:00:27.000Z",
+      "summary": "Gov. Gavin Newsom unveiled an expert panel's recommendations on AI safety, including a kill switch to halt dangerous releases from companies such as OpenAI and Anthropic.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/20/newsom-touts-an-ai-kill-switch-to-halt-dangerous-openai-anthropic-releases/"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Two earthquakes, including magnitude 5.0, rattle California",
+      "category": "bayarea",
+      "publishedAt": "2026-11-20T16:15:26.000Z",
+      "summary": "Two earthquakes struck California overnight, one measuring magnitude 5.0.",
+      "sources": [
+        {
+          "name": "San Francisco Chronicle",
+          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSGV6d3EyQ0J5MnJPUm5WUHkybFUwOVRrdXk3UG1ZM1VJcVRTYV9reldsWDNvNzNKUUVJa04tTVlfTW5QNTVMd3pvQnlzenlPRGR6cE1JaldDUzFUTUZHcTlfdVAyZkEtd0RzUkNjU3pNVFpORnRxLW0zY3VVS2VNdFZFd05sb0VjcExmVzNjVXJpdFdVTHRpVmYwUllxWmFiYzRydUVPWU5HN1M5NTVuQg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "title": "France's EDF nears decision on new nuclear reactors",
+      "category": "world",
+      "publishedAt": "2026-11-20T16:12:59.000Z",
+      "summary": "French utility EDF is nearing an investment decision on new nuclear reactors, according to sources.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV1ZvQWhEWTNGNENvLVNNLVk0R3VCc2NkRmFzby1mS0ZuSlpocVFKMl9tLTRjcGVDVm9DcmgyUm5sT042dGpKMU9zRGNyRm1BemVQTzI5OC1lS0RzRkIyY0oyOHQ0UUhwMUNlSGlpWE5RWmdyNGZ6YTdwdWJRREQxQUlmU0FhNFpoam4ydTFwVWJzaVNYZmNnYkFGbWtodDUyNDlWQS0xZG5TYUllNWZTbzNFNm9SRXVkbWRBUTlyOA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "title": "Opposition boycotts Prime Minister's Question Time",
+      "category": "tt",
+      "publishedAt": "2026-11-20T16:12:39.000Z",
+      "summary": "The Opposition boycotted Friday's PM's Question Time in protest over limits on supplementary questions, Chief Whip Marvin Gonzales said.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/opposition-boycotts-pms-question-time/?utm_source=rss&utm_medium=rss&utm_campaign=opposition-boycotts-pms-question-time"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "title": "Valve says Steam Machine prices may rise due to limited supply",
+      "category": "technology",
+      "publishedAt": "2026-11-20T16:11:21.000Z",
+      "summary": "Valve said it may have to raise the price of supply-limited Steam Machines because it does not yet know how many it can make or at what cost.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gaming/2026/11/valve-says-it-might-have-to-raise-the-price-of-supply-limited-steam-machines/"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "title": "Nearly 600 women killed in South Africa in three months",
+      "category": "world",
+      "publishedAt": "2026-11-20T15:55:16.000Z",
+      "summary": "South African police reported nearly 600 women killed within three months and called for greater efforts to prevent violence against women and children.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c69vwyjp0339o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "title": "Curiosity rover has drilled 49 sample holes on Mars",
+      "category": "science",
+      "publishedAt": "2026-11-20T15:53:24.000Z",
+      "summary": "A NASA collage shows the 49 drill holes Curiosity has made on Mars to collect rock samples as of November 2026.",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/image-article/nasas-curiosity-mars-rover-collects-samples/"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "title": "Workers and students protest across Europe as Italy strike disrupts services",
+      "category": "world",
+      "publishedAt": "2026-11-20T15:43:51.000Z",
+      "summary": "A nationwide strike disrupted transport and schools in Italy while demonstrators gathered in several European countries over wages, living costs and education.",
+      "sources": [
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/italy-strike-draws-workers-students-nationwide-protests-wages-138314660"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "title": "Spain's data centres become election issue with new rules",
+      "category": "world",
+      "publishedAt": "2026-11-20T15:30:33.000Z",
+      "summary": "New rules on Spain's fast-growing data centre sector have made it an election issue.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMU4tN0lkenRDSjFTZ2JzT3pWSTB1aXQyc3JDbTNXUjIzQk1yTFI5ck5GbE82UGw5Wl92NE1rMklMTW9sMnhKYVlYODhTVDVhWHplU0J1R2M3aE13eFE3RlMyNGtBS2hXbVhpVDFDVjlaZThmdjJ2QVF0WG9CRTItZmo5S0Q2bzg4SjEtZ0lRakRPWUxDQWJEdVNBZU5uSXJzVjNsY3h2SHNJQXBHV0tBcDNRRVNrMkhpT29TVldTLUg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "title": "Cursor weighs phasing out Chinese AI models over geopolitical risk",
+      "category": "ai",
+      "publishedAt": "2026-11-20T15:00:50.000Z",
+      "summary": "SpaceX-owned Cursor is considering phasing out Chinese AI models over geopolitical risk, CNBC reports.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeWlDTVU0ZkVnYWE3bk1yYkRRUUdLTV9YNFBQam8wYjRheXdjUnRqTFBjOWJPU0k4WmdydmZyU0hvQ0RnckFXSnVEQ2VTQy1YU1hzRDBMY1ktbnVqVUwyZ1ktaVdrSXUzS2hWeVlJanE1QXZwQW5uT0I5YjlDcWhDUS1wN0JOSVpTTU5qTGRzZjRQZEFKMEhVX2gtTlNDTENCWThBNFlqTUt1ZnA1ZjZZWEdSbTctTWR1VWxqSFBKb1d2RWFQd0I2MTlHbzBLakR5NzdwMA?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "title": "Trump, Xi and Putin hold trilateral summit in Shenzhen with few concrete results",
+      "category": "world",
+      "publishedAt": "2026-11-20T15:00:00.000Z",
+      "summary": "President Trump met Chinese President Xi Jinping and Russian President Vladimir Putin in Shenzhen, China, with Ukraine, Iran and nuclear arms control on the agenda. The three said they agreed to boost oil production and reaffirmed there can be no winners in a nuclear war, but Trump offered little in actual results beyond a joint statement.",
+      "sources": [
+        {
+          "name": "CBS News World",
+          "url": "https://www.cbsnews.com/news/trump-xi-putin-china-apec-summit/"
+        },
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference"
+        },
+        {
+          "name": "NBC News World",
+          "url": "https://www.nbcnews.com/world/asia/trump-pushes-three-way-nuclear-deal-russia-china-show-little-interest-rcna610145"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "title": "Residents back Dearing family descendant's lawsuit against Piedmont",
+      "category": "bayarea",
+      "publishedAt": "2026-11-20T15:00:00.000Z",
+      "summary": "Piedmont officials are pursuing a memorial to the Dearing family, but a descendant says it is not enough, and a group of residents supports her lawsuit.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/20/is-a-memorial-enough-piedmonts-dearing-family-lawsuit-garners-local-support/"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "title": "US to announce root cause of FAA nationwide ground stop",
+      "category": "technology",
+      "publishedAt": "2026-11-20T14:52:51.000Z",
+      "summary": "U.S. officials will soon announce the root cause of the FAA's nationwide ground stop.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/gadgets/2026/11/how-faa-can-modernize-us-national-airspace-system-without-emergency-ground-stops/"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "title": "Researchers pin down theory of 'perfect resilience' in networks",
+      "category": "science",
+      "publishedAt": "2026-11-20T14:50:41.000Z",
+      "summary": "Computer scientists identified four simple network structures responsible for message-routing loops when communication links fail.",
+      "sources": [
+        {
+          "name": "Quanta Magazine",
+          "url": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "title": "San Francisco home prices see biggest run-up since dot-com era",
+      "category": "bayarea",
+      "publishedAt": "2026-11-20T14:00:00.000Z",
+      "summary": "San Francisco's housing market is seeing its sharpest price increases since the dot-com era.",
+      "sources": [
+        {
+          "name": "The San Francisco Standard",
+          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92cGp6VmhKN2h2RElZMnAtQU05ZkN0VFB5X0lwZHlDelNoNG1RbXNMN3BXTDBnMlg3M0F0bWtxZlJDRHliQWFpZ29laklkdDgyMlNZTnJjTlM4dnVONjc1SVlmaTZVRXd5QkpqUXJhSEdhMWE0Q3J3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "title": "Mayor Lurie shifts SF homelessness policy toward treatment",
+      "category": "bayarea",
+      "publishedAt": "2026-11-20T14:00:00.000Z",
+      "summary": "A look at Mayor Daniel Lurie's shift in San Francisco homelessness policy linking shelter to treatment.",
+      "sources": [
+        {
+          "name": "The San Francisco Standard",
+          "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMTdGWXotOVVTOURkOFh5cmVGNW9mMHozbGZ1Z3NzLTVpYXZ6clAzQkhacnJ6REtWUGlPR19CM0hBNGY5TkFxTks0Y2ZBTWVqTlo3WFIwYWU1enh2OUZJblRhRWx1akZuc3FSbjM1YlhOalptRGgyYlhyaC1HYm5Ra09QMnp3a1pXU0JZVDZB?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "title": "UN top court rules Myanmar committed genocide against Rohingya",
+      "category": "world",
+      "publishedAt": "2026-11-20T13:46:32.000Z",
+      "summary": "The International Court of Justice found that Myanmar security forces acted with genocidal intent against the Rohingya during 2017 military operations in Rakhine state. Myanmar's government dismissed the ruling as unfair, while Rohingya refugees in Bangladesh welcomed it and said they want to return home.",
+      "sources": [
+        {
+          "name": "CBS News World",
+          "url": "https://www.cbsnews.com/news/myanmar-genocide-rohingyas-un-top-court/"
+        },
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya"
+        },
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/myanmar-dismisses-courts-ruling-responsibility-rohingya-genocide-unfair-138313854"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "title": "Saudi Arabia intercepts more Houthi missiles and drones",
+      "category": "world",
+      "publishedAt": "2026-11-20T13:46:20.000Z",
+      "summary": "Saudi Arabia says Iran-backed Houthi rebels in Yemen have fired more missiles and drones at the kingdom.",
+      "sources": [
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/saudi-arabia-intercepts-yemen-houthi-missiles-drones-mideast-138314659"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "title": "France investigates suspected leaks to Le Pen's National Rally",
+      "category": "world",
+      "publishedAt": "2026-11-20T13:45:29.000Z",
+      "summary": "French authorities are investigating whether a former Interior Ministry official leaked confidential information to Marine Le Pen's far-right National Rally.",
+      "sources": [
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/france-probes-suspected-leaks-confidential-information-le-pens-138315239"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "title": "Man with 22 pending charges killed in Chaguanas shootout with police",
+      "category": "tt",
+      "publishedAt": "2026-11-20T13:10:16.000Z",
+      "summary": "Varindranath Maraj, 32, charged with 22 offences including kidnapping and robbery, was shot dead in an exchange of gunfire with police after a high-speed chase in Chaguanas on Thursday night.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/career-criminal-killed-in-chaguanas-shootout/?utm_source=rss&utm_medium=rss&utm_campaign=career-criminal-killed-in-chaguanas-shootout"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "title": "Relative surrenders after Cumuto woman stabbed",
+      "category": "tt",
+      "publishedAt": "2026-11-20T13:05:06.000Z",
+      "summary": "A 35-year-old Cumuto woman was hospitalized after being stabbed multiple times during an argument with a relative at her home on Thursday night; the relative surrendered.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/relative-surrenders-after-cumuto-stabbing-1/?utm_source=rss&utm_medium=rss&utm_campaign=relative-surrenders-after-cumuto-stabbing-1"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "title": "Russian strikes hit three Kyiv bridges, killing three and cutting power",
+      "category": "world",
+      "publishedAt": "2026-11-20T13:01:16.000Z",
+      "summary": "Russia launched missiles and drones across Kyiv in one of its biggest air attacks of the war, damaging three bridges, killing three people and injuring nine. The strikes followed Putin's vow of revenge for Ukrainian attacks on the Crimean Bridge.",
+      "sources": [
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/russian-attacks-kyiv-kill-3-cripple-bridges-cut-138313948"
+        },
+        {
+          "name": "NBC News World",
+          "url": "https://www.nbcnews.com/world/ukraine/russia-strikes-kyiv-bridges-ukraine-crimea-putin-zelenskyy-apec-trump-rcna610372"
+        },
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "title": "Texas execution takes more than an hour",
+      "category": "world",
+      "publishedAt": "2026-11-20T12:42:37.000Z",
+      "summary": "A Texas death-row inmate screamed during an execution that took more than an hour, weeks after Christa Pike survived a lethal injection of the same drug.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "title": "Scientists 3D-print Moon dust into interlocking bricks",
+      "category": "science",
+      "publishedAt": "2026-11-20T12:34:56.000Z",
+      "summary": "Researchers 3D-printed simulated Moon dust into LEGO-like bricks that could one day be used to build lunar bases, though they still need strengthening.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261119194525.htm"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "title": "Seminole Tribe objects to DraftKings online gambling in Florida",
+      "category": "technology",
+      "publishedAt": "2026-11-20T12:30:29.000Z",
+      "summary": "The Seminole Tribe, the only entity allowed to offer online gambling in Florida, is objecting to DraftKings' contract-based offering in the state.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/seminole-tribe-tries-to-stop-draftkings-illegal-gambling-in-florida/"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "title": "CERN finds evidence of ultra-rare particle decay after 40 years",
+      "category": "science",
+      "publishedAt": "2026-11-20T12:23:23.000Z",
+      "summary": "CERN scientists found the first evidence of a particle decay expected once in every 10 billion beauty particles, after more than 40 years of searching.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261119194530.htm"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "title": "Caribbean Airlines to offer free flights for children needing overseas medical care",
+      "category": "tt",
+      "publishedAt": "2026-11-20T12:08:58.000Z",
+      "summary": "Caribbean Airlines will provide free flights for children traveling abroad for medical treatment.",
+      "sources": [
+        {
+          "name": "WIC News",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNldGOXZPMkN1Sk96RGt4bF9ZRWotNU9POThONzlrWGx5VmFrQlR3eWg3M0sxQW1hX2lwUmNSSmZ1ZFplSTBaUm80U3NQM3lQZnJScHpsMUFXQ0o4cVhPNlZ5TXpOeFRKWWxBR094TC1uQ24wUFVHQnYteWw1SHNBMzZQdFFoTC1pRXZ4aXB1U3d6Q1pibEw0ZFZ5TXJGdGRJbHk1LVhybV9xU1RYZVd1VUh3UEFJYzN4VF9BcThTOVFkSVUy?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "title": "Iran war funding becomes sticking point in government funding talks",
+      "category": "world",
+      "publishedAt": "2026-11-20T12:04:57.000Z",
+      "summary": "Democrats aim to use a funding measure needed to avoid a shutdown next month to block Iran war funding. Republican Sen. Ron Johnson rejected tying government funding to an end to the war.",
+      "sources": [
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "title": "TP-Link still barred from selling latest routers in US",
+      "category": "technology",
+      "publishedAt": "2026-11-20T12:00:43.000Z",
+      "summary": "The Trump administration continues to block Wi-Fi maker TP-Link from selling its latest routers in the U.S.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/trump-admin-still-wont-let-wi-fi-giant-tp-link-sell-its-latest-routers-in-us/"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "title": "Caltrans installs 'Tiger Dam' near Bay Bridge to prevent flooding",
+      "category": "bayarea",
+      "publishedAt": "2026-11-20T12:00:00.000Z",
+      "summary": "Caltrans is installing a flood barrier near the Bay Bridge toll plaza, closing one westbound I-80 lane starting Friday.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/20/to-prevent-flooding-near-bay-bridge-caltrans-to-install-tiger-dam-this-weekend/"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "title": "San Francisco pilot makes fentanyl treatment easier to start",
+      "category": "bayarea",
+      "publishedAt": "2026-11-20T12:00:00.000Z",
+      "summary": "A new San Francisco pilot program lowers barriers to starting fentanyl addiction treatment.",
+      "sources": [
+        {
+          "name": "Mission Local",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZzBKT2YwaFU4U054RHdsMzd0NzdRWGJ6RFUxZS1NTkwyZjliR1hlT0NodFc5US11RzNOVkhRTnh1bmZOc2VBNFdMOHFOT0JpMU9tdXNJTDN3OWlQMXFCaW5DalhqSGNQTzdYTTI1ZHd6MnJBemN0N0NibnQyaVFsbDgtbDVyTDFUQWNCRTRFeEM5VTBIOF94UGdRd3BEZTZq?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "title": "COP31 reaches final day as small island states warn of failure",
+      "category": "world",
+      "publishedAt": "2026-11-20T11:44:55.000Z",
+      "summary": "The Alliance of Small Island States warned COP31 will fail if its final agreement does not adequately address the gap between climate commitments and action on 1.5°C. Negotiations on climate finance and adaptation remained unresolved on the scheduled final day.",
+      "sources": [
+        {
+          "name": "CNC3",
+          "url": "https://www.cnc3.co.tt/aosis-warns-cop31-will-fail-without-stronger-action-on-1-5c/?utm_source=rss&utm_medium=rss&utm_campaign=aosis-warns-cop31-will-fail-without-stronger-action-on-1-5c"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "title": "Reuters examines Jeffrey Epstein's ties to Russia",
+      "category": "world",
+      "publishedAt": "2026-11-20T11:04:14.000Z",
+      "summary": "A Reuters report examines Jeffrey Epstein's connections to Russia, including oligarchs and women.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWmhSRk1aazd5Y3NQdUNnWV9NdkpzSHY0TFB2TS1ucXNiOGVfUXlsUFoxWloxM19wNjlVM2hicUFVbHZkOTNVSkJNTTRoa3R1SHJEY29UNmpfWFZfOUs3ZlkwSV9HcEFmRFVjOXloZWR6c19qT0kzQ3h4YUNBTlFjUVBIT1RraUxveVQ4d3FEWU1ZZWEyNXhfQU1vcVdjajlIZVBlZzJVYzZTc01lM01pai1DdUtYUQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "title": "Chinese copper smelters blend concentrate overseas to boost supply",
+      "category": "world",
+      "publishedAt": "2026-11-20T10:56:28.000Z",
+      "summary": "Two Chinese copper smelters are blending concentrate overseas to boost supply, according to sources.",
+      "sources": [
+        {
+          "name": "Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdVZOcmxHRTFWdTktS3pnaUpNQXZ1aG1YMURQTEZPN0tZbUtxRXI4SlhhU1dyNHVNZC1IYTVSd1N6cFJUMnBpTktiTHNlUE93RWd1bkxOeXplakh0SmFwZndoOWxrUE1sdFNRUDlmR1hFTkY3Qzd5ODFBZ0ZKODVzTmI5WFBVZ1ZLdnpkTGZrY0FjM2ZkOU5KTjh5VEFPVDk3MlFLVUZhNWFkbzFkWVM3MW94QU5hcmZMNGFLUGdTVV9yTFBXVWN5RU1rY2ktaGk3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "title": "South Korea catches 111 students cheating on Suneung exam",
+      "category": "world",
+      "publishedAt": "2026-11-20T10:16:19.000Z",
+      "summary": "South Korean authorities caught 111 students with banned smart devices during the high-stakes Suneung college entrance exam under new anti-cheating measures.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "title": "AI use in Philadelphia judicial chambers raises accuracy questions",
+      "category": "ai",
+      "publishedAt": "2026-11-20T10:01:00.000Z",
+      "summary": "Artificial intelligence tools are being used in Philadelphia judicial chambers, raising questions about accuracy.",
+      "sources": [
+        {
+          "name": "Inquirer.com",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY2g1Y2lzUzJSYzhIMVVnWFRLcGN5d0NrYmIxcmZyRnVyc1Y1dUFOSzFNNjJ4bkNrd1F3U0VVNk9UbjBPanN5TVBVY1FGMUlXOE5wbjdpQkh0NHlEVlBsODlfMk95T2VQU0I3eW90LWlWSUFNNEc2QTdzUDhHZjNlbm82Q1lCNmlTR0l5ODM2cWdXQ3BzQ0E1eWw5QU56YzU2YXRFc0dSYUNYYmxIOVRQVS13aEhsNGVrV1k2UVp3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "title": "Trump says Iran may be working on biological or chemical weapons",
+      "category": "world",
+      "publishedAt": "2026-11-20T08:51:00.000Z",
+      "summary": "President Trump told Fox News there are indications Iran may be working on biological or chemical weapons as the war nears its ninth month.",
+      "sources": [
+        {
+          "name": "CBS News World",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-gulf-retaliation-strikes-strait-of-hormuz/"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "title": "Sydney man charged over alleged car bomb plot",
+      "category": "world",
+      "publishedAt": "2026-11-20T07:49:52.000Z",
+      "summary": "Australian police arrested a man in greater Sydney on charges of researching how to build a car bomb and downloading material inspired by the Islamic State group.",
+      "sources": [
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/sydney-man-charged-car-bomb-plot-downloading-islamic-138312769"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "title": "Troops from 11 countries drill in Poland for potential postwar Ukraine mission",
+      "category": "world",
+      "publishedAt": "2026-11-20T07:48:16.000Z",
+      "summary": "Thousands of European troops are taking part in a major military exercise in southeastern Poland in preparation for a possible postwar mission in Ukraine.",
+      "sources": [
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/european-troops-11-countries-drill-poland-potential-postwar-138313096"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "title": "Xi emerges from APEC summit with diplomatic win after hosting Trump and Putin",
+      "category": "world",
+      "publishedAt": "2026-11-20T07:45:48.000Z",
+      "summary": "Chinese President Xi Jinping reinforced his global standing by hosting Trump and Putin at the Asia-Pacific Economic Cooperation summit, despite limited substantive progress.",
+      "sources": [
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/xi-projects-chinas-global-influence-after-hosting-trump-138313749"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "title": "Ancient Ulpia Library in Rome reopens after restoration",
+      "category": "world",
+      "publishedAt": "2026-11-20T07:41:51.000Z",
+      "summary": "The long-buried ancient Ulpia Library in Rome has been restored and reopens to the public this week.",
+      "sources": [
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/long-buried-ancient-library-rome-opens-public-after-138307336"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "title": "Bukele sends Salvadoran troops against Haiti gangs as he seeks third term",
+      "category": "world",
+      "publishedAt": "2026-11-20T07:38:27.000Z",
+      "summary": "El Salvador's President Nayib Bukele said his troops attacked the home of a notorious gang leader in Haiti, drawing celebration from some Haitians and concern from others. Bukele has also officially launched his bid for reelection in February.",
+      "sources": [
+        {
+          "name": "NBC News World",
+          "url": "https://www.nbcnews.com/video/haitians-celebrate-as-el-salvador-s-bukele-sends-gang-fighting-troops-273862725834"
+        },
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/el-salvador-president-nayib-bukele-seeks-term-attacking-138309430"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "title": "Nigeria moves to end jail terms for attempted suicide",
+      "category": "world",
+      "publishedAt": "2026-11-20T06:32:17.000Z",
+      "summary": "Nigeria has proposed decriminalizing attempted suicide following years of calls from psychiatrists, alongside a parallel Senate bill.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "title": "Two massive stars may be feeding Milky Way's central black hole",
+      "category": "science",
+      "publishedAt": "2026-11-20T05:41:16.000Z",
+      "summary": "Astronomers traced gas clouds near the Milky Way's supermassive black hole to a pair of massive stars whose colliding winds appear to form clumps that may feed it.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261119194605.htm"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "title": "Tropical Cyclone Xavier opens Southwest Pacific storm season",
+      "category": "science",
+      "publishedAt": "2026-11-20T05:01:00.000Z",
+      "summary": "Tropical Cyclone Xavier marked the start of the Southwest Pacific storm season.",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/earth/earth-observatory/the-stormy-southwest-pacific/"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "title": "Four arrested at San Francisco protest outside Anthropic after IPO",
+      "category": "bayarea",
+      "publishedAt": "2026-11-20T03:42:00.000Z",
+      "summary": "More than 100 protesters gathered outside Anthropic's San Francisco headquarters over AI risk as the company went public, and four were arrested. Protests also took place in New York.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/19/four-arrests-in-san-francisco-protest-outside-anthropic-headquarters-after-ipo/"
+        },
+        {
+          "name": "SFist",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN1hvVTFxLUlONWx2UUxSMlBEdVM1UE1XM2pLU0s2ajdPTkFTZFhHVnpmZDR1R0ctSHJ4UmlvQThLdHNrdE1sYzlnX2FaNkwxWnRKUzZCZ2wtUlJ1TTRkel9TZlU2czNNaGZkMUpBSkdZSU0tWllmLTdCVC1uLTU5VjVsbWc2akttZVppSVhaLVZlMnVGOXNIVTV3aTBsQk1zNHlKd0dlSkxXNUE?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "title": "Taung Child study suggests separate branches of human ancestors",
+      "category": "science",
+      "publishedAt": "2026-11-20T03:17:52.000Z",
+      "summary": "A study of the 3-million-year-old Taung Child fossil suggests ancestors once grouped as one species may represent different branches of the human family tree.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118065531.htm"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "title": "European leaders say they are ready for talks with Russia on ending Ukraine war",
+      "category": "world",
+      "publishedAt": "2026-11-20T00:50:24.000Z",
+      "summary": "Ukraine's European allies said at a summit in Berlin that they have a united negotiating position for talks with Russia on ending the war.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "title": "Why San Francisco's water system was overwhelmed by record storm",
+      "category": "bayarea",
+      "publishedAt": "2026-11-20T00:36:39.000Z",
+      "summary": "SFGATE examines why the city's water system could not handle a record-breaking storm.",
+      "sources": [
+        {
+          "name": "SFGATE",
+          "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9qTXBIQ3AwOW5qdExwREc3d2RLc3dzQXJZdmZ3dUlReGFYcExIOVdkd3A3RG1wVTBuNDA2ZUJ0c0hyZzdIcUZJY2dFQVpoV0N2bC13a3NndTFKZklQS0dzQmlzOUZubHN5ancxQnBPempWN3IyQkJsTVd3?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "title": "SF schools end deal with anti-Zionist group, sign one with sister group",
+      "category": "bayarea",
+      "publishedAt": "2026-11-20T00:27:55.000Z",
+      "summary": "An anti-Zionist organization's arrangement with San Francisco schools ended, but a sister group has a new agreement with the district.",
+      "sources": [
+        {
+          "name": "The Jewish News of Northern California",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUVg5Nlp6YU84NVQ4MUNvXzVRSE9RcnU2cGE1UWhxVU1nSUlpcGNaekhJbzN6MURXWHRVSkREUG5qZllzNkhwY3VpaVN2WHc2Q25hR1cyXzJxRTctZWstWnc0bWlZdXZ3OVJpR05mN0U0ZGhtTkZSem5HdlZNR0Vic1lSWGhSWThQLXg2bW90bmsxTGhJel9IRDFPclBtR3ZxNkVkbQ?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "title": "Experimental compound burns fat without muscle loss in mice",
+      "category": "science",
+      "publishedAt": "2026-11-20T00:19:49.000Z",
+      "summary": "UC Berkeley researchers identified a compound that increased energy expenditure by up to 18% and improved blood sugar control in mice, rather than suppressing appetite.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118073918.htm"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "title": "Pancreatic cancer pill shrinks tumours in trial",
+      "category": "science",
+      "publishedAt": "2026-11-20T00:08:22.000Z",
+      "summary": "The daily pill daraxonrasib appeared to shrink and possibly eliminate tumours in some patients with pancreatic cancer in a trial.",
+      "sources": [
+        {
+          "name": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "title": "PG&E granted $456 million rate hike",
+      "category": "bayarea",
+      "publishedAt": "2026-11-19T23:38:00.000Z",
+      "summary": "California regulators approved a $456 million rate increase for PG&E amid questions about its spending.",
+      "sources": [
+        {
+          "name": "Action News Now",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTTNjOXNKYTR5Z014UGxmbzVOaDhOaDJyaVRLLWEyWWt5SWJCc0lLTHBxS2YyV09LcjFpRkVMdDM5VXE5NmhoREpGN1dfSi1tYWVVQ3J6YUFTQWh3UHY0ZnNiWGtIUzhsRDVOempHa0JtR1VsM3NxeDFEME9pSGE2cjUwbWM1STN5WHdsRnlRYzM3ODNuQ1VvNElkdk4zZmt0QVZSQUlidVpIVDFobFJMZ1M4OFB6cnV3bjVRYW4xVG9NZ2NsX2UyTjRmRENnWXNBbUlLdFpveWpwNjJUVzFoeHRITmNtWEk5TG1wYg?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "title": "Bay Area sees surge in ICE arrests at jails",
+      "category": "bayarea",
+      "publishedAt": "2026-11-19T23:34:16.000Z",
+      "summary": "Federal immigration arrests in the Bay Area have surged, with ICE targeting jail parking lots, creating tension with county governments.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/19/bay-area-sees-surge-in-immigration-arrests-with-ice-targeting-jails/"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "title": "Former council member testifies East Bay officials tried to bury story",
+      "category": "bayarea",
+      "publishedAt": "2026-11-19T23:10:14.000Z",
+      "summary": "A former council member testified that East Bay officials tried to suppress reporting on alleged misconduct during a 2023 Vietnam trade delegation attended by then-Oakland Mayor Sheng Thao.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/19/east-bay-officials-attempted-to-bury-damaging-story-former-councilmember-testifies/"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "title": "Amazon uses homepage banner and app pop-up to oppose Delivery Protection Act",
+      "category": "technology",
+      "publishedAt": "2026-11-19T22:16:37.000Z",
+      "summary": "Amazon is using its shopping platform's homepage and in-app pop-ups to campaign against the Delivery Protection Act.",
+      "sources": [
+        {
+          "name": "Ars Technica",
+          "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "title": "Alleged Russian spy indicted for surveilling Palo Alto defense workers",
+      "category": "bayarea",
+      "publishedAt": "2026-11-19T21:28:34.000Z",
+      "summary": "Federal prosecutors say Igor D'iu was recruited to surveil employees of a Silicon Valley defense company working with Ukraine.",
+      "sources": [
+        {
+          "name": "KQED News",
+          "url": "https://ww2.kqed.org/news/2026/11/19/russian-spy-stalked-palo-alto-techies-for-the-motherland-federal-prosecutors-say/"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "title": "Brazil moves to protect Chief Raoni's birthplace in the Amazon",
+      "category": "world",
+      "publishedAt": "2026-11-19T21:23:34.000Z",
+      "summary": "The Brazilian government advanced legal protection for the territory of Indigenous leader Raoni Metuktire in the Amazon rainforest.",
+      "sources": [
+        {
+          "name": "ABC News International",
+          "url": "https://abcnews.com/International/wireStory/brazils-lula-moves-protect-chief-raonis-birthplace-amazon-138301684"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "title": "Grand Theft Auto VI released",
+      "category": "technology",
+      "publishedAt": "2026-11-19T21:02:41.000Z",
+      "summary": "Rockstar Games released Grand Theft Auto VI, 13 years after the previous installment, drawing celebrations from gamers worldwide.",
+      "sources": [
+        {
+          "name": "NBC News World",
+          "url": "https://www.nbcnews.com/video/gamers-worldwide-celebrate-the-release-of-grand-theft-auto-vi-273839685821"
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "title": "San Francisco residents ticketed for parking in own driveways",
+      "category": "bayarea",
+      "publishedAt": "2026-11-19T19:23:34.000Z",
+      "summary": "San Francisco says residents parked in their driveways are breaking the law, explaining recent tickets.",
+      "sources": [
+        {
+          "name": "ABC7 Bay Area",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaDhuNlVfUjdOMkJaYkRtR2Qxb0lLVEpmZmFyM3daMnpCTkRCNnhPeVlWa3I3RVRoMXRGd2puN3lHb2NmUXl6M215Y043aTgybUVjQk5CTFBTQWtrX3JWS21DMWFTT1Rmd1VZa0NNNWJtOEc2V3NqdU1ram1PTXNPUVRBd3BRUkpkczFXVjBUc0VMXzZrdUNoMEJtNjctd2QtQVczbElrSDZuT0d0ZmZ4clQwSDBwRnBaSXfSAb8BQVVfeXFMT3ZyVGRYdXVEZ1dpT3docFdyNjBBRjhhM3ZNeXF0UzZLT2t5dTZZWDlVazZ3OU40VkpwenU4Uy0weGlCdFBRbHl0eEpxeXV6QXFmVFdpQU1nc1BaZFRqY2FGUDRheFFhRHZMczlHWGNTQzl6OTgtdWEzSVo2SG5FMEZDaUtVWWhlek5nc0dVbFFwN1lZbEdrWTlDOHU4Q2ZhcDJqSGp1UzNZU05HaUI3Mkxsd3RHSFo0ejhlSTdZS0k?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "title": "Putin says Russia will not negotiate ceasefire with Ukraine after bridge strike",
+      "category": "world",
+      "publishedAt": "2026-11-19T17:22:00.000Z",
+      "summary": "Russian President Vladimir Putin said Russia will not negotiate any limited ceasefire with Ukraine now, citing a Ukrainian strike this week on a highly symbolic bridge.",
+      "sources": [
+        {
+          "name": "CBS News World",
+          "url": "https://www.cbsnews.com/news/putin-russia-ukraine-bridge-strike/"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "title": "Bipartisan House AI caucus forms",
+      "category": "ai",
+      "publishedAt": "2026-11-19T16:33:42.000Z",
+      "summary": "A new bipartisan AI caucus has formed with about two dozen House members.",
+      "sources": [
+        {
+          "name": "Politico",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVzNrb2RheGVkLWpCN1Z0eGF4dGRlSHF1YmRPNjBNTFJjMUdPQXU5czBzWDdQZzhOeVppelctTmttbktFTDcwVzhXWGlhMmcySklwTEplOXhPc1NOZUl4cjlqdkpnTUNXcFd6SjktUHFQbjl4VVBmdE9lN3l4RFlzdVFvSFdyN3p0dlNDLTV0MUl6NlplQ21XdzVRMDVkY3hhQVp2X2htQXRDbnJBU3ZxajQ1cE9tTHBlQmxOYUZFWHV5ZnJ1?oc=5"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "title": "Israeli tanks cross Gaza ceasefire line, forcing Palestinians to flee",
+      "category": "world",
+      "publishedAt": "2026-11-19T15:58:08.000Z",
+      "summary": "An Israeli ground operation across the ceasefire's \"yellow line\" in Gaza forced Palestinians to flee makeshift shelters, which analysts said risks undermining the truce with Hamas.",
+      "sources": [
+        {
+          "name": "NBC News World",
+          "url": "https://www.nbcnews.com/world/middle-east/gaza-ceasefire-tested-israel-tanks-cross-yellow-line-ground-raid-rcna610169"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "title": "NASA Fermi data powers much faster method to find pulsars",
+      "category": "science",
+      "publishedAt": "2026-11-19T15:33:55.000Z",
+      "summary": "An international team used open data from NASA's Fermi mission to develop a method for finding pulsars about a million times faster than before.",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://science.nasa.gov/open-science/fermi-data-pulsar-discovery/"
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "title": "NASA tests RS-25 engine for future Artemis missions",
+      "category": "science",
+      "publishedAt": "2026-11-19T14:44:39.000Z",
+      "summary": "NASA fired developmental RS-25 engine No. 10001 for 200 seconds on Nov. 18 at Stennis Space Center in Mississippi.",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/image-article/latest-rs-25-engine-test-in-support-of-future-artemis-missions/"
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "title": "Voyager 1 reaches one light-day from Earth",
+      "category": "science",
+      "publishedAt": "2026-11-19T14:31:15.000Z",
+      "summary": "NASA's Voyager 1 has reached one light-day, about 16.1 billion miles, from Earth after more than 49 years of travel.",
+      "sources": [
+        {
+          "name": "NASA",
+          "url": "https://www.nasa.gov/news-release/nasas-voyager-1-makes-history-reaching-one-light-day-from-earth/"
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "title": "Anthropic raises more than $100 billion in record IPO",
+      "category": "ai",
+      "publishedAt": "2026-11-19T12:26:01.000Z",
+      "summary": "Anthropic had a record-breaking initial public offering, raising more than $100 billion despite concerns over a possible AI bubble.",
+      "sources": [
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic"
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "title": "Human liver kept alive outside the body for record seven weeks",
+      "category": "science",
+      "publishedAt": "2026-11-19T12:00:00.000Z",
+      "summary": "Researchers in Sydney say they kept a human liver alive on life support outside the body for seven weeks; details are pending publication.",
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/"
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "title": "Danish parliament approves Greenland security deal with US",
+      "category": "world",
+      "publishedAt": "2026-11-19T11:15:45.000Z",
+      "summary": "Denmark's parliament unanimously approved an agreement with Greenland and the U.S. to strengthen security in the Arctic and North Atlantic.",
+      "sources": [
+        {
+          "name": "CBS News World",
+          "url": "https://www.cbsnews.com/news/greenland-security-deal-us-denmark-danish-lawmakers/"
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "title": "Study finds fungal toxins in all 212 plant-based foods tested",
+      "category": "science",
+      "publishedAt": "2026-11-19T11:13:29.000Z",
+      "summary": "Researchers testing 212 vegan and vegetarian products sold in the UK, including meat alternatives and plant milks, found every one contained at least one fungal toxin.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118073749.htm"
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "title": "Sila signs silicon anode supply deal with Panasonic Energy",
+      "category": "technology",
+      "publishedAt": "2026-11-19T11:00:00.000Z",
+      "summary": "Battery materials company Sila signed an agreement to supply silicon-carbon anode material to Panasonic Energy, a positive sign for next-generation batteries in the U.S.",
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "title": "6-million-year-old whale had extremely asymmetrical face",
+      "category": "science",
+      "publishedAt": "2026-11-19T10:59:55.000Z",
+      "summary": "The extinct pygmy sperm whale Scaphokogia huachafo, found in Peru, may have had the most asymmetrical face of any mammal.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118065528.htm"
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "title": "Unusual bacterium found living under skin of deep-sea pigs",
+      "category": "science",
+      "publishedAt": "2026-11-19T10:33:03.000Z",
+      "summary": "Scientists discovered a bacterium with a tiny genome living beneath the skin of sea pigs, with more than a quarter of its DNA devoted to surface proteins.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118065512.htm"
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "title": "Trace sodium explains why hydrogen flames change color",
+      "category": "science",
+      "publishedAt": "2026-11-19T10:10:24.000Z",
+      "summary": "Scientists found tiny amounts of airborne sodium make hydrogen flames glow orange or appear nearly invisible, with implications for hydrogen appliance safety.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118065509.htm"
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "title": "Iran escalates attacks on ships in Strait of Hormuz",
+      "category": "world",
+      "publishedAt": "2026-11-19T09:46:24.000Z",
+      "summary": "Iran has attacked ships in the Strait of Hormuz and carried out airstrikes on several countries around the Persian Gulf.",
+      "sources": [
+        {
+          "name": "NPR World",
+          "url": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "title": "Search for Stonehenge Altar Stone's source narrows",
+      "category": "science",
+      "publishedAt": "2026-11-19T03:11:22.000Z",
+      "summary": "A new investigation ruled out several suspected sources of Stonehenge's six-ton Altar Stone, now believed to come from northeastern Scotland.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261117033914.htm"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "title": "Brain uses similar processes for free and forced choices, study finds",
+      "category": "science",
+      "publishedAt": "2026-11-19T01:21:35.000Z",
+      "summary": "New research shows the brain makes free choices and forced decisions using similar neural processes, with activity building before action.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261118065524.htm"
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "title": "New 309-million-year-old amphibian ancestor identified",
+      "category": "science",
+      "publishedAt": "2026-11-18T23:24:05.000Z",
+      "summary": "Field Museum scientists identified a previously unrecognized species of ancient amphibian ancestor from the Chicago area.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261117033928.htm"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "title": "Overtraining raised dopamine in mouse brains for days",
+      "category": "science",
+      "publishedAt": "2026-11-18T21:28:29.000Z",
+      "summary": "Mice subjected to prolonged intense training had elevated dopamine in a memory-linked brain region even 48 hours after exercise.",
+      "sources": [
+        {
+          "name": "ScienceDaily",
+          "url": "https://www.sciencedaily.com/releases/2026/11/261117033923.htm"
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "title": "Microsoft announces Windows Server 2028",
+      "category": "technology",
+      "publishedAt": "2026-11-18T18:50:35.000Z",
+      "summary": "Microsoft announced Windows Server 2028 with hardened security features.",
+      "sources": [
+        {
+          "name": "Hacker News",
+          "url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-windows-server-2028-with-hardened-security/"
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "title": "Startup says its AI nose matches human sense of smell",
+      "category": "ai",
+      "publishedAt": "2026-11-18T10:20:30.000Z",
+      "summary": "A New Jersey startup uses about 30 trained human sniffers to label odors and cross-references their notes with chemical analysis to train an AI it says smells as well as a human.",
+      "sources": [
+        {
+          "name": "MIT Technology Review",
+          "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "title": "Trinidad and Tobago denies talks with US on third-country deportees",
+      "category": "tt",
+      "publishedAt": "2026-11-18T07:31:31.000Z",
+      "summary": "The T&T government denied it is in talks with the United States to accept third-country deportees.",
+      "sources": [
+        {
+          "name": "Caribbean National Weekly",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZlBBYkdYX3FlVXFGdzNCWjNzcFVLb2pyNXp4X05zWmZfaXVZSmU4SEttbk9oU1JSbHFVS1dNTUxGUDg5U0pRQk9jM1RRZG1reHdVWEt2aXRQb0Y4Mnp0V0t1Mk93aGViMHRrUDhFYi00Mk5OaFhTU1ZpUGkzczFsVElRVERKeFdidE9SOFEtYTdjZ0JJNTZSRUZBOUJvVE5HM1ZNc2FYUk43QVFtSHRIQk5jeWhEVlU5ZTFCVw?oc=5"
+        }
+      ]
+    }
+  ]
+}
